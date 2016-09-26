@@ -30,7 +30,21 @@ nightmare
 	.then(function(body){
 		//loading body to cheerio
   		var $ = cheerio.load(body);
-		console.log($.html());
+
+  		//Looping on each div for Carterla para Hoy
+  		$('.showtimeDaily').each(function(index, element){
+  			console.log("---Titulo en Espaniol--");
+  			console.log($(this).find('h3').children().text());
+  			console.log("---Titulo en Ingles--");
+  			console.log($(this).find('h4').text());
+
+
+  			console.log($(this).find('li').children().text());
+
+  		})
+		//console.log($.html());
+
+
 
 	})
 	

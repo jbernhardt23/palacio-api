@@ -31,20 +31,54 @@ nightmare
 		// Loading HTML body on jquery cheerio
 		 var $ = cheerio.load(bodyDaily);
 
+		 //Object holder for daily information
+		 var dailyMoviesObject = {
+
+		 	spanishTitle: "",
+		 	englishTitle: "",
+		 	scheduleToday: [],
+		 	linkForImage: "",
+		 	showTimeData: []
+		 }
+
+	
+
   		//Looping on each div for seccion de Carterla para Hoy
   		$('.showtimeDaily').each(function(index, element){
+
+  			var scheduleHoursArray = [];
+
   			//spanish title
-  			console.log($(this).find('h3').children().text());
+  			//console.log($(this).find('h3').children().text());
+  			dailyMoviesObject.spanishTitle = $(this).find('h3').children().text();
   			//english title
-  			console.log($(this).find('h4').text());
+  			//console.log($(this).find('h4').text());
+  			dailyMoviesObject.englishTitle = $(this).find('h4').text();
+
+
   			//schedule for today
-  			console.log($(this).find('li').children().text() + " ");
+  			//console.log($(this).find('li').children().text() + " ");
+  			
+  			 $($(this).find('li').children()).each(function(i, currentElement){
+  					 scheduleHoursArray.push($(this).text());
+  					});
+  			dailyMoviesObject.scheduleToday = scheduleHoursArray;
+
+
+
   			//img for movie
-  			console.log($(this).find('img').attr('src'));
+  			//console.log($(this).find('img').attr('src'));
+  			dailyMoviesObject.linkForImage = $(this).find('img').attr('src');
   				//show time data such as gender, lenght, language
-  			console.log($(this).find('.showtimeData').text());
-  			var showtimeData = $(this).find('.showtimeData').text();
-  			//console.log(JSON.stringify(showtimeData.replace(/\t|\n/g, "")));
+  			//console.log($(this).find('.showtimeData').text());
+  			var showTimeDataArray = $(this).find('.showtimeData').text().replace(/\t/g, "");
+  			showTimeDataArray = showTimeDataArray.split("\n").filter(String);
+  			var temp = showTimeDataArray.toString().replace(/" "/g, "");
+  			console.log(temp);
+  			temp = temp.split(",").filter(String);
+  			dailyMoviesObject.showTimeData = showTimeDataArray;
+  	
+  			console.log(JSON.stringify(dailyMoviesObject));
   		});
 
   		nightmare
@@ -71,10 +105,15 @@ nightmare
   					$($(this).find('tr')).each(function(i, currentElement){
   				
   						if($(this).children().is('th')){
-  							console.log("true");
+  							console.log($(this).children().text());
   							//TODO scrap info 
+  						}else{
+  							console.log($(this).find('li').text());
   						}
   					});
+  					//console.log($(this).find('.showtimeData').text());
+  					console.log($(this).find('.showtimeData').text().replace(/\t|\n/g, ""));
+
   				});
   			});
 

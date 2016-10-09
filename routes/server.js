@@ -32,53 +32,44 @@ nightmare
 		 var $ = cheerio.load(bodyDaily);
 
 		 //Object holder for daily information
-		 var dailyMoviesObject = {
+		 var dailyObjectArray = [];
 
-		 	spanishTitle: "",
-		 	englishTitle: "",
-		 	scheduleToday: [],
-		 	linkForImage: "",
-		 	showTimeData: []
-		 }
-
-	
+		
 
   		//Looping on each div for seccion de Carterla para Hoy
   		$('.showtimeDaily').each(function(index, element){
 
+
+  			 //Object holder for daily information
+			 var dailyMoviesObject = {
+
+		 		spanishTitle: "",
+		 		englishTitle: "",
+		 		scheduleToday: [],
+		 		linkForImage: "",
+		 		showTimeData: []
+		 	}
+
+
   			var scheduleHoursArray = [];
 
   			//spanish title
-  			//console.log($(this).find('h3').children().text());
   			dailyMoviesObject.spanishTitle = $(this).find('h3').children().text();
   			//english title
-  			//console.log($(this).find('h4').text());
   			dailyMoviesObject.englishTitle = $(this).find('h4').text();
-
-
   			//schedule for today
-  			//console.log($(this).find('li').children().text() + " ");
-  			
   			 $($(this).find('li').children()).each(function(i, currentElement){
   					 scheduleHoursArray.push($(this).text());
   					});
   			dailyMoviesObject.scheduleToday = scheduleHoursArray;
-
-
-
   			//img for movie
-  			//console.log($(this).find('img').attr('src'));
   			dailyMoviesObject.linkForImage = $(this).find('img').attr('src');
   				//show time data such as gender, lenght, language
-  			//console.log($(this).find('.showtimeData').text());
   			var showTimeDataArray = $(this).find('.showtimeData').text().replace(/\t/g, "");
   			showTimeDataArray = showTimeDataArray.split("\n").filter(String);
-  			var temp = showTimeDataArray.toString().replace(/" "/g, "");
-  			console.log(temp);
-  			temp = temp.split(",").filter(String);
   			dailyMoviesObject.showTimeData = showTimeDataArray;
-  	
-  			console.log(JSON.stringify(dailyMoviesObject));
+  			
+  			dailyObjectArray.push(dailyMoviesObject);
   		});
 
   		nightmare
@@ -88,35 +79,77 @@ nightmare
   				return document.body.innerHTML;
   			})
   			.then(function(bodyWeekly){
-
+  				var tempArray = [];
+  				var thElementDone = false;
   				var $ = cheerio.load(bodyWeekly);
   				$('.showtimeWeekly').each(function(index, element){
+  						
+  					//Object holder for weekly information
+			 		var weeklyMoviesObject = {
+
+		 			spanishTitle: "",
+		 			englishTitle: "",
+		 			weekDaySchedule: {
+
+		 			},
+
+		 			linkForImage: "",
+		 			urlTrailer: "",
+		 			language: "",
+		 			showTimeData: []
+		 		}
+
   					//movie picture	
-  					console.log($(this).find('.showtimePic').children('img').attr('src'));
+  					weeklyMoviesObject.linkForImage = $(this).find('.showtimePic').children('img').attr('src');
+  					//console.log($(this).find('.showtimePic').children('img').attr('src'));
   					//trailer url
-  					console.log($(this).find('.showtimeTrailer').children('h2').children('a').attr('href'));
+  					weeklyMoviesObject.urlTrailer = $(this).find('.showtimeTrailer').children('h2').children('a').attr('href');
+  					//console.log($(this).find('.showtimeTrailer').children('h2').children('a').attr('href'));
   					//spanish title
-  					console.log($(this).find('h3').children('a').text());
+  					//console.log($(this).find('h3').children('a').text());
+  					weeklyMoviesObject.spanishTitle = $(this).find('h3').children('a').text();
   					//enlish title
-  					console.log($(this).find('h4').text());
+  					//console.log($(this).find('h4').text());
+  					weeklyMoviesObject.englishTitle = $(this).find('h4').text();
   					//language
-  					console.log($(this).find('strong').text());
+  					weeklyMoviesObject.language = $(this).find('strong').text();
+  					//console.log($(this).find('strong').text());
   					//full schedule
-  					$($(this).find('tr')).each(function(i, currentElement){
   				
-  						if($(this).children().is('th')){
-  							console.log($(this).children().text());
-  							//TODO scrap info 
-  						}else{
-  							console.log($(this).find('li').text());
-  						}
+  					$($(this).find('tr')).each(function(i, trElement){
+  							var count = 0;
+  				
+  						$($(this).find('th')).each(function(k, thElement){
+
+  								if($(this).text() != ""){		
+  								//weeklyMoviesObject.weekDaySchedule[$(this).text()] = [];
+  							}
+  						});
+
+  						$($(this).find('ul')).each(function(l, ulElement){
+  							
+  							if($(this).children().is('li')){
+  								count++;
+  							//	console.log("fteye");
+  								console.log(tempArray);	
+  							 	tempArray = [];
+  							}
+  							
+  						
+  							$($(this).find('li')).each(function(o, liElement){
+  									tempArray.push($(this).text());
+  							});
+  						});
+  			
   					});
-  					//console.log($(this).find('.showtimeData').text());
-  					console.log($(this).find('.showtimeData').text().replace(/\t|\n/g, ""));
+  	
+  					//console.log($(this).find('.showtimeData').text().replace(/\t|\n/g, ""));		
 
   				});
-  			});
+  								
 
+  			});
+  				
       		console.log('Done!');
 
 

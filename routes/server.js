@@ -5,6 +5,7 @@ var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
 var app     = express();
+var async = require('async');
 
 var urlWeb = "http://www.palaciodelcine.com.do/info/splash/index.aspx";
 var selectCity = "#ddl_city";
@@ -14,14 +15,28 @@ var mainSelector = "#aspnetForm";
 var flagReady = true;
 
 var citiesObject = ["19","21","22","23"];
-var complexObect = [];
+
+var complexObject = {
+
+	19:["11","12","13","14","15"],
+	21:["16"],
+	22:["17"],
+	23:["18","19"]
+};
+
+
+async.eachOfSeries(complexObject, function(item, keyDo, next){
+
+	async.eachOfSeries(item, function(items, keyDos, nexts){
+	
+		console.log(items);
 
 nightmare
 .goto(urlWeb)
 .wait(selectCity)
-.select(selectCity, '19')
+.select(selectCity, keyDo.toString())
 .wait(8000)
-.select(selectTheater, '12')
+.select(selectTheater, items)
 .wait(1000)
 .click(enterBtn)
 .wait(mainSelector)
@@ -202,27 +217,32 @@ nightmare
 
   					nightmare
   					.goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
-  					.wait()
+  					.wait('a[href="../index.aspx?c=true"]')
   					.click('a[href="../index.aspx?c=true"]')
   					.run(function (err, nightmare) {
       					if (err) return console.log(err);
      					 console.log('Back to home');
+     					 next()
+
     				});
-  					
-
-
+  										
   			});
 
 
   		});
 
-
+  			
   			console.log('Done!');
+  		});
+		
 
-
-  	});
-
-
+	});	
+	
+	
+	}, function(err){
+		console.log("done iterating")
+	});	
+	
 
 
 

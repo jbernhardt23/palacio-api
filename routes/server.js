@@ -26,6 +26,7 @@ var complexObject = {
 
 
 async.eachOfSeries(complexObject, function(item, keyDo, next){
+	console.log(keyDo);
 
 	async.eachOfSeries(item, function(items, keyDos, nexts){
 	
@@ -89,10 +90,10 @@ nightmare
 
   				dailyObjectArray.push(dailyMoviesObject);
   			});
-
+  		//moving on to weeKlyMovies
   		nightmare
   		.goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
-  			.wait() //TODO have to wait for the DOM to be ready
+  			.wait('.showtimeWeekly') //TODO have to wait for the DOM to be ready
   			.evaluate(function(){
   				return document.body.innerHTML;
   			})
@@ -173,12 +174,12 @@ nightmare
 
   					// console.log(weeklyMoviesObject);
   				});	
-
+  				//Moving on to cines page
   				nightmare
   				.goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
-  				.wait() //TODO have to wait for the DOM to be ready
+  				.wait('.contentBlock')
   				.evaluate(function(){
-  				return document.body.innerHTML;
+  					return document.body.innerHTML;
   				})
   				.then(function(cines){
   				var $ = cheerio.load(cines);
@@ -186,7 +187,7 @@ nightmare
 
   				$('.contentBlock').each(function(index, element){
   					var count = 0;
-
+  					//Weekely object 
   					var theatherInformationObject = {
 
   						theatherName: "",
@@ -196,7 +197,6 @@ nightmare
 
   					}
   					//Theather name
-  					//theatherInformationObject.theatherName = $(this).find('h3').text();
 
   					//Description and prices
   					var tempString = $(this).find('p').text().replace(/\t/g, "");
@@ -210,37 +210,44 @@ nightmare
   						count++;
 
   					}
-
   					console.log(theatherInformationObject);
 
   				});
-
+  					//nighmare to go 
   					nightmare
-  					.goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
-  					.wait('a[href="../index.aspx?c=true"]')
+  					.goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
+  					.wait()
   					.click('a[href="../index.aspx?c=true"]')
-  					.run(function (err, nightmare) {
-      					if (err) return console.log(err);
+  					.evaluate(function(){
+  						return document.body.innerHTML;
+  					})
+  					.then(function (body) {
      					 console.log('Back to home');
-     					 next()
+     					 //executing next item on loop
+     					 	 nexts();
+     			
 
     				});
   										
+  				});
+
   			});
 
-
   		});
+			
 
-  			
-  			console.log('Done!');
-  		});
+    }, function(err){
+    	if (err) return console.log(err);
+    	console.log("done iterating inner")
+    	 //executing next item on loop
+    	next();
+
+    });	
+	
 		
-
-	});	
-	
-	
-	}, function(err){
-		console.log("done iterating")
+	}, function(err2){
+		if (err2) return console.log(err);
+		console.log("done iterating outer")
 	});	
 	
 

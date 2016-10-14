@@ -1,5 +1,7 @@
 var Nightmare = require('nightmare');
-var nightmare = Nightmare({show:true})
+var nightmare = Nightmare({
+	show:true
+});
 var express = require('express');
 var fs = require('fs');
 var request = require('request');
@@ -12,9 +14,18 @@ var selectCity = "#ddl_city";
 var selectTheater = "#ddl_theater";
 var enterBtn = "#btn_enter";
 var mainSelector = "#aspnetForm";
-var flagReady = true;
 
-var citiesObject = ["19","21","22","23"];
+
+var dailyObjectArray;
+var weeklyMoviesObject;
+var theatherInformationObject;
+
+
+var currentCity ;
+var currentTheather = {
+
+};
+var currentTheatherName;
 
 var complexObject = {
 
@@ -24,9 +35,17 @@ var complexObject = {
 	23:["18","19"]
 };
 
+var cinesObject = {
+
+	
+
+};
+
 
 async.eachOfSeries(complexObject, function(item, keyDo, next){
 	console.log(keyDo);
+
+
 
 	async.eachOfSeries(item, function(items, keyDos, nexts){
 	
@@ -53,14 +72,16 @@ nightmare
 		 //Object holder for daily information
 		 var dailyObjectArray = [];
 
-
+		  var currentTheatherName = $('span[style="font-weight:bold;font-style: italic"]').text();
+		  var currentCity = $('#contHeaderCity').text().replace("cambiar ciudad >>", "");
+		  currentCity = currentCity.replace(/\t|\n/g,"").trim();
 
   		//Looping on each div for seccion de Carterla para Hoy
   		$('.showtimeDaily').each(function(index, element){
 
 
   			 //Object holder for daily information
-  			 var dailyMoviesObject = {
+  			  dailyMoviesObject = {
 
   			 	spanishTitle: "",
   			 	englishTitle: "",
@@ -68,6 +89,7 @@ nightmare
   			 	linkForImage: "",
   			 	showTimeData: []
   			 }
+
 
 
   			 var scheduleHoursArray = [];
@@ -103,7 +125,7 @@ nightmare
   				$('.showtimeWeekly').each(function(index, element){
 
   					//Object holder for weekly information
-  					var weeklyMoviesObject = {
+  					weeklyMoviesObject = {
 
   						spanishTitle: "",
   						englishTitle: "",
@@ -188,7 +210,7 @@ nightmare
   				$('.contentBlock').each(function(index, element){
   					var count = 0;
   					//Weekely object 
-  					var theatherInformationObject = {
+  					 theatherInformationObject = {
 
   						theatherName: "",
   						address: "",
@@ -223,31 +245,64 @@ nightmare
   					})
   					.then(function (body) {
      					 console.log('Back to home');
-     					 //executing next item on loop
+     						//assigning information to current theather
+     					 currentTheather[currentTheatherName] = [dailyObjectArray, weeklyMoviesObject, theatherInformationObject];
+     					 //passing theather obhect to current city
+     					 cinesObject[currentCity] = currentTheather;
+     					 console.log(cinesObject);
+     					 			 //executing next item on loop
      					 	 nexts();
      			
 
+    				})
+    				.catch(function (error) {
+    					console.error('Search on last nightmare instance, Going back: ', error);
+
     				});
   										
-  				});
+  				})
+  				.catch(function (error) {
+    					console.error('Error on Search cines information :', error);
 
-  			});
+    			});
 
-  		});
+  			})
+  			.catch(function (error) {
+    					console.error('Error on Search weekly info :', error);
+
+    		});
+
+  		})
+		.catch(function (error) {
+    		console.error('Error on searh daily info:', error);
+
+    	});
 			
 
     }, function(err){
     	if (err) return console.log(err);
-    	console.log("done iterating inner")
+    	console.log("Done working with:" + currentCity);
+
     	 //executing next item on loop
     	next();
+    	//cleaning current theather object to proceed with the other city
+    	currentTheather = {
+
+		};
 
     });	
 	
 		
 	}, function(err2){
 		if (err2) return console.log(err);
-		console.log("done iterating outer")
+		console.log("Done!!");
+		var finalObject = JSON.stringify(cinesObject, null, 4);
+		fs.writeFile('moviesData.json', finalObject, function(err){
+			  	if (err) return console.log(err);
+				console.log('File successfully written! - Check your project directory for the moviesData.json file');
+
+		});
+
 	});	
 	
 

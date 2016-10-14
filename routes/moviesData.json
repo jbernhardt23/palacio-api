@@ -1,0 +1,596 @@
+{
+    "Santo Domingo": {
+        "ÁGORA MALL": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "18:30",
+                    "19:35",
+                    "20:30",
+                    "21:35"
+                ],
+                "linkForImage": "../images/posters/11_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:35",
+                        "20:35"
+                    ],
+                    "Viernes": [
+                        "18:35",
+                        "20:35"
+                    ],
+                    "Sabado": [
+                        "16:45",
+                        "18:45",
+                        "20:45"
+                    ],
+                    "Domingo": [
+                        "16:45",
+                        "18:45",
+                        "20:45"
+                    ],
+                    "Lunes": [
+                        "18:35",
+                        "20:35"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ],
+        "BELLA VISTA MALL ": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "19:35",
+                    "21:35"
+                ],
+                "linkForImage": "../images/posters/12_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:30",
+                        "20:30"
+                    ],
+                    "Viernes": [
+                        "18:30",
+                        "20:30"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ],
+        "BLUEMALL ": [
+            {
+                "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                "scheduleToday": [
+                    "18:45",
+                    "18:45",
+                    "21:15",
+                    "21:15"
+                ],
+                "linkForImage": "../images/posters/13_3066.jpg",
+                "showTimeData": [
+                    "En InglesSubtitulada",
+                    "S/R ",
+                    "Aventura ",
+                    "130 min "
+                ]
+            },
+            {
+                "spanishTitle": "THE GODFATHER (2D)",
+                "englishTitle": "EL PADRINO (2D)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:30",
+                        "21:45"
+                    ],
+                    "Viernes": [
+                        "18:30",
+                        "21:45"
+                    ],
+                    "Sabado": [
+                        "17:00",
+                        "20:20"
+                    ],
+                    "Domingo": [
+                        "17:00",
+                        "20:20"
+                    ],
+                    "Lunes": [
+                        "18:30",
+                        "21:45"
+                    ],
+                    "Martes": [
+                        "18:30",
+                        "21:45"
+                    ],
+                    "Miercoles": [
+                        "18:30",
+                        "21:45"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3079&tipoimagen=poster",
+                "language": "En Ingles Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Drama ",
+                    "         170 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ],
+        "SAMBIL ": [
+            {
+                "spanishTitle": "EL ESPECIALISTA 2 (2D)",
+                "englishTitle": "MECHANIC:RESURRECTION (2D)",
+                "scheduleToday": [
+                    "19:30",
+                    "21:35"
+                ],
+                "linkForImage": "../images/posters/14_3053.jpg",
+                "showTimeData": [
+                    "En InglesSubtitulada",
+                    "R/16 ",
+                    "Acción ",
+                    "98 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "19:30",
+                        "21:30"
+                    ],
+                    "Viernes": [
+                        "19:30",
+                        "21:30"
+                    ],
+                    "Sabado": [
+                        "17:35",
+                        "19:35",
+                        "21:35"
+                    ],
+                    "Domingo": [
+                        "17:35",
+                        "19:35",
+                        "21:35"
+                    ],
+                    "Lunes": [
+                        "19:30",
+                        "21:30"
+                    ],
+                    "Martes": [
+                        "19:30",
+                        "21:30"
+                    ],
+                    "Miercoles": [
+                        "19:30",
+                        "21:30"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ],
+        "VENEZUELA": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "19:00",
+                    "19:30",
+                    "20:00",
+                    "21:30",
+                    "22:00"
+                ],
+                "linkForImage": "../images/posters/15_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "19:00",
+                        "19:25",
+                        "21:00",
+                        "21:25"
+                    ],
+                    "Viernes": [
+                        "19:00",
+                        "19:25",
+                        "21:00",
+                        "21:25"
+                    ],
+                    "Sabado": [
+                        "16:15",
+                        "17:00",
+                        "18:15",
+                        "19:00",
+                        "20:15",
+                        "21:00"
+                    ],
+                    "Domingo": [
+                        "16:15",
+                        "17:00",
+                        "18:15",
+                        "19:00",
+                        "20:15",
+                        "21:00"
+                    ],
+                    "Lunes": [
+                        "19:00",
+                        "19:25",
+                        "21:00",
+                        "21:25"
+                    ],
+                    "Martes": [
+                        "19:00",
+                        "19:25",
+                        "21:00",
+                        "21:25"
+                    ],
+                    "Miercoles": [
+                        "19:00",
+                        "19:25",
+                        "21:00",
+                        "21:25"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ]
+    },
+    "Santiago": {
+        "BELLA TERRA MALL ": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "19:15",
+                    "21:15"
+                ],
+                "linkForImage": "../images/posters/16_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:30",
+                        "19:00",
+                        "21:35"
+                    ],
+                    "Viernes": [
+                        "18:30",
+                        "19:00",
+                        "21:35"
+                    ],
+                    "Sabado": [
+                        "16:15",
+                        "16:45",
+                        "19:20",
+                        "22:00"
+                    ],
+                    "Domingo": [
+                        "16:15",
+                        "16:45",
+                        "19:20",
+                        "22:00"
+                    ],
+                    "Lunes": [
+                        "18:30",
+                        "19:00",
+                        "21:35"
+                    ],
+                    "Martes": [
+                        "18:30",
+                        "19:00",
+                        "21:35"
+                    ],
+                    "Miercoles": [
+                        "18:30",
+                        "19:00",
+                        "21:35"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ]
+    },
+    "San Francisco de Macorís": {
+        "SAN FRANCISCO DE MACORÍS": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "18:50",
+                    "19:15",
+                    "21:15"
+                ],
+                "linkForImage": "../images/posters/17_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "THE ACCOUNTANT (2D)",
+                "englishTitle": "EL CONTABLE (2D",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:30",
+                        "21:05"
+                    ],
+                    "Viernes": [
+                        "18:30",
+                        "21:05"
+                    ],
+                    "Sabado": [
+                        "16:30",
+                        "19:05",
+                        "21:40"
+                    ],
+                    "Domingo": [
+                        "16:30",
+                        "19:05",
+                        "21:40"
+                    ],
+                    "Lunes": [
+                        "18:30",
+                        "21:05"
+                    ],
+                    "Martes": [
+                        "18:30",
+                        "21:05"
+                    ],
+                    "Miercoles": [
+                        "18:30",
+                        "21:05"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                "language": "En Ingles Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         130 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ]
+    },
+    "Higuey": {
+        "HIGUEY PLAZA TAVERAS": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "19:15",
+                    "21:15"
+                ],
+                "linkForImage": "../images/posters/18_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "21:00"
+                    ],
+                    "Viernes": [
+                        "21:00"
+                    ],
+                    "Sabado": [
+                        "18:30",
+                        "21:00"
+                    ],
+                    "Domingo": [
+                        "18:30",
+                        "21:00"
+                    ],
+                    "Lunes": [
+                        "21:00"
+                    ],
+                    "Martes": [
+                        "21:00"
+                    ],
+                    "Miercoles": [
+                        "21:00"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                "language": "En Español Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         80 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ],
+        "HIGUEY MULTIPLAZA": [
+            {
+                "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                "scheduleToday": [
+                    "18:40",
+                    "20:40"
+                ],
+                "linkForImage": "../images/posters/19_3055.jpg",
+                "showTimeData": [
+                    "En Español",
+                    "R/14 ",
+                    "Comedia ",
+                    "96 min "
+                ]
+            },
+            {
+                "spanishTitle": "THE ACCOUNTANT (2D)",
+                "englishTitle": "EL CONTABLE (2D",
+                "weekDaySchedule": {
+                    "Jueves": [
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Viernes": [
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Sabado": [
+                        "16:00",
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Domingo": [
+                        "16:00",
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Lunes": [
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Martes": [
+                        "18:35",
+                        "21:10"
+                    ],
+                    "Miercoles": [
+                        "18:35",
+                        "21:10"
+                    ]
+                },
+                "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                "language": "En Ingles Subtitulada",
+                "showTimeData": [
+                    "R/16 ",
+                    "         Acción ",
+                    "         130 min"
+                ]
+            },
+            {
+                "theatherName": "BÁVARO: 3 Salas ",
+                "address": "Centro Comercial Palma Real Shopping Village ",
+                "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+            }
+        ]
+    }
+}

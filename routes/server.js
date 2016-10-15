@@ -20,6 +20,10 @@ var dailyObjectArray;
 var weeklyMoviesObject;
 var theatherInformationObject;
 
+var finalDaily;
+var finalWeekly;
+var finalTheatherInfo;
+
 
 var currentCity ;
 var currentTheather = {
@@ -112,6 +116,13 @@ nightmare
 
   				dailyObjectArray.push(dailyMoviesObject);
   			});
+
+  			finalDaily = {
+  				daily: dailyObjectArray
+
+  			}
+
+
   		//moving on to weeKlyMovies
   		nightmare
   		.goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
@@ -121,6 +132,7 @@ nightmare
   			})
   			.then(function(bodyWeekly){
   				var tempArray = [];
+  				var weeklyArray = [];
   				var $ = cheerio.load(bodyWeekly);
   				$('.showtimeWeekly').each(function(index, element){
 
@@ -193,9 +205,15 @@ nightmare
   						}
 
   					});
-
+  					weeklyArray.push(weeklyMoviesObject);
+  					
   					// console.log(weeklyMoviesObject);
   				});	
+
+  				finalWeekly = {
+  						weekly: weeklyArray
+  					}
+
   				//Moving on to cines page
   				nightmare
   				.goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
@@ -205,6 +223,7 @@ nightmare
   				})
   				.then(function(cines){
   				var $ = cheerio.load(cines);
+  				var cinesArray = [];
 
 
   				$('.contentBlock').each(function(index, element){
@@ -232,9 +251,17 @@ nightmare
   						count++;
 
   					}
-  					console.log(theatherInformationObject);
 
+  					console.log(theatherInformationObject);
+  					cinesArray.push(theatherInformationObject);
+
+  			
   				});
+
+  					finalTheatherInfo = {
+  						theatherInfo: cinesArray 
+  					}
+
   					//nighmare to go 
   					nightmare
   					.goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
@@ -246,7 +273,7 @@ nightmare
   					.then(function (body) {
      					 console.log('Back to home');
      						//assigning information to current theather
-     					 currentTheather[currentTheatherName] = [dailyObjectArray, weeklyMoviesObject, theatherInformationObject];
+     					 currentTheather[currentTheatherName] = [finalDaily, finalWeekly, finalTheatherInfo];
      					 //passing theather obhect to current city
      					 cinesObject[currentCity] = currentTheather;
      					 console.log(cinesObject);

@@ -3428,38 +3428,114 @@
             {
                 "weekly": [
                     {
+                        "spanishTitle": "EL ESPECIALISTA 2 (2D)",
+                        "englishTitle": "MECHANIC:RESURRECTION (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "17:35",
+                                "19:40",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "17:35",
+                                "19:40",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3053&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=QF903RaKLvs",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         98 min"
+                        ]
+                    },
+                    {
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "18:40",
-                                "20:40"
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
                             ],
                             "Viernes": [
-                                "18:40",
-                                "20:40"
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
                             ],
                             "Sabado": [
-                                "16:30",
-                                "18:30",
-                                "20:30"
+                                "16:15",
+                                "16:45",
+                                "17:15",
+                                "18:15",
+                                "18:45",
+                                "19:15",
+                                "20:15",
+                                "20:45",
+                                "21:15"
                             ],
                             "Domingo": [
-                                "16:30",
-                                "18:30",
-                                "20:30"
+                                "16:15",
+                                "16:45",
+                                "17:15",
+                                "18:15",
+                                "18:45",
+                                "19:15",
+                                "20:15",
+                                "20:45",
+                                "21:15"
                             ],
                             "Lunes": [
-                                "18:40",
-                                "20:40"
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
                             ],
                             "Martes": [
-                                "18:40",
-                                "20:40"
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
                             ],
                             "Miercoles": [
-                                "18:40",
-                                "20:40"
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
@@ -3472,38 +3548,103 @@
                         ]
                     },
                     {
+                        "spanishTitle": "CIGUEÑAS (2D)",
+                        "englishTitle": "STORK (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:15"
+                            ],
+                            "Viernes": [
+                                "18:15"
+                            ],
+                            "Sabado": [
+                                "16:00"
+                            ],
+                            "Domingo": [
+                                "16:00"
+                            ],
+                            "Lunes": [
+                                "18:15"
+                            ],
+                            "Martes": [
+                                "18:15"
+                            ],
+                            "Miercoles": [
+                                "18:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3061&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Caricaturas ",
+                            "         90 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:45"
+                            ],
+                            "Viernes": [
+                                "18:45"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "18:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "18:30"
+                            ],
+                            "Lunes": [
+                                "18:45"
+                            ],
+                            "Martes": [
+                                "18:45"
+                            ],
+                            "Miercoles": [
+                                "18:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3062&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         90 min"
+                        ]
+                    },
+                    {
                         "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "19:00",
-                                "21:30"
+                                "20:15"
                             ],
                             "Viernes": [
-                                "19:00",
-                                "21:30"
+                                "20:15"
                             ],
                             "Sabado": [
-                                "16:30",
-                                "19:00",
-                                "21:30"
+                                "18:00",
+                                "20:30"
                             ],
                             "Domingo": [
-                                "16:30",
-                                "19:00",
-                                "21:30"
+                                "18:00",
+                                "20:30"
                             ],
                             "Lunes": [
-                                "19:00",
-                                "21:30"
+                                "20:15"
                             ],
                             "Martes": [
-                                "19:00",
-                                "21:30"
+                                "20:15"
                             ],
                             "Miercoles": [
-                                "19:00",
-                                "21:30"
+                                "20:15"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3065&tipoimagen=poster",
@@ -3516,46 +3657,83 @@
                         ]
                     },
                     {
-                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
-                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "19:10",
-                                "21:30"
+                                "18:40",
+                                "21:10"
                             ],
                             "Viernes": [
-                                "19:10",
-                                "21:30"
+                                "18:40",
+                                "21:10"
                             ],
                             "Sabado": [
-                                "17:00",
-                                "19:10",
-                                "21:20"
+                                "16:30",
+                                "19:00",
+                                "21:30"
                             ],
                             "Domingo": [
-                                "17:00",
-                                "19:10",
-                                "21:20"
+                                "16:30",
+                                "19:00",
+                                "21:30"
                             ],
                             "Lunes": [
-                                "19:10",
-                                "21:30"
+                                "18:40",
+                                "21:10"
                             ],
                             "Martes": [
-                                "19:10",
-                                "21:30"
+                                "18:40",
+                                "21:10"
                             ],
                             "Miercoles": [
-                                "19:10",
-                                "21:30"
+                                "18:40",
+                                "21:10"
                             ]
                         },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3066&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
                         "language": "En Ingles Subtitulada",
                         "showTimeData": [
                             "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CARIBBEAN FANTASY (2D)",
+                        "englishTitle": "CARIBBEAN FANTASY (2D) ",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:40"
+                            ],
+                            "Viernes": [
+                                "18:40"
+                            ],
+                            "Sabado": [
+                                "17:15",
+                                "18:40"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "18:40"
+                            ],
+                            "Lunes": [
+                                "18:40"
+                            ],
+                            "Martes": [
+                                "18:40"
+                            ],
+                            "Miercoles": [
+                                "18:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3072&tipoimagen=poster",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
                             "         Drama ",
-                            "         110 min"
+                            "         60 min"
                         ]
                     },
                     {
@@ -3564,33 +3742,63 @@
                         "weekDaySchedule": {
                             "Jueves": [
                                 "18:35",
-                                "21:10"
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
                             ],
                             "Viernes": [
                                 "18:35",
-                                "21:10"
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
                             ],
                             "Sabado": [
                                 "16:00",
+                                "16:35",
                                 "18:35",
-                                "21:10"
+                                "19:10",
+                                "20:00",
+                                "20:30",
+                                "21:10",
+                                "21:45"
                             ],
                             "Domingo": [
                                 "16:00",
+                                "16:35",
                                 "18:35",
-                                "21:10"
+                                "19:10",
+                                "20:00",
+                                "20:30",
+                                "21:10",
+                                "21:45"
                             ],
                             "Lunes": [
                                 "18:35",
-                                "21:10"
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
                             ],
                             "Martes": [
                                 "18:35",
-                                "21:10"
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
                             ],
                             "Miercoles": [
                                 "18:35",
-                                "21:10"
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
@@ -3599,6 +3807,49 @@
                             "R/16 ",
                             "         Acción ",
                             "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "17:35",
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Domingo": [
+                                "17:35",
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
                         ]
                     }
                 ]

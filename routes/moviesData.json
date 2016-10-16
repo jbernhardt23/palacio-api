@@ -7,8 +7,9 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:35",
-                            "20:35"
+                            "16:45",
+                            "18:45",
+                            "20:45"
                         ],
                         "linkForImage": "../images/posters/11_3077.jpg",
                         "showTimeData": [
@@ -22,9 +23,11 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "18:30",
-                            "20:45",
-                            "21:00"
+                            "17:00",
+                            "19:30",
+                            "20:00",
+                            "21:30",
+                            "22:30"
                         ],
                         "linkForImage": "../images/posters/11_3075.jpg",
                         "showTimeData": [
@@ -38,8 +41,9 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
-                            "19:15",
-                            "21:25"
+                            "16:20",
+                            "18:30",
+                            "20:40"
                         ],
                         "linkForImage": "../images/posters/11_3070.jpg",
                         "showTimeData": [
@@ -53,6 +57,7 @@
                         "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
                         "scheduleToday": [
+                            "16:30",
                             "19:00"
                         ],
                         "linkForImage": "../images/posters/11_3065.jpg",
@@ -67,7 +72,7 @@
                         "spanishTitle": "MISS PEREGRINE´S Y NIÑOS (2D)",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (SUB)",
                         "scheduleToday": [
-                            "21:30"
+                            "17:00"
                         ],
                         "linkForImage": "../images/posters/11_3064.jpg",
                         "showTimeData": [
@@ -81,7 +86,7 @@
                         "spanishTitle": "LOS 7 MAGNIFICOS (2D)",
                         "englishTitle": "THE MAGNIFICEN 7 (2D)",
                         "scheduleToday": [
-                            "18:15"
+                            "22:10"
                         ],
                         "linkForImage": "../images/posters/11_3058.jpg",
                         "showTimeData": [
@@ -95,10 +100,12 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:30",
-                            "19:35",
-                            "20:30",
-                            "21:35"
+                            "17:00",
+                            "17:30",
+                            "19:30",
+                            "19:45",
+                            "21:30",
+                            "22:00"
                         ],
                         "linkForImage": "../images/posters/11_3055.jpg",
                         "showTimeData": [
@@ -129,20 +136,20 @@
                                 "21:35"
                             ],
                             "Sabado": [
-                                "17:30",
                                 "17:00",
+                                "17:30",
                                 "19:30",
-                                "20:00",
+                                "19:45",
                                 "21:30",
-                                "21:50"
+                                "22:00"
                             ],
                             "Domingo": [
                                 "17:00",
                                 "17:30",
                                 "19:30",
-                                "20:00",
+                                "19:45",
                                 "21:30",
-                                "21:50"
+                                "22:00"
                             ],
                             "Lunes": [
                                 "18:30",
@@ -187,10 +194,10 @@
                                 "18:15"
                             ],
                             "Sabado": [
-                                "21:50"
+                                "22:10"
                             ],
                             "Domingo": [
-                                "21:50"
+                                "22:10"
                             ],
                             "Lunes": [
                                 "18:15"
@@ -216,12 +223,10 @@
                                 "21:30"
                             ],
                             "Sabado": [
-                                "17:00",
-                                "21:30"
+                                "17:00"
                             ],
                             "Domingo": [
-                                "17:00",
-                                "21:30"
+                                "17:00"
                             ],
                             "Lunes": [
                                 "19:00",
@@ -317,13 +322,15 @@
                                 "17:00",
                                 "19:30",
                                 "20:00",
-                                "22:20"
+                                "21:30",
+                                "22:30"
                             ],
                             "Domingo": [
                                 "17:00",
                                 "19:30",
-                                "19:40",
-                                "22:15"
+                                "20:00",
+                                "21:30",
+                                "22:30"
                             ],
                             "Lunes": [
                                 "18:30",
@@ -448,8 +455,9 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:30",
-                            "20:30"
+                            "17:00",
+                            "19:00",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/12_3077.jpg",
                         "showTimeData": [
@@ -463,9 +471,11 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "19:05",
-                            "20:45",
-                            "21:25"
+                            "17:10",
+                            "18:30",
+                            "19:30",
+                            "20:50",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/12_3075.jpg",
                         "showTimeData": [
@@ -479,7 +489,7 @@
                         "spanishTitle": "CAFE SOCITY (2D)",
                         "englishTitle": "CAFE SOCITY (2D)",
                         "scheduleToday": [
-                            "18:45"
+                            "16:30"
                         ],
                         "linkForImage": "../images/posters/12_3074.jpg",
                         "showTimeData": [
@@ -493,8 +503,9 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
-                            "18:40",
-                            "20:50"
+                            "16:40",
+                            "18:50",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/12_3070.jpg",
                         "showTimeData": [
@@ -508,8 +519,9 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "19:35",
-                            "21:35"
+                            "17:20",
+                            "19:20",
+                            "21:20"
                         ],
                         "linkForImage": "../images/posters/12_3055.jpg",
                         "showTimeData": [
@@ -753,8 +765,8 @@
                         "spanishTitle": "THE GODFATHER (2D)",
                         "englishTitle": "EL PADRINO (2D)",
                         "scheduleToday": [
-                            "18:30",
-                            "21:45"
+                            "17:00",
+                            "20:20"
                         ],
                         "linkForImage": "../images/posters/13_3079.jpg",
                         "showTimeData": [
@@ -768,8 +780,9 @@
                         "spanishTitle": "FREE STATE OF JONES (2D)",
                         "englishTitle": "FREE STATE OF JONES (2D)",
                         "scheduleToday": [
-                            "18:30",
-                            "21:00"
+                            "16:40",
+                            "19:10",
+                            "21:40"
                         ],
                         "linkForImage": "../images/posters/13_3076.jpg",
                         "showTimeData": [
@@ -783,12 +796,16 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "19:05",
-                            "19:05",
-                            "20:35",
-                            "20:35",
-                            "21:40",
-                            "21:40"
+                            "17:00",
+                            "17:00",
+                            "18:20",
+                            "18:20",
+                            "19:35",
+                            "19:35",
+                            "20:40",
+                            "20:40",
+                            "22:00",
+                            "22:00"
                         ],
                         "linkForImage": "../images/posters/13_3075.jpg",
                         "showTimeData": [
@@ -802,8 +819,9 @@
                         "spanishTitle": "CAFE SOCITY (2D)",
                         "englishTitle": "CAFE SOCITY (2D)",
                         "scheduleToday": [
-                            "18:35",
-                            "18:35",
+                            "16:20",
+                            "16:20",
+                            "17:45",
                             "19:45",
                             "21:45"
                         ],
@@ -819,6 +837,8 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (IMAX)",
                         "englishTitle": "DEEPWATER HORIZON (IMAX)",
                         "scheduleToday": [
+                            "17:00",
+                            "17:00",
                             "19:10",
                             "19:10",
                             "21:20",
@@ -836,10 +856,12 @@
                         "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
                         "scheduleToday": [
-                            "18:45",
-                            "18:45",
-                            "21:15",
-                            "21:15"
+                            "17:00",
+                            "17:00",
+                            "19:30",
+                            "19:30",
+                            "22:00",
+                            "22:00"
                         ],
                         "linkForImage": "../images/posters/13_3066.jpg",
                         "showTimeData": [
@@ -1163,7 +1185,7 @@
                             ],
                             "Sabado": [
                                 "17:00",
-                                "20:20"
+                                "20:15"
                             ],
                             "Domingo": [
                                 "17:00",
@@ -1264,8 +1286,9 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "19:30",
-                            "21:30"
+                            "17:35",
+                            "19:35",
+                            "21:35"
                         ],
                         "linkForImage": "../images/posters/14_3077.jpg",
                         "showTimeData": [
@@ -1279,12 +1302,14 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
+                            "16:00",
+                            "16:35",
                             "18:35",
-                            "19:15",
-                            "20:05",
-                            "20:45",
+                            "19:10",
+                            "20:00",
+                            "20:30",
                             "21:10",
-                            "21:50"
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/14_3075.jpg",
                         "showTimeData": [
@@ -1298,6 +1323,7 @@
                         "spanishTitle": "CARIBBEAN FANTASY (2D)",
                         "englishTitle": "CARIBBEAN FANTASY (2D) ",
                         "scheduleToday": [
+                            "17:15",
                             "18:40"
                         ],
                         "linkForImage": "../images/posters/14_3072.jpg",
@@ -1312,8 +1338,9 @@
                         "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
                         "scheduleToday": [
-                            "18:40",
-                            "21:10"
+                            "16:30",
+                            "19:00",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/14_3066.jpg",
                         "showTimeData": [
@@ -1327,7 +1354,8 @@
                         "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
                         "scheduleToday": [
-                            "20:15"
+                            "18:00",
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/14_3065.jpg",
                         "showTimeData": [
@@ -1341,7 +1369,8 @@
                         "spanishTitle": "CIGUEÑAS (3D)",
                         "englishTitle": "STORK (3D)",
                         "scheduleToday": [
-                            "18:45"
+                            "16:30",
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/14_3062.jpg",
                         "showTimeData": [
@@ -1355,7 +1384,7 @@
                         "spanishTitle": "CIGUEÑAS (2D)",
                         "englishTitle": "STORK (2D)",
                         "scheduleToday": [
-                            "18:15"
+                            "16:00"
                         ],
                         "linkForImage": "../images/posters/14_3061.jpg",
                         "showTimeData": [
@@ -1369,12 +1398,15 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:30",
+                            "16:15",
+                            "16:45",
+                            "17:15",
+                            "18:15",
+                            "18:45",
                             "19:15",
-                            "20:00",
-                            "20:30",
-                            "21:15",
-                            "22:00"
+                            "20:15",
+                            "20:45",
+                            "21:15"
                         ],
                         "linkForImage": "../images/posters/14_3055.jpg",
                         "showTimeData": [
@@ -1388,8 +1420,9 @@
                         "spanishTitle": "EL ESPECIALISTA 2 (2D)",
                         "englishTitle": "MECHANIC:RESURRECTION (2D)",
                         "scheduleToday": [
-                            "19:30",
-                            "21:35"
+                            "17:35",
+                            "19:40",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/14_3053.jpg",
                         "showTimeData": [
@@ -1902,10 +1935,12 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
+                            "16:15",
+                            "17:00",
+                            "18:15",
                             "19:00",
-                            "19:25",
-                            "21:00",
-                            "21:25"
+                            "20:15",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/15_3077.jpg",
                         "showTimeData": [
@@ -1919,9 +1954,11 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "19:00",
-                            "21:00",
-                            "21:35"
+                            "16:10",
+                            "18:00",
+                            "18:45",
+                            "20:35",
+                            "21:20"
                         ],
                         "linkForImage": "../images/posters/15_3075.jpg",
                         "showTimeData": [
@@ -1935,6 +1972,7 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
+                            "17:00",
                             "19:10",
                             "21:20"
                         ],
@@ -1950,6 +1988,7 @@
                         "spanishTitle": "CIGUEÑAS (3D)",
                         "englishTitle": "STORK (3D)",
                         "scheduleToday": [
+                            "17:15",
                             "19:15",
                             "21:15"
                         ],
@@ -1965,11 +2004,13 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "19:00",
-                            "19:30",
-                            "20:00",
-                            "21:30",
-                            "22:00"
+                            "16:00",
+                            "16:30",
+                            "17:45",
+                            "18:30",
+                            "19:45",
+                            "20:30",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/15_3055.jpg",
                         "showTimeData": [
@@ -2324,9 +2365,10 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:30",
-                            "19:00",
-                            "21:35"
+                            "16:15",
+                            "17:30",
+                            "19:30",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/16_3077.jpg",
                         "showTimeData": [
@@ -2340,9 +2382,11 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "18:45",
-                            "20:30",
-                            "21:10"
+                            "16:15",
+                            "18:15",
+                            "18:50",
+                            "20:50",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/16_3075.jpg",
                         "showTimeData": [
@@ -2356,8 +2400,9 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
-                            "18:30",
-                            "20:40"
+                            "17:00",
+                            "19:10",
+                            "21:20"
                         ],
                         "linkForImage": "../images/posters/16_3070.jpg",
                         "showTimeData": [
@@ -2371,6 +2416,7 @@
                         "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
                         "scheduleToday": [
+                            "16:30",
                             "19:00",
                             "21:30"
                         ],
@@ -2386,6 +2432,7 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
+                            "17:15",
                             "19:15",
                             "21:15"
                         ],
@@ -2710,8 +2757,9 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
-                            "18:30",
-                            "21:05"
+                            "16:30",
+                            "19:05",
+                            "21:40"
                         ],
                         "linkForImage": "../images/posters/17_3075.jpg",
                         "showTimeData": [
@@ -2725,7 +2773,8 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
-                            "20:50"
+                            "18:50",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/17_3070.jpg",
                         "showTimeData": [
@@ -2739,7 +2788,8 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:50",
+                            "16:50",
+                            "17:15",
                             "19:15",
                             "21:15"
                         ],
@@ -2961,6 +3011,7 @@
                         "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
                         "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
                         "scheduleToday": [
+                            "18:30",
                             "21:00"
                         ],
                         "linkForImage": "../images/posters/18_3077.jpg",
@@ -2975,6 +3026,7 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
+                            "16:25",
                             "19:00",
                             "21:35"
                         ],
@@ -2990,8 +3042,9 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
-                            "18:30",
-                            "20:40"
+                            "17:30",
+                            "19:40",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/18_3070.jpg",
                         "showTimeData": [
@@ -3005,7 +3058,7 @@
                         "spanishTitle": "CIGUEÑAS (3D)",
                         "englishTitle": "STORK (3D)",
                         "scheduleToday": [
-                            "19:00"
+                            "16:30"
                         ],
                         "linkForImage": "../images/posters/18_3062.jpg",
                         "showTimeData": [
@@ -3019,8 +3072,9 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "19:15",
-                            "21:15"
+                            "17:00",
+                            "19:00",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/18_3055.jpg",
                         "showTimeData": [
@@ -3309,6 +3363,7 @@
                         "spanishTitle": "THE ACCOUNTANT (2D)",
                         "englishTitle": "EL CONTABLE (2D",
                         "scheduleToday": [
+                            "16:00",
                             "18:35",
                             "21:10"
                         ],
@@ -3324,8 +3379,9 @@
                         "spanishTitle": "HORIZONTE PROFUNDO (2D)",
                         "englishTitle": "DEEPWATER HORIZON (2D)",
                         "scheduleToday": [
+                            "17:00",
                             "19:10",
-                            "21:30"
+                            "21:20"
                         ],
                         "linkForImage": "../images/posters/19_3070.jpg",
                         "showTimeData": [
@@ -3339,6 +3395,7 @@
                         "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
                         "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
                         "scheduleToday": [
+                            "16:30",
                             "19:00",
                             "21:30"
                         ],
@@ -3354,8 +3411,9 @@
                         "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
                         "scheduleToday": [
-                            "18:40",
-                            "20:40"
+                            "16:30",
+                            "18:30",
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/19_3055.jpg",
                         "showTimeData": [

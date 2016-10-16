@@ -2,11 +2,11 @@ var Nightmare = require('nightmare');
 var nightmare = Nightmare({
 	show:true
 });
-var express = require('express');
+//var express = require('express');
 var fs = require('fs');
-var request = require('request');
+//var request = require('request');
 var cheerio = require('cheerio');
-var app     = express();
+//var app     = express();
 var async = require('async');
 
 var urlWeb = "http://www.palaciodelcine.com.do/info/splash/index.aspx";

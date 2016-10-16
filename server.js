@@ -326,7 +326,7 @@ nightmare
 		var finalObject = JSON.stringify(cinesObject, null, 4);
 		fs.writeFile('moviesData.json', finalObject, function(err){
 			  	if (err) return console.log(err);
-				console.log('File successfully itten! - Check your project directory for the moviesData.json file');
+				console.log('File successfully written! - Check your project directory for the moviesData.json file');
 
 		});
 

@@ -1,0 +1,3672 @@
+{
+    "Santo Domingo": {
+        "ÁGORA MALL": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:45",
+                            "18:45",
+                            "20:45"
+                        ],
+                        "linkForImage": "../images/posters/11_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:30",
+                            "20:00",
+                            "21:30",
+                            "22:30"
+                        ],
+                        "linkForImage": "../images/posters/11_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "16:20",
+                            "18:30",
+                            "20:40"
+                        ],
+                        "linkForImage": "../images/posters/11_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "scheduleToday": [
+                            "16:30",
+                            "19:00"
+                        ],
+                        "linkForImage": "../images/posters/11_3065.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE´S Y NIÑOS (2D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (SUB)",
+                        "scheduleToday": [
+                            "17:00"
+                        ],
+                        "linkForImage": "../images/posters/11_3064.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "LOS 7 MAGNIFICOS (2D)",
+                        "englishTitle": "THE MAGNIFICEN 7 (2D)",
+                        "scheduleToday": [
+                            "22:10"
+                        ],
+                        "linkForImage": "../images/posters/11_3058.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "135 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:00",
+                            "17:30",
+                            "19:30",
+                            "19:45",
+                            "21:30",
+                            "22:00"
+                        ],
+                        "linkForImage": "../images/posters/11_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "19:35",
+                                "20:30",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "19:35",
+                                "20:30",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "17:30",
+                                "19:30",
+                                "19:45",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:30",
+                                "19:30",
+                                "19:45",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "19:35",
+                                "20:30",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CONF ARGENTARIUM AHORRO (2D)",
+                        "englishTitle": "COF. ARGENTARIUM AHORRO (2D)",
+                        "weekDaySchedule": {
+                            "Sabado": [
+                                "10:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3057&tipoimagen=poster",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Festival ",
+                            "         120 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "LOS 7 MAGNIFICOS (2D)",
+                        "englishTitle": "THE MAGNIFICEN 7 (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:15"
+                            ],
+                            "Viernes": [
+                                "18:15"
+                            ],
+                            "Sabado": [
+                                "22:10"
+                            ],
+                            "Domingo": [
+                                "22:10"
+                            ],
+                            "Lunes": [
+                                "18:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3058&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=q-RBA0xoaWU",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         135 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE´S Y NIÑOS (2D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (SUB)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "17:00"
+                            ],
+                            "Domingo": [
+                                "17:00"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3064&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00"
+                            ],
+                            "Viernes": [
+                                "19:00"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "19:00"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "19:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3065&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Viernes": [
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Sabado": [
+                                "16:20",
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Domingo": [
+                                "16:20",
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Lunes": [
+                                "19:15",
+                                "21:25"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "20:45",
+                                "21:00"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "20:45",
+                                "21:00"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:30"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:30"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "20:45",
+                                "21:05"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:35",
+                                "20:35"
+                            ],
+                            "Viernes": [
+                                "18:35",
+                                "20:35"
+                            ],
+                            "Sabado": [
+                                "16:45",
+                                "18:45",
+                                "20:45"
+                            ],
+                            "Domingo": [
+                                "16:45",
+                                "18:45",
+                                "20:45"
+                            ],
+                            "Lunes": [
+                                "18:35",
+                                "20:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ],
+        "BELLA VISTA MALL ": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:00",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/12_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "17:10",
+                            "18:30",
+                            "19:30",
+                            "20:50",
+                            "21:50"
+                        ],
+                        "linkForImage": "../images/posters/12_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CAFE SOCITY (2D)",
+                        "englishTitle": "CAFE SOCITY (2D)",
+                        "scheduleToday": [
+                            "16:30"
+                        ],
+                        "linkForImage": "../images/posters/12_3074.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "95 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "16:40",
+                            "18:50",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/12_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:20",
+                            "19:20",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/12_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "17:20",
+                                "19:20",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:20",
+                                "19:20",
+                                "21:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:40",
+                                "20:50"
+                            ],
+                            "Viernes": [
+                                "18:40",
+                                "20:50"
+                            ],
+                            "Sabado": [
+                                "16:40",
+                                "18:50",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "16:40",
+                                "18:50",
+                                "21:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CAFE SOCITY (2D)",
+                        "englishTitle": "CAFE SOCITY (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:45"
+                            ],
+                            "Viernes": [
+                                "18:45"
+                            ],
+                            "Sabado": [
+                                "16:30"
+                            ],
+                            "Domingo": [
+                                "16:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3074&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         95 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:05",
+                                "20:45",
+                                "21:25"
+                            ],
+                            "Viernes": [
+                                "19:05",
+                                "20:45",
+                                "21:25"
+                            ],
+                            "Sabado": [
+                                "17:10",
+                                "18:30",
+                                "19:30",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Domingo": [
+                                "17:10",
+                                "18:30",
+                                "19:30",
+                                "20:50",
+                                "21:50"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "20:30"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "20:30"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:00",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:00",
+                                "21:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ],
+        "BLUEMALL ": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "THE GODFATHER (2D)",
+                        "englishTitle": "EL PADRINO (2D)",
+                        "scheduleToday": [
+                            "17:00",
+                            "20:20"
+                        ],
+                        "linkForImage": "../images/posters/13_3079.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Drama ",
+                            "170 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "FREE STATE OF JONES (2D)",
+                        "englishTitle": "FREE STATE OF JONES (2D)",
+                        "scheduleToday": [
+                            "16:40",
+                            "19:10",
+                            "21:40"
+                        ],
+                        "linkForImage": "../images/posters/13_3076.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Drama ",
+                            "140 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "17:00",
+                            "17:00",
+                            "18:20",
+                            "18:20",
+                            "19:35",
+                            "19:35",
+                            "20:40",
+                            "20:40",
+                            "22:00",
+                            "22:00"
+                        ],
+                        "linkForImage": "../images/posters/13_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CAFE SOCITY (2D)",
+                        "englishTitle": "CAFE SOCITY (2D)",
+                        "scheduleToday": [
+                            "16:20",
+                            "16:20",
+                            "17:45",
+                            "19:45",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/13_3074.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "95 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (IMAX)",
+                        "englishTitle": "DEEPWATER HORIZON (IMAX)",
+                        "scheduleToday": [
+                            "17:00",
+                            "17:00",
+                            "19:10",
+                            "19:10",
+                            "21:20",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/13_3071.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "scheduleToday": [
+                            "17:00",
+                            "17:00",
+                            "19:30",
+                            "19:30",
+                            "22:00",
+                            "22:00"
+                        ],
+                        "linkForImage": "../images/posters/13_3066.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:45",
+                                "18:45",
+                                "21:15",
+                                "21:15"
+                            ],
+                            "Viernes": [
+                                "18:45",
+                                "18:45",
+                                "21:15",
+                                "21:15"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "17:00",
+                                "19:30",
+                                "19:30",
+                                "22:00",
+                                "22:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:00",
+                                "19:30",
+                                "19:30",
+                                "22:00",
+                                "22:00"
+                            ],
+                            "Lunes": [
+                                "18:45",
+                                "18:45",
+                                "21:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "18:45",
+                                "18:45",
+                                "21:15",
+                                "21:15"
+                            ],
+                            "Miercoles": [
+                                "18:45",
+                                "18:45",
+                                "21:15",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3066&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (IMAX)",
+                        "englishTitle": "DEEPWATER HORIZON (IMAX)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Viernes": [
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "17:00",
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:00",
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Martes": [
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Miercoles": [
+                                "19:10",
+                                "19:10",
+                                "21:20",
+                                "21:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3071&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CAFE SOCITY (2D)",
+                        "englishTitle": "CAFE SOCITY (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:35",
+                                "18:35",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Viernes": [
+                                "18:35",
+                                "18:35",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Sabado": [
+                                "16:20",
+                                "16:20",
+                                "17:45",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "16:20",
+                                "16:20",
+                                "17:45",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "18:35",
+                                "18:35",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "18:35",
+                                "18:35",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "18:35",
+                                "18:35",
+                                "19:45",
+                                "21:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3074&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         95 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:05",
+                                "19:05",
+                                "20:35",
+                                "20:35",
+                                "21:40",
+                                "21:40"
+                            ],
+                            "Viernes": [
+                                "19:05",
+                                "19:05",
+                                "20:35",
+                                "20:35",
+                                "21:40",
+                                "21:40"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "17:00",
+                                "18:20",
+                                "18:20",
+                                "19:35",
+                                "19:35",
+                                "20:40",
+                                "20:40",
+                                "22:00",
+                                "22:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:00",
+                                "18:20",
+                                "18:20",
+                                "19:35",
+                                "19:35",
+                                "20:40",
+                                "20:40",
+                                "22:00",
+                                "22:00"
+                            ],
+                            "Lunes": [
+                                "19:05",
+                                "19:05",
+                                "20:35",
+                                "20:35",
+                                "21:40",
+                                "21:40"
+                            ],
+                            "Martes": [
+                                "19:05",
+                                "19:05",
+                                "20:35",
+                                "20:35",
+                                "21:40",
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "19:05",
+                                "19:05",
+                                "20:35",
+                                "20:35",
+                                "21:40",
+                                "21:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "FREE STATE OF JONES (2D)",
+                        "englishTitle": "FREE STATE OF JONES (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Sabado": [
+                                "16:40",
+                                "19:10",
+                                "21:40"
+                            ],
+                            "Domingo": [
+                                "16:40",
+                                "19:10",
+                                "21:40"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "21:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3076&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Drama ",
+                            "         140 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE GODFATHER (2D)",
+                        "englishTitle": "EL PADRINO (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "21:45"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "21:45"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "20:15"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "20:20"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "21:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3079&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Drama ",
+                            "         170 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ],
+        "SAMBIL ": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:35",
+                            "19:35",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/14_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:00",
+                            "16:35",
+                            "18:35",
+                            "19:10",
+                            "20:00",
+                            "20:30",
+                            "21:10",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/14_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CARIBBEAN FANTASY (2D)",
+                        "englishTitle": "CARIBBEAN FANTASY (2D) ",
+                        "scheduleToday": [
+                            "17:15",
+                            "18:40"
+                        ],
+                        "linkForImage": "../images/posters/14_3072.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Drama ",
+                            "60 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "scheduleToday": [
+                            "16:30",
+                            "19:00",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/14_3066.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "scheduleToday": [
+                            "18:00",
+                            "20:30"
+                        ],
+                        "linkForImage": "../images/posters/14_3065.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "scheduleToday": [
+                            "16:30",
+                            "18:30"
+                        ],
+                        "linkForImage": "../images/posters/14_3062.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Animación ",
+                            "90 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (2D)",
+                        "englishTitle": "STORK (2D)",
+                        "scheduleToday": [
+                            "16:00"
+                        ],
+                        "linkForImage": "../images/posters/14_3061.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Caricaturas ",
+                            "90 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:15",
+                            "16:45",
+                            "17:15",
+                            "18:15",
+                            "18:45",
+                            "19:15",
+                            "20:15",
+                            "20:45",
+                            "21:15"
+                        ],
+                        "linkForImage": "../images/posters/14_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "EL ESPECIALISTA 2 (2D)",
+                        "englishTitle": "MECHANIC:RESURRECTION (2D)",
+                        "scheduleToday": [
+                            "17:35",
+                            "19:40",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/14_3053.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "98 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "EL ESPECIALISTA 2 (2D)",
+                        "englishTitle": "MECHANIC:RESURRECTION (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "17:35",
+                                "19:40",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "17:35",
+                                "19:40",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3053&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=QF903RaKLvs",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         98 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
+                            ],
+                            "Sabado": [
+                                "16:15",
+                                "16:45",
+                                "17:15",
+                                "18:15",
+                                "18:45",
+                                "19:15",
+                                "20:15",
+                                "20:45",
+                                "21:15"
+                            ],
+                            "Domingo": [
+                                "16:15",
+                                "16:45",
+                                "17:15",
+                                "18:15",
+                                "18:45",
+                                "19:15",
+                                "20:15",
+                                "20:45",
+                                "21:15"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "19:15",
+                                "20:00",
+                                "20:30",
+                                "21:15",
+                                "22:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (2D)",
+                        "englishTitle": "STORK (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:15"
+                            ],
+                            "Viernes": [
+                                "18:15"
+                            ],
+                            "Sabado": [
+                                "16:00"
+                            ],
+                            "Domingo": [
+                                "16:00"
+                            ],
+                            "Lunes": [
+                                "18:15"
+                            ],
+                            "Martes": [
+                                "18:15"
+                            ],
+                            "Miercoles": [
+                                "18:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3061&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Caricaturas ",
+                            "         90 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:45"
+                            ],
+                            "Viernes": [
+                                "18:45"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "18:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "18:30"
+                            ],
+                            "Lunes": [
+                                "18:45"
+                            ],
+                            "Martes": [
+                                "18:45"
+                            ],
+                            "Miercoles": [
+                                "18:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3062&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         90 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "20:15"
+                            ],
+                            "Viernes": [
+                                "20:15"
+                            ],
+                            "Sabado": [
+                                "18:00",
+                                "20:30"
+                            ],
+                            "Domingo": [
+                                "18:00",
+                                "20:30"
+                            ],
+                            "Lunes": [
+                                "20:15"
+                            ],
+                            "Martes": [
+                                "20:15"
+                            ],
+                            "Miercoles": [
+                                "20:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3065&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:40",
+                                "21:10"
+                            ],
+                            "Viernes": [
+                                "18:40",
+                                "21:10"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Lunes": [
+                                "18:40",
+                                "21:10"
+                            ],
+                            "Martes": [
+                                "18:40",
+                                "21:10"
+                            ],
+                            "Miercoles": [
+                                "18:40",
+                                "21:10"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3066&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CARIBBEAN FANTASY (2D)",
+                        "englishTitle": "CARIBBEAN FANTASY (2D) ",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:40"
+                            ],
+                            "Viernes": [
+                                "18:40"
+                            ],
+                            "Sabado": [
+                                "17:15",
+                                "18:40"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "18:40"
+                            ],
+                            "Lunes": [
+                                "18:40"
+                            ],
+                            "Martes": [
+                                "18:40"
+                            ],
+                            "Miercoles": [
+                                "18:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3072&tipoimagen=poster",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         60 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:35",
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
+                            ],
+                            "Viernes": [
+                                "18:35",
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
+                            ],
+                            "Sabado": [
+                                "16:00",
+                                "16:35",
+                                "18:35",
+                                "19:10",
+                                "20:00",
+                                "20:30",
+                                "21:10",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "16:00",
+                                "16:35",
+                                "18:35",
+                                "19:10",
+                                "20:00",
+                                "20:30",
+                                "21:10",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "18:35",
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
+                            ],
+                            "Martes": [
+                                "18:35",
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
+                            ],
+                            "Miercoles": [
+                                "18:35",
+                                "19:15",
+                                "20:05",
+                                "20:45",
+                                "21:10",
+                                "21:50"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "17:35",
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Domingo": [
+                                "17:35",
+                                "19:35",
+                                "21:35"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ],
+        "VENEZUELA": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:15",
+                            "17:00",
+                            "18:15",
+                            "19:00",
+                            "20:15",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/15_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:10",
+                            "18:00",
+                            "18:45",
+                            "20:35",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/15_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:10",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/15_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "scheduleToday": [
+                            "17:15",
+                            "19:15",
+                            "21:15"
+                        ],
+                        "linkForImage": "../images/posters/15_3062.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Animación ",
+                            "90 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:00",
+                            "16:30",
+                            "17:45",
+                            "18:30",
+                            "19:45",
+                            "20:30",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/15_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Sabado": [
+                                "16:00",
+                                "16:30",
+                                "17:45",
+                                "18:30",
+                                "19:45",
+                                "20:30",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "16:00",
+                                "16:30",
+                                "17:45",
+                                "18:30",
+                                "19:45",
+                                "20:30",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:00"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "19:30",
+                                "20:00",
+                                "21:30",
+                                "22:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Viernes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Sabado": [
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Lunes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3062&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         90 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Viernes": [
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Martes": [
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Miercoles": [
+                                "19:10",
+                                "21:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "21:00",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "21:00",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "16:10",
+                                "18:00",
+                                "18:45",
+                                "20:35",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "16:10",
+                                "18:00",
+                                "18:45",
+                                "20:35",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:00",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:00",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:00",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "19:25",
+                                "21:00",
+                                "21:25"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "19:25",
+                                "21:00",
+                                "21:25"
+                            ],
+                            "Sabado": [
+                                "16:15",
+                                "17:00",
+                                "18:15",
+                                "19:00",
+                                "20:15",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "16:15",
+                                "17:00",
+                                "18:15",
+                                "19:00",
+                                "20:15",
+                                "21:00"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "19:25",
+                                "21:00",
+                                "21:25"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "19:25",
+                                "21:00",
+                                "21:25"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "19:25",
+                                "21:00",
+                                "21:25"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ]
+    },
+    "Santiago": {
+        "BELLA TERRA MALL ": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:15",
+                            "17:30",
+                            "19:30",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/16_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:15",
+                            "18:15",
+                            "18:50",
+                            "20:50",
+                            "21:25"
+                        ],
+                        "linkForImage": "../images/posters/16_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:10",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/16_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "scheduleToday": [
+                            "16:30",
+                            "19:00",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/16_3066.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:15",
+                            "19:15",
+                            "21:15"
+                        ],
+                        "linkForImage": "../images/posters/16_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Viernes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Sabado": [
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Lunes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINE’S Y NIÑOS (3D)",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (3D) (SUB)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3066&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "20:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:45",
+                                "21:10",
+                                "21:20"
+                            ],
+                            "Viernes": [
+                                "18:45",
+                                "20:30",
+                                "21:10"
+                            ],
+                            "Sabado": [
+                                "16:15",
+                                "18:15",
+                                "18:50",
+                                "20:50",
+                                "21:25"
+                            ],
+                            "Domingo": [
+                                "16:15",
+                                "18:15",
+                                "18:50",
+                                "20:50",
+                                "21:25"
+                            ],
+                            "Lunes": [
+                                "18:45",
+                                "21:10",
+                                "21:20"
+                            ],
+                            "Martes": [
+                                "18:45",
+                                "21:10",
+                                "21:20"
+                            ],
+                            "Miercoles": [
+                                "18:45",
+                                "21:10",
+                                "21:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "16:15",
+                                "17:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Domingo": [
+                                "16:15",
+                                "17:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "19:00",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ]
+    },
+    "San Francisco de Macorís": {
+        "SAN FRANCISCO DE MACORÍS": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:30",
+                            "19:05",
+                            "21:40"
+                        ],
+                        "linkForImage": "../images/posters/17_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "18:50",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/17_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:50",
+                            "17:15",
+                            "19:15",
+                            "21:15"
+                        ],
+                        "linkForImage": "../images/posters/17_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:50",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Viernes": [
+                                "18:50",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Sabado": [
+                                "16:50",
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Domingo": [
+                                "16:50",
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Lunes": [
+                                "18:50",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "18:50",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Miercoles": [
+                                "18:50",
+                                "19:15",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "20:50"
+                            ],
+                            "Viernes": [
+                                "20:50"
+                            ],
+                            "Sabado": [
+                                "18:50",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "18:50",
+                                "21:00"
+                            ],
+                            "Lunes": [
+                                "20:50"
+                            ],
+                            "Martes": [
+                                "20:50"
+                            ],
+                            "Miercoles": [
+                                "20:50"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "21:05"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "21:05"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "19:05",
+                                "21:40"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "19:05",
+                                "21:40"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "21:05"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "21:05"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "21:05"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ]
+    },
+    "Higuey": {
+        "HIGUEY PLAZA TAVERAS": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "18:30",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/18_3077.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "80 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:25",
+                            "19:00",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/18_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "17:30",
+                            "19:40",
+                            "21:50"
+                        ],
+                        "linkForImage": "../images/posters/18_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "scheduleToday": [
+                            "16:30"
+                        ],
+                        "linkForImage": "../images/posters/18_3062.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Animación ",
+                            "90 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:00",
+                            "21:00"
+                        ],
+                        "linkForImage": "../images/posters/18_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Viernes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:00",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:00",
+                                "21:00"
+                            ],
+                            "Lunes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CIGUEÑAS (3D)",
+                        "englishTitle": "STORK (3D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00"
+                            ],
+                            "Viernes": [
+                                "19:00"
+                            ],
+                            "Sabado": [
+                                "16:30"
+                            ],
+                            "Domingo": [
+                                "16:30"
+                            ],
+                            "Lunes": [
+                                "19:00"
+                            ],
+                            "Martes": [
+                                "19:00"
+                            ],
+                            "Miercoles": [
+                                "19:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3062&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=BCI8Qi6OZyM",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         90 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Viernes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Sabado": [
+                                "17:30",
+                                "19:40",
+                                "21:50"
+                            ],
+                            "Domingo": [
+                                "17:30",
+                                "19:40",
+                                "21:50"
+                            ],
+                            "Lunes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "20:40"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "20:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "16:25",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Domingo": [
+                                "16:25",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "CUENTAS POR COBRAR (2D)Pel.Dom",
+                        "englishTitle": "CUENTAS POR COBRAR (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "21:00"
+                            ],
+                            "Viernes": [
+                                "21:00"
+                            ],
+                            "Sabado": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "18:30",
+                                "21:00"
+                            ],
+                            "Lunes": [
+                                "21:00"
+                            ],
+                            "Martes": [
+                                "21:00"
+                            ],
+                            "Miercoles": [
+                                "21:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3077&tipoimagen=poster",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         80 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ],
+        "HIGUEY MULTIPLAZA": [
+            {
+                "daily": [
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "scheduleToday": [
+                            "16:00",
+                            "18:35",
+                            "21:10"
+                        ],
+                        "linkForImage": "../images/posters/19_3075.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "scheduleToday": [
+                            "17:00",
+                            "19:10",
+                            "21:20"
+                        ],
+                        "linkForImage": "../images/posters/19_3070.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "S/R ",
+                            "Drama ",
+                            "110 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "scheduleToday": [
+                            "16:30",
+                            "19:00",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/19_3065.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Aventura ",
+                            "130 min "
+                        ]
+                    },
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "scheduleToday": [
+                            "16:30",
+                            "18:30",
+                            "20:30"
+                        ],
+                        "linkForImage": "../images/posters/19_3055.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Comedia ",
+                            "96 min "
+                        ]
+                    }
+                ]
+            },
+            {
+                "weekly": [
+                    {
+                        "spanishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "englishTitle": "PA´QUE ME CASE? (2D) (Pel.Dom)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:40",
+                                "20:40"
+                            ],
+                            "Viernes": [
+                                "18:40",
+                                "20:40"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "18:30",
+                                "20:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "18:30",
+                                "20:30"
+                            ],
+                            "Lunes": [
+                                "18:40",
+                                "20:40"
+                            ],
+                            "Martes": [
+                                "18:40",
+                                "20:40"
+                            ],
+                            "Miercoles": [
+                                "18:40",
+                                "20:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3055&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=t8DyVBFTX9s",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Comedia ",
+                            "         96 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "MISS PEREGRINES Y NIÑOS(2D)ESP",
+                        "englishTitle": "MIS PEREGRINE’S HOME FOR PECULIARS CHILDREN (2D) (ESP)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3065&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tV_IhWE4LP0",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         130 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "HORIZONTE PROFUNDO (2D)",
+                        "englishTitle": "DEEPWATER HORIZON (2D)",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "19:10",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "19:10",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "19:10",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:10",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:10",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3070&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         110 min"
+                        ]
+                    },
+                    {
+                        "spanishTitle": "THE ACCOUNTANT (2D)",
+                        "englishTitle": "EL CONTABLE (2D",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Viernes": [
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Sabado": [
+                                "16:00",
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Domingo": [
+                                "16:00",
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Lunes": [
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Martes": [
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Miercoles": [
+                                "18:35",
+                                "21:10"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3075&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         130 min"
+                        ]
+                    }
+                ]
+            },
+            {
+                "theatherInfo": [
+                    {
+                        "theatherName": "ÁGORA MALL: 7 Salas",
+                        "address": "Av. John F. Kennedy esq. Abraham Lincoln",
+                        "ticketPrices": "Entrada General RD$250 / Sala 4K RD$300 /Películas 3D RD$325 / Niños RD$160 /Niños 3D RD$235 / Niños Sala 4K RD$210",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 409"
+                    },
+                    {
+                        "theatherName": "SAMBIL: 11 Salas ",
+                        "address": "Avenida John F. Kennedy casi esquina Máximo Gómez, Centro Comercial Sambil ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala Premium RD$250 / Sala Premium 3D RD$325 / Niños RD$130 / Niños 3D RD$205 / Niños Sala Premium RD$180 / Niños Sala Premium 3D RD$255 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 410"
+                    },
+                    {
+                        "theatherName": "BLUEMALL: 7 Salas ",
+                        "address": "Av. Winston Churchill esq. Gustavo M. Ricart. BlueMall ",
+                        "ticketPrices": "Entrada General RD$300 /Películas 3D RD$375 / Sala VIP RD$400 / Sala VIP 3D RD$475 / Sala IMAX RD$500 / Sala IMAX VIP RD$650 / Niños RD$195 / Niños 3D R$270 / Niños Sala VIP RD$295 / Niños Sala VIP 3D RD$370 / Niños Sala IMAX RD$395 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 408"
+                    },
+                    {
+                        "theatherName": "BELLA VISTA MALL: 7 Salas ",
+                        "address": "Av. Sarasota, Plaza Bella Vista Mall. ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Niños RD$130 /Niños 3D RD$205 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext. 401"
+                    },
+                    {
+                        "theatherName": "VENEZUELA: 8 Salas ",
+                        "address": "Av. Venezuela, Zona Oriental ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.402"
+                    },
+                    {
+                        "theatherName": "BELLA TERRA MALL: 6 Salas ",
+                        "address": "Juan Pablo Duarte casi Esq. Estrella Sadhalá. Plaza Bella Terra Mall. Santiago ",
+                        "ticketPrices": "Entrada General RD$200 /Películas 3D RD$275 / Sala VIP RD$350 / Niños RD$130 /Niños 3D RD$205 / Sala VIP RD$230",
+                        "phoneNumber": "Teléfono: 809.227.7801 Ext.406"
+                    },
+                    {
+                        "theatherName": "HIGUEY MULTIPLAZA: 4 Salas ",
+                        "address": "Jose A. Santana esquina Hermanos Goico Morales. Multiplaza Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.412"
+                    },
+                    {
+                        "theatherName": "HIGUEY PLAZA TAVERAS: 4 Salas ",
+                        "address": "Carretera Higüey al Seybo KM 1, Plaza Taveras Center, tercer nivel. Higuey ",
+                        "ticketPrices": "Entrada General RD$150 /Películas 3D RD$225 / Niños RD$100 /Niños 3D RD$175 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.407"
+                    },
+                    {
+                        "theatherName": "SAN FRANCISCO DE MACORÍS: 3 Salas ",
+                        "address": "Av. Los Mártires, San Francisco De Macorís ",
+                        "ticketPrices": "Entrada General RD$125 / Películas 3D RD$200 / Niños RD$80 /Niños 3D RD$155 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.404"
+                    },
+                    {
+                        "theatherName": "BÁVARO: 3 Salas ",
+                        "address": "Centro Comercial Palma Real Shopping Village ",
+                        "ticketPrices": "Entrada General RD$225 /Películas 3D RD$275 / Niños RD$140 /Niños 3D RD$215 ",
+                        "phoneNumber": "Teléfono: 809.227.7801 ext.405"
+                    }
+                ]
+            }
+        ]
+    }
+}

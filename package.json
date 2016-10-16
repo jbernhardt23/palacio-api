@@ -2,7 +2,14 @@
   "name": "palacio-api",
   "description": "Palacio del Cine API",
   "version": "0.0.2",
-  "private": true,
+  "engines": {
+    "node": "4.5.0",
+    "npm": "2.15.9"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "async": "^2.0.1",
     "cheerio": "latest",

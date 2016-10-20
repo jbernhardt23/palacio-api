@@ -6,7 +6,7 @@
     "node": "4.5.0",
     "npm": "2.15.9"
   },
-  "main": "index.js",
+  "main": ".js",
   "scripts": {
     "start": "node index.js"
   },
@@ -19,9 +19,9 @@
     "morgan": "~1.7.0",
     "nightmare": "latest",
     "serve-favicon": "~2.3.0"
-  ,
-   "repository": {
+  },
+  "repository": {
     "type": "git",
     "url": "https://github.com/jbernhardt23/palacio-api"
-  },
+  }
 }

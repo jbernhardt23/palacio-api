@@ -1,9 +1,12 @@
 var http = require('http');
+var fs = require('fs');
 
 var server = http.createServer(function(req, res){
 	res.writeHead(200, {'Content-Type' :
 	'text/html'});
-	res.end("Manuel Gay")
+
+	  var moviesFile = fs.readFileSync('./moviesData.json', 'utf8');
+	res.end(JSON.parse(moviesFile));
 
 });
 

@@ -1,17 +1,11 @@
-var express = require('express');
-var fs = require('fs');
-var app = express();
+var http = require('http');
 
-app.set('port', (process.env.PORT || 80));
-
-
-app.get('/', function (req, res) {
-
- // var moviesFile = fs.readFileSync('./moviesData.json', 'utf8');
-  res.send('<h1>Hello');
+var server = http.createServer(function(req, res){
+	res.writeHead(200, {'Content-Type' :
+	'text/html'});
+	res.end("Hello")
 
 });
 
-app.listen(app.get('port'), function () {
-  console.log('API respon: ');
-});
+var port = Number(process.env.PORT || 3000)
+server.listen(port);

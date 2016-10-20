@@ -2,13 +2,13 @@ var express = require('express');
 var fs = require('fs');
 var app = express();
 
-app.set('port', (process.env.PORT || 5000));
+app.set('port', (process.env.PORT || 80));
 
 
 app.get('/', function (req, res) {
 
-  var moviesFile = fs.readFileSync('./moviesData.json', 'utf8');
-  res.json(JSON.parse(moviesFile));
+ // var moviesFile = fs.readFileSync('./moviesData.json', 'utf8');
+  res.send('<h1>Hello');
 
 });
 

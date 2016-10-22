@@ -6,7 +6,8 @@ var server = http.createServer(function(req, res){
 	'application/json'});
 
 	var moviesFile = fs.readFileSync('./moviesData.json', 'utf8');
-	res.end(JSON.stringify(JSON.parse(moviesFile)));
+	res.write(JSON.stringify(JSON.parse(moviesFile)));
+	res.end();
 
 });
 

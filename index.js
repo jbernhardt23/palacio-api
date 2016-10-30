@@ -2,6 +2,8 @@ var http = require('http');
 var fs = require('fs');
 
 var server = http.createServer(function(req, res){
+	
+	res.setHeader('Access-Control-Allow-Headers', req.header.origin);
 	res.writeHead(200, {'Content-Type' :
 	'application/json'});
 

@@ -6,19 +6,16 @@
     "node": "4.5.0",
     "npm": "2.15.9"
   },
-  "main": ".js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "async": "^2.0.1",
     "cheerio": "latest",
-    "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
-    "jade": "~1.11.0",
-    "morgan": "~1.7.0",
-    "nightmare": "latest",
-    "serve-favicon": "~2.3.0"
+    "grunt": "^1.0.1",
+    "nightmare": "latest"
   },
   "repository": {
     "type": "git",

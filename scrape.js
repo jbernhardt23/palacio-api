@@ -1,6 +1,6 @@
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({
-  show: true
+  show: false
 });
 
 var fs = require('fs');
@@ -17,10 +17,12 @@ var mainSelector = "#aspnetForm";
 var dailyObjectArray;
 var weeklyMoviesObject;
 var theatherInformationObject;
+var comingSoonObject;
 
 var finalDaily;
 var finalWeekly;
 var finalTheatherInfo;
+var finalComingSoon
 
 
 var currentCity;
@@ -114,7 +116,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
         }
 
 
-        //moving on to weeKlyMovies 
+        //moving on to weekly page
         nightmare
           .goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
           .wait('.showtimeWeekly') //TODO have to wait for the DOM to be ready
@@ -205,7 +207,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
               weekly: weeklyArray
             }
 
-            //Moving on to cines page
+            //Moving on to cines information page
             nightmare
               .goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
               .wait('.contentBlock')
@@ -253,23 +255,53 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                   theatherInfo: cinesArray
                 }
 
-
+                //nightmare to scrape coming soon info per movies
                 nightmare
                   .goto('http://www.palaciodelcine.com.do/info/showtimes/coming_soon.aspx')
-                  .wait('#contHeaderDate')
+                  .wait('.comingSoonBlock')
                   .evaluate(function() {
+
                     return document.body.innerHTML;
                   })
                   .then(function(proximamente) {
                     var $ = cheerio.load(proximamente);
+                    var comingSoonArray = [];
 
 
 
+                    $('.comingSoonBlock').each(function(index, element) {
 
-                    //nighmare to go 
+                      //Coming soon ingo
+                      comingSoonObject = {
+
+                          image: "",
+                          movieName: "",
+                          date: "",
+
+                        }
+                        //image for movie
+                      comingSoonObject.image = $(this).find('.showtimePic').children('a').children('img').attr('src');
+
+                      //movie Name
+                      comingSoonObject.movieName = $(this).find('h3').children('a').text().trim();
+
+                      //Date for premiere
+                      comingSoonObject.date = $(this).find('.comingSoonAP').text().trim().replace(/ /g, "").replace("AvantPremiere", "").replace(/\n/g, "");
+
+                      // console.log(comingSoon);
+
+                      comingSoonArray.push(comingSoonObject);
+
+                    });
+
+                    finalComingSoon = {
+                      comingSoon: comingSoonArray
+                    }
+
+                    //nighmare to go front page again and asigning objects
                     nightmare
                       .goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
-                      .wait()
+                      .wait('a[href="../index.aspx?c=true"]')
                       .click('a[href="../index.aspx?c=true"]')
                       .evaluate(function() {
                         return document.body.innerHTML;
@@ -277,11 +309,11 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                       .then(function(body) {
                         console.log('Back to home');
                         //assigning information to current theather
-                        currentTheather[currentTheatherName] = [finalDaily, finalWeekly, finalTheatherInfo];
+                        currentTheather[currentTheatherName] = [finalDaily, finalWeekly, finalTheatherInfo, finalComingSoon];
                         //passing theather obhect to current city
                         cinesObject[currentCity] = currentTheather;
                         console.log(cinesObject);
-                        //executing next item on loop
+                        //executing next theather on loop
                         nexts();
 
 
@@ -291,8 +323,9 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                       });
 
                   }).catch(function(error) {
-                    console.error('Error on Comming soon information :', error);
+                    console.error('Error on coming soon :', error);
                   });
+
 
               }).catch(function(error) {
                 console.error('Error on Search cines information :', error);
@@ -312,7 +345,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
     if (err) return console.log(err);
     console.log("Done working with:" + currentCity);
 
-    //executing next item on loop
+    //executing next city on loop
     next();
     //cleaning current theather object to proceed with the other city
     currentTheather = {

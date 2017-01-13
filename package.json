@@ -20,5 +20,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jbernhardt23/palacio-api"
+  },
+  "dependencies": {
+    "xpath-to-css": "^1.0.2"
   }
 }

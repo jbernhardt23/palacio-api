@@ -399,6 +399,11 @@
                         "date": "05/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3127&tipoimagen=poster",
+                        "movieName": "AZUL MAGIA (2D) (Pel. Dom)",
+                        "date": "05/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6981&tipoimagen=poster",
                         "movieName": "BALLERINA (2D)",
                         "date": "12/01/2017"
@@ -467,6 +472,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6983&tipoimagen=poster",
                         "movieName": "THE FOUNDER (2D)",
                         "date": "19/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6976&tipoimagen=poster",
+                        "movieName": "UNA NOCHE DE AMOR (2D)",
+                        "date": "05/01/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",

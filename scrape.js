@@ -1,6 +1,6 @@
 var Nightmare = require('nightmare');
 var nightmare = Nightmare({
-  show: false
+  show: true
 });
 
 var fs = require('fs');
@@ -118,8 +118,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
         //moving on to weekly page
         nightmare
-          .goto('http://www.palaciodelcine.com.do/info/showtimes/weekly.aspx')
-          .wait('.showtimeWeekly') //TODO have to wait for the DOM to be ready
+          .click('a[href*= "../showtimes/weekly.aspx"]')
+          .wait(function() {
+            return document.readyState === "complete"
+          })
           .evaluate(function() {
             return document.body.innerHTML;
           })
@@ -127,6 +129,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
             var tempArray = [];
             var weeklyArray = [];
             var $ = cheerio.load(bodyWeekly);
+
+
             $('.showtimeWeekly').each(function(index, element) {
 
               //Object holder for weekly information
@@ -200,6 +204,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
               });
               weeklyArray.push(weeklyMoviesObject);
 
+
+
               // console.log(weeklyMoviesObject);
             });
 
@@ -209,8 +215,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
             //Moving on to cines information page
             nightmare
-              .goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
-              .wait('.contentBlock')
+              .click('a[href*= "../content/index.aspx?idSection=3"]')
+              .wait(function() {
+                return document.readyState === "complete"
+              })
               .evaluate(function() {
                 return document.body.innerHTML;
               })
@@ -257,8 +265,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                 //nightmare to scrape coming soon info per movies
                 nightmare
-                  .goto('http://www.palaciodelcine.com.do/info/showtimes/coming_soon.aspx')
-                  .wait('.comingSoonBlock')
+                  .click('a[href*= "../showtimes/coming_soon.aspx"]')
+                  .wait(function() {
+                    return document.readyState === "complete"
+                  })
                   .evaluate(function() {
 
                     return document.body.innerHTML;
@@ -300,9 +310,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                     //nighmare to go front page again and asigning objects
                     nightmare
-                      .goto('http://www.palaciodelcine.com.do/info/content/index.aspx?idSection=3')
-                      .wait('a[href="../index.aspx?c=true"]')
                       .click('a[href="../index.aspx?c=true"]')
+                      .wait(function() {
+                        return document.readyState === "complete"
+                      })
                       .evaluate(function() {
                         return document.body.innerHTML;
                       })
@@ -343,7 +354,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
   }, function(err) {
     if (err) return console.log(err);
-    console.log("Done working with:" + currentCity);
 
     //executing next city on loop
     next();
@@ -360,16 +370,58 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
     return console.log(err);
   } else {
     console.log("Done!!");
-    var finalObject = JSON.stringify(cinesObject, null, 4);
 
-    fs.writeFile('moviesData.json', finalObject, function(err) {
-      if (err) {
-        return console.log(err);
-      } else {
-        console.log('File successfully witen! - Check your project directory for the moviesData.json file');
-      }
+    //This is not cool, inception level too deep on JSON
 
+    async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
+      async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
+        async.eachOfSeries(theatherItem, function(movieItem, movieKey, movieNext) {
+          async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
+
+            //console.log(weeklyItem.englishTitle);
+            if (!weeklyItem.englishTitle.includes("Dom")) {
+              console.log("hrer");
+              nightmare
+                .goto('http://www.imdb.com')
+                .wait(function() {
+                  return document.readyState === "complete"
+                })
+                .type('#navbar-query', weeklyItem.englishTitle)
+                .click('#navbar-submit-button')
+                .wait(function() {
+                  return document.readyState === "complete"
+                })
+                .click('tr:first-child')
+                .evaluate(function(){
+                   return document.body.innerHTML;
+
+                })
+                .then(function(imdb){
+
+                });
+            }
+
+
+            weeklyNext();
+
+          });
+          movieNext();
+        });
+        theatherNext();
+      });
+      cityNext();
     });
+    /* var finalObject = JSON.stringify(cinesObject, null, 4);
+     nightmare.end();
+
+     fs.writeFile('moviesData.json', finalObject, function(err) { 
+       if (err) {
+         return console.log(err);
+       } else {
+         console.log('File successfully witen! - Check your project directory for the moviesData.json file');
+       }
+
+     });*/
   }
 
 });

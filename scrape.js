@@ -369,9 +369,11 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
   if (err2) {
     return console.log(err);
   } else {
-    console.log("Done!!");
+    console.log("Done with Movies info");
 
     //This is not cool, inception level too deep on JSON
+
+
 
     async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
       async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
@@ -379,8 +381,27 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
           async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
 
             //console.log(weeklyItem.englishTitle);
-            if (!weeklyItem.englishTitle.includes("Dom")) {
-              console.log("hrer");
+            if (!weeklyItem.englishTitle.includes("Dom") && weeklyItem.urlTrailer == undefined) {
+
+              if (weeklyItem.englishTitle.includes("(2D)")) {
+                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(2D)", "");
+              }
+
+              if (weeklyItem.englishTitle.includes("SUB")) {
+                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("SUB", "");
+              }
+              if (weeklyItem.englishTitle.includes("(SUB)")) {
+                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(SUB)", "");
+              }
+              if (weeklyItem.englishTitle.includes("(IMAX)")) {
+                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(IMAX)", "");
+              }
+
+              if (weeklyItem.englishTitle.includes("()")) {
+                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("()", "");
+              }
+
+
               nightmare
                 .goto('http://www.imdb.com')
                 .wait(function() {
@@ -391,27 +412,47 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                 .wait(function() {
                   return document.readyState === "complete"
                 })
-                .click('tr:first-child')
-                .evaluate(function(){
-                   return document.body.innerHTML;
+                .click('ul.findTitleSubfilterList > li:first-of-type > a')
+                .wait(function() {
+                  return document.readyState === "complete"
+                })
+                .click('div > div > div:nth-of-type(2) > table > tbody > tr:first-of-type > td:nth-of-type(2) > a')
+                .evaluate(function() {
+                  return document.body.innerHTML;
 
                 })
-                .then(function(imdb){
+                .then(function(imdb) {
+                  var $ = cheerio.load(imdb);
+                  console.log($('a[itemprop = "trailer"]').attr('href'));
+                  weeklyNext();
 
+                })
+                .catch(function(error) {
+                  console.error('Errr', error);
+                  weeklyNext();
                 });
+
+            } else {
+              weeklyNext();
             }
 
-
-            weeklyNext();
+          }, function(err1) {
+            movieNext();
 
           });
-          movieNext();
+
+        }, function(err2) {
+          theatherNext();
+
         });
-        theatherNext();
+
+      }, function(err3) {
+        cityNext();
       });
-      cityNext();
-    });
-    /* var finalObject = JSON.stringify(cinesObject, null, 4);
+
+    }, function(err4) {
+
+      /* var finalObject = JSON.stringify(cinesObject, null, 4);
      nightmare.end();
 
      fs.writeFile('moviesData.json', finalObject, function(err) { 
@@ -422,6 +463,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
        }
 
      });*/
+
+
+    });
+
   }
 
 });

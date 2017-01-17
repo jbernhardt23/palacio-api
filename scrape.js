@@ -226,42 +226,45 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                 var $ = cheerio.load(cines);
                 var cinesArray = [];
 
+                if (items === "12") {
 
-                $('.contentBlock').each(function(index, element) {
-                  var count = 0;
-                  //Weekely object 
-                  theatherInformationObject = {
+                  $('.contentBlock').each(function(index, element) {
+                    var count = 0;
+                    //Weekely object 
+                    theatherInformationObject = {
 
-                      theatherName: "",
-                      address: "",
-                      ticketPrices: "",
-                      phoneNumber: ""
+                        theatherName: "",
+                        address: "",
+                        ticketPrices: "",
+                        phoneNumber: ""
+
+                      }
+                      //Theather name
+
+                    //Description and prices
+                    var tempString = $(this).find('p').text().replace(/\t/g, "");
+                    tempString = tempString.trim();
+                    tempString = tempString.split("\n").filter(String);
+
+
+                    for (var key in theatherInformationObject) {
+
+                      theatherInformationObject[key] = tempString[count];
+                      count++;
 
                     }
-                    //Theather name
 
-                  //Description and prices
-                  var tempString = $(this).find('p').text().replace(/\t/g, "");
-                  tempString = tempString.trim();
-                  tempString = tempString.split("\n").filter(String);
+                    //	console.log(theatherInformationObject);
+                    cinesArray.push(theatherInformationObject);
 
 
-                  for (var key in theatherInformationObject) {
+                  });
 
-                    theatherInformationObject[key] = tempString[count];
-                    count++;
-
+                  finalTheatherInfo = {
+                    theatherInfo: cinesArray
                   }
-
-                  //	console.log(theatherInformationObject);
-                  cinesArray.push(theatherInformationObject);
-
-
-                });
-
-                finalTheatherInfo = {
-                  theatherInfo: cinesArray
                 }
+
 
                 //nightmare to scrape coming soon info per movies
                 nightmare
@@ -276,7 +279,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                   .then(function(proximamente) {
                     var $ = cheerio.load(proximamente);
                     var comingSoonArray = [];
-
 
 
                     $('.comingSoonBlock').each(function(index, element) {
@@ -307,6 +309,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                     finalComingSoon = {
                       comingSoon: comingSoonArray
                     }
+
 
                     //nighmare to go front page again and asigning objects
                     nightmare
@@ -342,6 +345,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                 console.error('Error on Search cines information :', error);
               });
 
+
           }).catch(function(error) {
             console.error('Error on Search weekly info :', error);
           });
@@ -374,98 +378,98 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
     //This is not cool, inception level too deep on JSON
 
 
+    /*
+        async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
+          async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
+            async.eachOfSeries(theatherItem, function(movieItem, movieKey, movieNext) {
+              async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
 
-    async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
-      async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
-        async.eachOfSeries(theatherItem, function(movieItem, movieKey, movieNext) {
-          async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
+                //console.log(weeklyItem.englishTitle);
+                if (!weeklyItem.englishTitle.includes("Dom") && weeklyItem.urlTrailer == undefined) {
 
-            //console.log(weeklyItem.englishTitle);
-            if (!weeklyItem.englishTitle.includes("Dom") && weeklyItem.urlTrailer == undefined) {
+                  if (weeklyItem.englishTitle.includes("(2D)")) {
+                    weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(2D)", "");
+                  }
 
-              if (weeklyItem.englishTitle.includes("(2D)")) {
-                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(2D)", "");
-              }
+                  if (weeklyItem.englishTitle.includes("SUB")) {
+                    weeklyItem.englishTitle = weeklyItem.englishTitle.replace("SUB", "");
+                  }
+                  if (weeklyItem.englishTitle.includes("(SUB)")) {
+                    weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(SUB)", "");
+                  }
+                  if (weeklyItem.englishTitle.includes("(IMAX)")) {
+                    weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(IMAX)", "");
+                  }
 
-              if (weeklyItem.englishTitle.includes("SUB")) {
-                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("SUB", "");
-              }
-              if (weeklyItem.englishTitle.includes("(SUB)")) {
-                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(SUB)", "");
-              }
-              if (weeklyItem.englishTitle.includes("(IMAX)")) {
-                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(IMAX)", "");
-              }
-
-              if (weeklyItem.englishTitle.includes("()")) {
-                weeklyItem.englishTitle = weeklyItem.englishTitle.replace("()", "");
-              }
+                  if (weeklyItem.englishTitle.includes("()")) {
+                    weeklyItem.englishTitle = weeklyItem.englishTitle.replace("()", "");
+                  }
 
 
-              nightmare
-                .goto('http://www.imdb.com')
-                .wait(function() {
-                  return document.readyState === "complete"
-                })
-                .type('#navbar-query', weeklyItem.englishTitle)
-                .click('#navbar-submit-button')
-                .wait(function() {
-                  return document.readyState === "complete"
-                })
-                .click('ul.findTitleSubfilterList > li:first-of-type > a')
-                .wait(function() {
-                  return document.readyState === "complete"
-                })
-                .click('div > div > div:nth-of-type(2) > table > tbody > tr:first-of-type > td:nth-of-type(2) > a')
-                .evaluate(function() {
-                  return document.body.innerHTML;
+                  nightmare
+                    .goto('http://www.imdb.com')
+                    .wait(function() {
+                      return document.readyState === "complete"
+                    })
+                    .type('#navbar-query', weeklyItem.englishTitle)
+                    .click('#navbar-submit-button')
+                    .wait(function() {
+                      return document.readyState === "complete"
+                    })
+                    .click('ul.findTitleSubfilterList > li:first-of-type > a')
+                    .wait(function() {
+                      return document.readyState === "complete"
+                    })
+                    .click('div > div > div:nth-of-type(2) > table > tbody > tr:first-of-type > td:nth-of-type(2) > a')
+                    .evaluate(function() {
+                      return document.body.innerHTML;
 
-                })
-                .then(function(imdb) {
-                  var $ = cheerio.load(imdb);
-                  console.log($('a[itemprop = "trailer"]').attr('href'));
+                    })
+                    .then(function(imdb) {
+                      var $ = cheerio.load(imdb);
+                      console.log($('a[itemprop = "trailer"]').attr('href'));
+                      weeklyNext();
+
+                    })
+                    .catch(function(error) {
+                      console.error('Errr', error);
+                      weeklyNext();
+                    });
+
+                } else {
                   weeklyNext();
+                }
 
-                })
-                .catch(function(error) {
-                  console.error('Errr', error);
-                  weeklyNext();
-                });
+              }, function(err1) {
+                movieNext();
 
-            } else {
-              weeklyNext();
-            }
+              });
 
-          }, function(err1) {
-            movieNext();
+            }, function(err2) {
+              theatherNext();
 
+            });
+
+          }, function(err3) {
+            cityNext();
           });
 
-        }, function(err2) {
-          theatherNext();
+        }, function(err4) {
 
-        });
+           var finalObject = JSON.stringify(cinesObject, null, 4);
+         nightmare.end();
 
-      }, function(err3) {
-        cityNext();
-      });
+         fs.writeFile('moviesData.json', finalObject, function(err) { 
+           if (err) {
+             return console.log(err);
+           } else {
+             console.log('File successfully witen! - Check your project directory for the moviesData.json file');
+           }
 
-    }, function(err4) {
-
-      /* var finalObject = JSON.stringify(cinesObject, null, 4);
-     nightmare.end();
-
-     fs.writeFile('moviesData.json', finalObject, function(err) { 
-       if (err) {
-         return console.log(err);
-       } else {
-         console.log('File successfully witen! - Check your project directory for the moviesData.json file');
-       }
-
-     });*/
+         });
 
 
-    });
+        });*/
 
   }
 

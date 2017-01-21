@@ -2,7 +2,132 @@
     "Santo Domingo": {
         "ÁGORA MALL": [
             {
-                "daily": []
+                "daily": [
+                    {
+                        "spanishTitle": "ASSASSINS CREED (2D) ESPAÑOL",
+                        "englishTitle": "ASSASSINS CREED",
+                        "scheduleToday": [
+                            "18:50",
+                            "21:05"
+                        ],
+                        "linkForImage": "../images/no_picture.gif",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/14 ",
+                            "Acción ",
+                            "110 min "
+                        ],
+                        "sinopsis": ""
+                    },
+                    {
+                        "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
+                        "englishTitle": "EL PLAN PERFECTO",
+                        "scheduleToday": [
+                            "17:00",
+                            "18:00",
+                            "19:05",
+                            "20:05",
+                            "21:10",
+                            "22:10"
+                        ],
+                        "linkForImage": "../images/posters/11_6985.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Acción ",
+                            "100 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
+                    },
+                    {
+                        "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
+                        "englishTitle": "XXX: The Return Of Xander Cage (2D) SUB",
+                        "scheduleToday": [
+                            "17:20",
+                            "18:00",
+                            "19:35",
+                            "20:15",
+                            "21:50",
+                            "22:30"
+                        ],
+                        "linkForImage": "../images/posters/11_6984.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/14 ",
+                            "Acción ",
+                            "110 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
+                    },
+                    {
+                        "spanishTitle": "NIGHT TRAIN TO BUSAN (2D)",
+                        "englishTitle": "NIGHT TRAIN TO BUSAN",
+                        "scheduleToday": [
+                            "16:50"
+                        ],
+                        "linkForImage": "../images/posters/11_6979.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/14 ",
+                            "Acción ",
+                            "120 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=0_sV9luPnMk",
+                        "sinopsis": "Un desastroso virus se me expande por Corea del Sur,provocando importantes altercados. Los pasajeros de uno de los trenes KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia."
+                    },
+                    {
+                        "spanishTitle": "ALLIED (2D)",
+                        "englishTitle": "ALLIED",
+                        "scheduleToday": [
+                            "19:10",
+                            "21:40"
+                        ],
+                        "linkForImage": "../images/posters/11_6977.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/14 ",
+                            "Drama ",
+                            "125 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=Jlp94-C31cY",
+                        "sinopsis": "Año 1942 durante la Segunda Guerra Mundial. Max (Brad Pitt) es un espía del bando aliado que se enamora de Marianne (Marion Cotillard),una compañera francesa,tras una peligrosa misión en el norte de África. La pareja comienza una relación amorosa hasta que a él le notifican que Marianne puede que sea una agente doble que trabaja para los nazis."
+                    },
+                    {
+                        "spanishTitle": "MOANA (2D) ESPAÑOL",
+                        "englishTitle": "MOANA (2D)",
+                        "scheduleToday": [
+                            "16:35"
+                        ],
+                        "linkForImage": "../images/posters/11_3140.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "S/R ",
+                            "Animación ",
+                            "110 min "
+                        ],
+                        "sinopsis": ""
+                    },
+                    {
+                        "spanishTitle": "TUBERCULO PRESIDENTE(2D)PelDom",
+                        "englishTitle": "TUBERCULO PRESIDENTE(2D) (Pel. Dom)",
+                        "scheduleToday": [
+                            "17:05",
+                            "19:20",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/11_3117.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Comedia ",
+                            "90 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=fZY0y83HAqQ",
+                        "sinopsis": "Tubérculo y Tirson son elegidos presidente y vicepresidente del país. Su gobierno logra popularidad,sobre todo por sus programas de alimentación para el pueblo y su política anticorrupción."
+                    }
+                ]
             },
             {
                 "weekly": [
@@ -13,6 +138,15 @@
                             "Jueves": [
                                 "18:15",
                                 "20:30"
+                            ],
+                            "Viernes": [
+                                "18:15",
+                                "20:30"
+                            ],
+                            "Sabado": [
+                                "17:05",
+                                "19:20",
+                                "21:35"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3117&tipoimagen=poster",
@@ -22,7 +156,8 @@
                             "S/R ",
                             "         Comedia ",
                             "         90 min"
-                        ]
+                        ],
+                        "sinopsis": "Tubérculo y Tirson son elegidos presidente y vicepresidente del país. Su gobierno logra popularidad,sobre todo por sus programas de alimentación para el pueblo y su política anticorrupción."
                     },
                     {
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
@@ -30,6 +165,12 @@
                         "weekDaySchedule": {
                             "Jueves": [
                                 "18:35"
+                            ],
+                            "Viernes": [
+                                "18:35"
+                            ],
+                            "Sabado": [
+                                "16:35"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3140&tipoimagen=poster",
@@ -38,7 +179,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "ALLIED (2D)",
@@ -46,6 +188,13 @@
                         "weekDaySchedule": {
                             "Jueves": [
                                 "21:25"
+                            ],
+                            "Viernes": [
+                                "21:25"
+                            ],
+                            "Sabado": [
+                                "19:10",
+                                "21:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6977&tipoimagen=poster",
@@ -55,7 +204,8 @@
                             "R/14 ",
                             "         Drama ",
                             "         125 min"
-                        ]
+                        ],
+                        "sinopsis": "Año 1942 durante la Segunda Guerra Mundial. Max (Brad Pitt) es un espía del bando aliado que se enamora de Marianne (Marion Cotillard),una compañera francesa,tras una peligrosa misión en el norte de África. La pareja comienza una relación amorosa hasta que a él le notifican que Marianne puede que sea una agente doble que trabaja para los nazis."
                     },
                     {
                         "spanishTitle": "NIGHT TRAIN TO BUSAN (2D)",
@@ -63,6 +213,12 @@
                         "weekDaySchedule": {
                             "Jueves": [
                                 "19:05"
+                            ],
+                            "Viernes": [
+                                "19:05"
+                            ],
+                            "Sabado": [
+                                "16:50"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6979&tipoimagen=poster",
@@ -72,7 +228,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         120 min"
-                        ]
+                        ],
+                        "sinopsis": "Un desastroso virus se me expande por Corea del Sur,provocando importantes altercados. Los pasajeros de uno de los trenes KTX que viaja de Seúl a Busan tendrán que luchar por su supervivencia."
                     },
                     {
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
@@ -83,6 +240,20 @@
                                 "19:45",
                                 "21:15",
                                 "22:00"
+                            ],
+                            "Viernes": [
+                                "19:00",
+                                "19:45",
+                                "21:15",
+                                "22:00"
+                            ],
+                            "Sabado": [
+                                "17:20",
+                                "18:00",
+                                "19:35",
+                                "20:15",
+                                "21:50",
+                                "22:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",
@@ -92,7 +263,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -103,16 +275,31 @@
                                 "19:30",
                                 "20:50",
                                 "21:35"
+                            ],
+                            "Viernes": [
+                                "18:45",
+                                "19:30",
+                                "20:50",
+                                "21:35"
+                            ],
+                            "Sabado": [
+                                "17:00",
+                                "18:00",
+                                "19:05",
+                                "20:05",
+                                "21:10",
+                                "22:10"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) ESPAÑOL",
@@ -120,6 +307,13 @@
                         "weekDaySchedule": {
                             "Jueves": [
                                 "20:50"
+                            ],
+                            "Viernes": [
+                                "20:50"
+                            ],
+                            "Sabado": [
+                                "18:50",
+                                "21:05"
                             ]
                         },
                         "linkForImage": "../images/no_picture.gif",
@@ -128,7 +322,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     }
                 ]
             },
@@ -166,14 +361,24 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7009&tipoimagen=poster",
-                        "movieName": "JUEGO LICEY VS AGUILAS",
-                        "date": "13/01/2017"
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
+                        "date": "26/01/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6994&tipoimagen=poster",
@@ -222,15 +427,17 @@
             {
                 "daily": [
                     {
-                        "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
-                        "englishTitle": "XXX: THE RETURN OF XANDER CAGE (2D) ESP",
+                        "spanishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "englishTitle": "XXX: XANDER CAGE (2D) ESP",
                         "scheduleToday": [
-                            "18:15",
-                            "19:00",
-                            "20:30",
-                            "21:15"
+                            "17:00",
+                            "17:45",
+                            "19:15",
+                            "20:00",
+                            "21:30",
+                            "22:15"
                         ],
-                        "linkForImage": "../images/posters/12_7044.jpg",
+                        "linkForImage": "../images/posters/12_7047.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
                             "R/14 ",
@@ -244,15 +451,17 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "19:00",
-                            "19:30",
-                            "21:05",
-                            "21:35"
+                            "17:40",
+                            "18:05",
+                            "19:45",
+                            "20:10",
+                            "21:50",
+                            "22:15"
                         ],
                         "linkForImage": "../images/posters/12_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -263,7 +472,8 @@
                         "spanishTitle": "ALLIED (2D)",
                         "englishTitle": "ALLIED",
                         "scheduleToday": [
-                            "20:55"
+                            "19:40",
+                            "21:55"
                         ],
                         "linkForImage": "../images/posters/12_6977.jpg",
                         "showTimeData": [
@@ -279,8 +489,9 @@
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
                         "englishTitle": "ASSASSINS CREED",
                         "scheduleToday": [
-                            "18:30",
-                            "20:45"
+                            "17:15",
+                            "19:30",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/12_6972.jpg",
                         "showTimeData": [
@@ -296,7 +507,7 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
-                            "18:40"
+                            "17:25"
                         ],
                         "linkForImage": "../images/posters/12_3140.jpg",
                         "showTimeData": [
@@ -311,6 +522,160 @@
             },
             {
                 "weekly": [
+                    {
+                        "spanishTitle": "TROLLS (2D)",
+                        "englishTitle": "TROLLS (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "18:30"
+                            ],
+                            "Miercoles": [
+                                "18:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3087&tipoimagen=poster",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         95 min"
+                        ],
+                        "sinopsis": "Conocidos por sus pelos de colores,locos y mágicos,los Trolls son las criaturas más felices y alegres que irrumpen en el mundo de la canción. Pero su mundo de arco iris y cupcakes cambiará para siempre cuando su líder Poppy (Anna Kendrick) debe embarcarse en una misión de rescate que la llevará muy lejos del único mundo que siempre ha conocido."
+                    },
+                    {
+                        "spanishTitle": "DOCTOR EXTRAÑO (2D)",
+                        "englishTitle": "DOCTOR STRANGE (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "19:00",
+                                "21:20"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3097&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         115 min"
+                        ],
+                        "sinopsis": "Dr. Stephen Strange,cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla,se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación,sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo,Strange,armado con sus poderes mágicos recientemente adquiridos,se ve obligado a elegir entre volver a su antigua vida de riqueza y estatus o dejarlo todo,para defender el mundo como el mago más poderoso del planeta. Adaptación del cómic creado por Stan Lee y Steve Ditko."
+                    },
+                    {
+                        "spanishTitle": "LA LLEGADA (2D)",
+                        "englishTitle": "ARRIVAL (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "18:30",
+                                "20:50"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "20:50"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3103&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=ZLO4X6UI8OY",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         SCI-FI ",
+                            "         115 min"
+                        ],
+                        "sinopsis": "Cuando naves extraterrestres comienzan a llegar a la Tierra,los altos mandos militares contratan a una experta lingüista (Amy Adams) para intentar averiguar si los alienígenas vienen en son de paz o suponen una amenaza. Conforme la mujer aprende a comunicarse con los extraterrestres,comienza también a experimentar flashbacks extremadamente realistas que llegarán a ser la clave que dará significado a la verdadera razón y gran misterio de esta visita extraterrestre... Adaptación del relato corto \"The Story of Your Life\" del escritor Ted Chiang,ganador de los reconocidos premios de ciencia ficción Hugo y Nebula."
+                    },
+                    {
+                        "spanishTitle": "JACK REACHER 2 (2D)",
+                        "englishTitle": "JACK REACHER 2 (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "19:05",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:05",
+                                "21:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3104&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=kidXMuWQ5kw",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         120 min"
+                        ],
+                        "sinopsis": "La Mayor Susan Turner,líder de la antigua unidad militar de Reacher,es falsamente acusada de traición. Jack Reacher tendrá que sacarla de prisión y descubrir la verdad detrás de una conspiración gubernamental para limpiar sus nombres y salvar sus vidas. Durante el escape,Reacher descubrirá un secreto de su pasado que podría cambiar su vida para siempre. Secuela de \"Jack Reacher\""
+                    },
+                    {
+                        "spanishTitle": "LA CHICA DEL TREN (2D)",
+                        "englishTitle": "THE GIRL ON THE TRAIN (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "19:15",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:35"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3107&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=KkoEE1i0CX8",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         115 min"
+                        ],
+                        "sinopsis": "Rachel (Emily Blunt) es una mujer devastada por su reciente divorcio que dedica cada mañana de camino a su trabajo a fantasear sobre la vida de una pareja aparentemente perfecta que vive en una casa por la que su tren pasa cada día. Pero una mañana Rachel es testigo desde la ventana del tren de un impactante suceso y se ve involucrada en el misterio que ella misma revela... Adaptación del best seller homónimo de Paula Hawkins."
+                    },
+                    {
+                        "spanishTitle": "ANIMALES FANTASTICOS (3D)",
+                        "englishTitle": "FANTASTIC BEASTS AND WHERE TO FIND THEM (3D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "19:00",
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3109&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=Vso5o11LuGU",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Aventura ",
+                            "         135 min"
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
+                    },
+                    {
+                        "spanishTitle": "THE PASTOR (2D)",
+                        "englishTitle": "THE PASTOR (2D)",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "20:30"
+                            ],
+                            "Miercoles": [
+                                "20:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3114&tipoimagen=poster",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Drama ",
+                            "         90 min"
+                        ],
+                        "sinopsis": ""
+                    },
                     {
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
@@ -329,12 +694,6 @@
                             ],
                             "Lunes": [
                                 "18:40"
-                            ],
-                            "Martes": [
-                                "18:40"
-                            ],
-                            "Miercoles": [
-                                "18:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=3140&tipoimagen=poster",
@@ -343,7 +702,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
@@ -370,14 +730,6 @@
                             "Lunes": [
                                 "18:30",
                                 "20:45"
-                            ],
-                            "Martes": [
-                                "18:30",
-                                "20:45"
-                            ],
-                            "Miercoles": [
-                                "18:30",
-                                "20:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6972&tipoimagen=poster",
@@ -387,7 +739,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos,Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar,un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta,los Asesinos,y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo"
                     },
                     {
                         "spanishTitle": "ALLIED (2D)",
@@ -409,12 +762,6 @@
                             ],
                             "Lunes": [
                                 "20:55"
-                            ],
-                            "Martes": [
-                                "20:55"
-                            ],
-                            "Miercoles": [
-                                "20:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6977&tipoimagen=poster",
@@ -424,7 +771,8 @@
                             "R/14 ",
                             "         Drama ",
                             "         125 min"
-                        ]
+                        ],
+                        "sinopsis": "Año 1942 durante la Segunda Guerra Mundial. Max (Brad Pitt) es un espía del bando aliado que se enamora de Marianne (Marion Cotillard),una compañera francesa,tras una peligrosa misión en el norte de África. La pareja comienza una relación amorosa hasta que a él le notifican que Marianne puede que sea una agente doble que trabaja para los nazis."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -463,28 +811,17 @@
                                 "19:30",
                                 "21:05",
                                 "21:35"
-                            ],
-                            "Martes": [
-                                "19:00",
-                                "19:30",
-                                "21:05",
-                                "21:35"
-                            ],
-                            "Miercoles": [
-                                "19:00",
-                                "19:30",
-                                "21:05",
-                                "21:35"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
@@ -502,6 +839,27 @@
                                 "20:30",
                                 "21:15"
                             ],
+                            "Lunes": [
+                                "18:15",
+                                "19:00",
+                                "20:30",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7044&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         110 min"
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
+                    },
+                    {
+                        "spanishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "englishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "weekDaySchedule": {
                             "Sabado": [
                                 "17:00",
                                 "17:45",
@@ -517,34 +875,17 @@
                                 "20:00",
                                 "21:30",
                                 "22:15"
-                            ],
-                            "Lunes": [
-                                "18:15",
-                                "19:00",
-                                "20:30",
-                                "21:15"
-                            ],
-                            "Martes": [
-                                "18:15",
-                                "19:00",
-                                "20:30",
-                                "21:15"
-                            ],
-                            "Miercoles": [
-                                "18:15",
-                                "19:00",
-                                "20:30",
-                                "21:15"
                             ]
                         },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7044&tipoimagen=poster",
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -639,8 +980,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -679,6 +1035,11 @@
                         "date": "26/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
+                        "movieName": "XXX: XANDER CAGE (2D) ESP",
+                        "date": "19/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7044&tipoimagen=poster",
                         "movieName": "XXX: XANDER CAGE (IMAX 2D)",
                         "date": "19/01/2017"
@@ -693,6 +1054,8 @@
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 3D)",
                         "englishTitle": "XXX: XANDER CAGE (IMAX 3D)",
                         "scheduleToday": [
+                            "17:15",
+                            "17:15",
                             "19:30",
                             "19:30",
                             "21:45",
@@ -712,6 +1075,7 @@
                         "spanishTitle": "BREAKFAST AT TIFFANY'S (2D)",
                         "englishTitle": "BREAKFAST AT TIFFANY'S (2D)",
                         "scheduleToday": [
+                            "16:55",
                             "19:15",
                             "21:35"
                         ],
@@ -729,6 +1093,8 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
+                            "16:55",
+                            "16:55",
                             "19:00",
                             "19:00",
                             "21:05",
@@ -737,7 +1103,7 @@
                         "linkForImage": "../images/posters/13_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -748,6 +1114,8 @@
                         "spanishTitle": "ALLIED (2D)",
                         "englishTitle": "ALLIED",
                         "scheduleToday": [
+                            "16:40",
+                            "16:40",
                             "19:10",
                             "19:10",
                             "21:40",
@@ -767,6 +1135,7 @@
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
                         "englishTitle": "ASSASSINS CREED",
                         "scheduleToday": [
+                            "17:10",
                             "19:25",
                             "21:40"
                         ],
@@ -784,6 +1153,7 @@
                         "spanishTitle": "BELLEZA OCULTA (2D)",
                         "englishTitle": "COLLATERAL BEAUTY (2D)",
                         "scheduleToday": [
+                            "17:15",
                             "19:20",
                             "21:25"
                         ],
@@ -816,6 +1186,8 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
+                            "16:35",
+                            "16:35",
                             "18:50",
                             "18:50"
                         ],
@@ -875,7 +1247,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "MOANA (2D) (SUB)",
@@ -916,7 +1289,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "BELLEZA OCULTA (2D)",
@@ -959,7 +1333,8 @@
                             "R/18 ",
                             "         Drama ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
@@ -1003,7 +1378,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos,Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar,un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta,los Asesinos,y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo"
                     },
                     {
                         "spanishTitle": "ALLIED (2D)",
@@ -1063,7 +1439,8 @@
                             "R/14 ",
                             "         Drama ",
                             "         125 min"
-                        ]
+                        ],
+                        "sinopsis": "Año 1942 durante la Segunda Guerra Mundial. Max (Brad Pitt) es un espía del bando aliado que se enamora de Marianne (Marion Cotillard),una compañera francesa,tras una peligrosa misión en el norte de África. La pareja comienza una relación amorosa hasta que a él le notifican que Marianne puede que sea una agente doble que trabaja para los nazis."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -1120,10 +1497,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "BREAKFAST AT TIFFANY'S (2D)",
@@ -1167,7 +1545,8 @@
                             "R/14 ",
                             "         Drama ",
                             "         115 min"
-                        ]
+                        ],
+                        "sinopsis": "Holly Golightly es una bella joven neoyorquina que,aparentemente,lleva una vida fácil y alegre. Tiene un comportamiento bastante extravagante,por ejemplo,desayunar contemplando el escaparate de la lujosa joyería Tiffanys. Un día se muda a su mismo edificio Paul Varjak,un escritor que,mientras espera un éxito que nunca llega,vive a costa de una mujer madura."
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 3D)",
@@ -1227,7 +1606,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -1322,8 +1702,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -1381,11 +1776,14 @@
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
                         "englishTitle": "XXX: THE RETURN OF XANDER CAGE (2D) ESP",
                         "scheduleToday": [
-                            "19:05",
-                            "19:35",
-                            "21:00",
-                            "21:20",
-                            "21:50"
+                            "17:05",
+                            "17:45",
+                            "18:40",
+                            "19:20",
+                            "20:00",
+                            "20:55",
+                            "21:35",
+                            "22:15"
                         ],
                         "linkForImage": "../images/posters/14_7044.jpg",
                         "showTimeData": [
@@ -1401,19 +1799,23 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
+                            "16:30",
+                            "17:10",
+                            "17:35",
+                            "18:00",
                             "18:35",
                             "19:15",
                             "19:40",
-                            "20:00",
+                            "20:05",
                             "20:40",
                             "21:20",
                             "21:45",
-                            "22:05"
+                            "22:10"
                         ],
                         "linkForImage": "../images/posters/14_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -1424,7 +1826,8 @@
                         "spanishTitle": "ALLIED (2D)",
                         "englishTitle": "ALLIED",
                         "scheduleToday": [
-                            "21:05"
+                            "19:00",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/14_6977.jpg",
                         "showTimeData": [
@@ -1440,6 +1843,7 @@
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
                         "englishTitle": "ASSASSINS CREED",
                         "scheduleToday": [
+                            "17:05",
                             "19:20",
                             "21:35"
                         ],
@@ -1457,9 +1861,10 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
-                            "18:45",
-                            "19:25",
-                            "21:40"
+                            "16:25",
+                            "17:00",
+                            "19:15",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/14_3140.jpg",
                         "showTimeData": [
@@ -1474,7 +1879,7 @@
                         "spanishTitle": "CATASTROPICO (2D) (Pel. Dom)",
                         "englishTitle": "CATASTROPICO (2D) (Pel. Dom)",
                         "scheduleToday": [
-                            "19:00"
+                            "16:55"
                         ],
                         "linkForImage": "../images/posters/14_3128.jpg",
                         "showTimeData": [
@@ -1489,6 +1894,7 @@
                         "spanishTitle": "TUBERCULO PRESIDENTE(2D)PelDom",
                         "englishTitle": "TUBERCULO PRESIDENTE(2D) (Pel. Dom)",
                         "scheduleToday": [
+                            "16:55",
                             "19:10",
                             "21:25"
                         ],
@@ -1536,7 +1942,8 @@
                             "S/R ",
                             "         Comedia ",
                             "         90 min"
-                        ]
+                        ],
+                        "sinopsis": "Tubérculo y Tirson son elegidos presidente y vicepresidente del país. Su gobierno logra popularidad,sobre todo por sus programas de alimentación para el pueblo y su política anticorrupción."
                     },
                     {
                         "spanishTitle": "CATASTROPICO (2D) (Pel. Dom)",
@@ -1561,7 +1968,8 @@
                             "S/R ",
                             "         Acción ",
                             "         115 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
@@ -1596,7 +2004,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
@@ -1628,7 +2037,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos,Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar,un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta,los Asesinos,y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo"
                     },
                     {
                         "spanishTitle": "ALLIED (2D)",
@@ -1656,7 +2066,8 @@
                             "R/14 ",
                             "         Drama ",
                             "         125 min"
-                        ]
+                        ],
+                        "sinopsis": "Año 1942 durante la Segunda Guerra Mundial. Max (Brad Pitt) es un espía del bando aliado que se enamora de Marianne (Marion Cotillard),una compañera francesa,tras una peligrosa misión en el norte de África. La pareja comienza una relación amorosa hasta que a él le notifican que Marianne puede que sea una agente doble que trabaja para los nazis."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -1715,10 +2126,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
@@ -1766,7 +2178,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -1861,8 +2274,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -1915,10 +2343,12 @@
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
                         "englishTitle": "XXX: THE RETURN OF XANDER CAGE (2D) ESP",
                         "scheduleToday": [
-                            "19:00",
+                            "17:15",
+                            "17:45",
                             "19:30",
-                            "21:15",
-                            "21:45"
+                            "20:00",
+                            "21:45",
+                            "22:15"
                         ],
                         "linkForImage": "../images/posters/15_7044.jpg",
                         "showTimeData": [
@@ -1934,6 +2364,7 @@
                         "spanishTitle": "ASSASSINS CREED (3D) SUB",
                         "englishTitle": "ASSASSINS CREED",
                         "scheduleToday": [
+                            "17:00",
                             "19:15",
                             "21:30"
                         ],
@@ -1951,17 +2382,20 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "18:30",
+                            "17:00",
+                            "17:30",
+                            "18:00",
                             "19:05",
-                            "19:30",
-                            "20:35",
+                            "19:35",
+                            "20:05",
                             "21:10",
-                            "21:35"
+                            "21:40",
+                            "22:10"
                         ],
                         "linkForImage": "../images/posters/15_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -1972,6 +2406,7 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
+                            "16:55",
                             "19:10",
                             "21:25"
                         ],
@@ -1988,6 +2423,7 @@
                         "spanishTitle": "TUBERCULO PRESIDENTE(2D)PelDom",
                         "englishTitle": "TUBERCULO PRESIDENTE(2D) (Pel. Dom)",
                         "scheduleToday": [
+                            "17:05",
                             "19:20",
                             "21:35"
                         ],
@@ -2047,7 +2483,8 @@
                             "S/R ",
                             "         Comedia ",
                             "         90 min"
-                        ]
+                        ],
+                        "sinopsis": "Tubérculo y Tirson son elegidos presidente y vicepresidente del país. Su gobierno logra popularidad,sobre todo por sus programas de alimentación para el pueblo y su política anticorrupción."
                     },
                     {
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
@@ -2090,7 +2527,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -2163,10 +2601,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (3D) SUB",
@@ -2210,7 +2649,8 @@
                             "R/12 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos,Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar,un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta,los Assassins,y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo."
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
@@ -2270,7 +2710,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -2360,8 +2801,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -2416,16 +2872,19 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "19:05",
+                            "17:40",
+                            "18:10",
                             "19:25",
-                            "21:10",
+                            "19:45",
+                            "20:15",
                             "21:30",
-                            "21:50"
+                            "21:50",
+                            "22:20"
                         ],
                         "linkForImage": "../images/posters/16_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -2436,10 +2895,12 @@
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
                         "englishTitle": "XXX: The Return Of Xander Cage (2D) SUB",
                         "scheduleToday": [
-                            "19:15",
-                            "19:40",
-                            "21:30",
-                            "21:55"
+                            "16:55",
+                            "17:30",
+                            "19:10",
+                            "19:45",
+                            "21:25",
+                            "22:00"
                         ],
                         "linkForImage": "../images/posters/16_6984.jpg",
                         "showTimeData": [
@@ -2455,6 +2916,7 @@
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
                         "englishTitle": "ASSASSINS CREED",
                         "scheduleToday": [
+                            "19:00",
                             "21:15"
                         ],
                         "linkForImage": "../images/posters/16_6972.jpg",
@@ -2471,8 +2933,8 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
-                            "19:00",
-                            "19:35"
+                            "16:45",
+                            "17:10"
                         ],
                         "linkForImage": "../images/posters/16_3140.jpg",
                         "showTimeData": [
@@ -2514,7 +2976,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) SUB",
@@ -2542,7 +3005,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Gracias a una tecnología revolucionaria que permite el acceso a los recuerdos genéticos,Callum Lynch (Michael Fassbender) revive las aventuras de Aguilar,un antepasado suyo que vivió en la España del siglo XV. Así descubre que es descendiente de una misteriosa organización secreta,los Asesinos,y que posee las habilidades y los conocimientos necesarios para enfrentarse a la poderosa y temible organización de los Templarios en la época actual. Adaptación libre del videojuego homónimo"
                     },
                     {
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
@@ -2578,7 +3042,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -2623,10 +3088,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
@@ -2646,7 +3112,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -2736,8 +3203,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -2799,17 +3281,36 @@
             {
                 "daily": [
                     {
+                        "spanishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "englishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "scheduleToday": [
+                            "17:05",
+                            "19:20"
+                        ],
+                        "linkForImage": "../images/posters/17_7047.jpg",
+                        "showTimeData": [
+                            "En EspañolSubtitulada",
+                            "R/14 ",
+                            "Acción ",
+                            "110 min "
+                        ],
+                        "trailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
+                    },
+                    {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
+                            "17:25",
                             "19:30",
-                            "21:15",
-                            "21:35"
+                            "19:45",
+                            "21:35",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/17_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -2820,8 +3321,7 @@
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
                         "englishTitle": "XXX: The Return Of Xander Cage (2D) SUB",
                         "scheduleToday": [
-                            "19:15",
-                            "21:30"
+                            "21:35"
                         ],
                         "linkForImage": "../images/posters/17_6984.jpg",
                         "showTimeData": [
@@ -2837,7 +3337,7 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
-                            "19:00"
+                            "17:30"
                         ],
                         "linkForImage": "../images/posters/17_3140.jpg",
                         "showTimeData": [
@@ -2884,7 +3384,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Tubérculo y Tirson son elegidos presidente y vicepresidente del país. Su gobierno logra popularidad,sobre todo por sus programas de alimentación para el pueblo y su política anticorrupción."
                     },
                     {
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
@@ -2895,29 +3396,21 @@
                                 "21:30"
                             ],
                             "Viernes": [
-                                "19:15",
                                 "21:30"
                             ],
                             "Sabado": [
-                                "17:05",
-                                "19:20",
                                 "21:35"
                             ],
                             "Domingo": [
-                                "17:05",
-                                "19:20",
                                 "21:35"
                             ],
                             "Lunes": [
-                                "19:15",
                                 "21:30"
                             ],
                             "Martes": [
-                                "19:15",
                                 "21:30"
                             ],
                             "Miercoles": [
-                                "19:15",
                                 "21:30"
                             ]
                         },
@@ -2928,7 +3421,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -2946,7 +3440,7 @@
                             ],
                             "Sabado": [
                                 "17:25",
-                                "19:25",
+                                "19:30",
                                 "19:45",
                                 "21:35",
                                 "21:50"
@@ -2978,10 +3472,46 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
+                    },
+                    {
+                        "spanishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "englishTitle": "XXX: XANDER CAGE (2D) ESP",
+                        "weekDaySchedule": {
+                            "Viernes": [
+                                "19:15"
+                            ],
+                            "Sabado": [
+                                "17:05",
+                                "19:20"
+                            ],
+                            "Domingo": [
+                                "17:05",
+                                "19:20"
+                            ],
+                            "Lunes": [
+                                "19:15"
+                            ],
+                            "Martes": [
+                                "19:15"
+                            ],
+                            "Miercoles": [
+                                "19:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=MQEFmHsseaU",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         110 min"
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -3061,8 +3591,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -3099,6 +3644,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",
                         "movieName": "XXX: THE RETURN OF XANDER CAGE",
                         "date": "19/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
+                        "movieName": "XXX: XANDER CAGE (2D) ESP",
+                        "date": "19/01/2017"
                     }
                 ]
             }
@@ -3112,15 +3662,17 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "19:15",
+                            "17:40",
+                            "18:15",
                             "19:45",
-                            "21:20",
-                            "21:50"
+                            "20:20",
+                            "21:50",
+                            "22:25"
                         ],
                         "linkForImage": "../images/posters/18_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -3131,8 +3683,9 @@
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
                         "englishTitle": "XXX: The Return Of Xander Cage (2D) SUB",
                         "scheduleToday": [
-                            "21:45",
-                            "19:30"
+                            "20:00",
+                            "17:45",
+                            "22:15"
                         ],
                         "linkForImage": "../images/posters/18_6984.jpg",
                         "showTimeData": [
@@ -3148,8 +3701,9 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
-                            "19:20",
-                            "21:35"
+                            "17:00",
+                            "19:15",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/18_3140.jpg",
                         "showTimeData": [
@@ -3205,7 +3759,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
@@ -3216,8 +3771,8 @@
                                 "19:30"
                             ],
                             "Viernes": [
-                                "21:45",
-                                "19:30"
+                                "19:30",
+                                "21:45"
                             ],
                             "Sabado": [
                                 "20:00",
@@ -3249,7 +3804,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -3306,10 +3862,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     }
                 ]
             },
@@ -3389,8 +3946,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -3453,15 +4025,17 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "19:00",
-                            "19:30",
-                            "21:05",
-                            "21:35"
+                            "17:15",
+                            "17:50",
+                            "19:20",
+                            "19:55",
+                            "21:25",
+                            "22:00"
                         ],
                         "linkForImage": "../images/posters/19_6985.jpg",
                         "showTimeData": [
                             "En EspañolSubtitulada",
-                            "R/14 ",
+                            "S/R ",
                             "Acción ",
                             "100 min "
                         ],
@@ -3472,8 +4046,9 @@
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
                         "englishTitle": "XXX: The Return Of Xander Cage (2D) SUB",
                         "scheduleToday": [
-                            "19:20",
-                            "21:35"
+                            "17:15",
+                            "19:30",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/19_6984.jpg",
                         "showTimeData": [
@@ -3489,6 +4064,7 @@
                         "spanishTitle": "MOANA (2D) ESPAÑOL",
                         "englishTitle": "MOANA (2D)",
                         "scheduleToday": [
+                            "17:00",
                             "19:15"
                         ],
                         "linkForImage": "../images/posters/19_3140.jpg",
@@ -3538,7 +4114,8 @@
                             "S/R ",
                             "         Animación ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "XXX: THE RETURN OF XANDER CAGE",
@@ -3578,7 +4155,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -3636,10 +4214,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
                         "language": "En Español Subtitulada",
                         "showTimeData": [
-                            "R/14 ",
+                            "S/R ",
                             "         Acción ",
                             "         100 min"
-                        ]
+                        ],
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "ASSASSINS CREED (2D) ESPAÑOL",
@@ -3673,7 +4252,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
@@ -3691,7 +4271,8 @@
                             "R/14 ",
                             "         Acción ",
                             "         110 min"
-                        ]
+                        ],
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     }
                 ]
             },
@@ -3776,8 +4357,23 @@
                         "date": "19/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7048&tipoimagen=poster",
+                        "movieName": "HIDDEN FIGURES (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6989&tipoimagen=poster",
                         "movieName": "HIDDEN FIGURES (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {

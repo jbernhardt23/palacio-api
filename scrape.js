@@ -27,6 +27,7 @@ var finalTheatherInfo;
 var finalComingSoon;
 
 var dailyObjectArray;
+var weeklyArray;
 
 var currentCity;
 var currentTheather = {
@@ -129,7 +130,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
               })
               .then(function(bodyWeekly) {
                 var tempArray = [];
-                var weeklyArray = [];
+                weeklyArray = [];
                 var $ = cheerio.load(bodyWeekly);
 
 
@@ -258,7 +259,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                         }
 
-                        //	console.log(theatherInformationObject);
                         cinesArray.push(theatherInformationObject);
 
 
@@ -287,7 +287,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                         $('.comingSoonBlock').each(function(index, element) {
 
-                          //Coming soon ingo
+                          //Coming soon info
                           comingSoonObject = {
 
                               image: "",
@@ -317,15 +317,23 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
 
                         //Loop to iterate over each daily movie and get trailer and movies
-                        var countWeek = 0;
+                        var countDay = 0;
+                        var selectorDaily;
                         async.eachOfSeries(dailyObjectArray, function(detailItem, detailKeyDo, detailNext) {
+
+                            if (countDay >= 10) {
+                              selectorDaily = 'a[id = "ctl00_ContentPlaceHolder1_Repeater1_ctl' + countDay + '_inc_showtime_daily1_HyperLink1"]';
+                            } else {
+                              selectorDaily = 'a[id = "ctl00_ContentPlaceHolder1_Repeater1_ctl0' + countDay + '_inc_showtime_daily1_HyperLink1"]';
+
+                            }
 
                             nightmare
                               .click('a[href*= "../showtimes/index.aspx"]')
                               .wait(function() {
                                 return document.readyState === "complete"
                               })
-                              .click('a[id = "ctl00_ContentPlaceHolder1_Repeater1_ctl0' + countWeek + '_inc_showtime_daily1_HyperLink1"]')
+                              .click(selectorDaily)
                               .wait(function() {
                                 return document.readyState === "complete"
                               })
@@ -335,15 +343,26 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                               .then(function(datailBody) {
                                 var $ = cheerio.load(datailBody);
 
-                                //console.log(detailItem.englishTitle);
-                                detailItem.trailer = $('.showtimeTrailer').find('h2').children('a').attr('href');
+                                if ($('.showtimeTrailer').find('h2').children('a').attr('href') != undefined || $('.showtimeTrailer').find('h2').children('a').attr('href') == "") {
+                                  //trailer
+                                  detailItem.trailer = $('.showtimeTrailer').find('h2').children('a').attr('href');
+                                }
 
-                                detailItem.sinopsis = $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text();
+                                if ($('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() != undefined || $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() == "") {
+                                  //sinopsis
+                                  detailItem.sinopsis = $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text();
+                                }
 
                                 nightmare
+                                  .wait(function() {
+                                    return document.readyState === "complete"
+                                  })
                                   .back()
+                                  .wait(function() {
+                                    return document.readyState === "complete"
+                                  })
                                   .then(function() {
-                                    countWeek++;
+                                    countDay++;
                                     detailNext();
                                   });
 
@@ -354,35 +373,96 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                           },
                           function(err) {
-                            if (err) return console.log(err); {
+                            if (err) {
+                              return console.log(err);
+                            } else {
 
-                              //nighmare to go front page again and asigning objects
-                              nightmare
-                                .click('a[href="../index.aspx?c=true"]')
-                                .wait(function() {
-                                  return document.readyState === "complete"
-                                })
-                                .evaluate(function() {
-                                  return document.body.innerHTML;
-                                })
-                                .then(function(body) {
-                                  console.log('Back to home');
-                                  console.log(finalDaily);
-                                  //assigning information to current theather
-                                  currentTheather[currentTheatherName] = [finalDaily, finalWeekly, finalTheatherInfo, finalComingSoon];
-                                  //passing theather obhect to current city
-                                  cinesObject[currentCity] = currentTheather;
-                                  console.log(cinesObject);
-                                  //executing next theather on loop
-                                  nexts();
+                              var countWeek = 0;
+                              var weekleySelector;
+                              async.eachOfSeries(weeklyArray, function(weeklyDetailItem, weeklyDetailKeyDo, weeklyDetailNext) {
+
+                                  if (countWeek >= 10) {
+                                    weekleySelector = 'a[id = "ctl00_ContentPlaceHolder1_inc_showtime_weekly1_rptPeliculas_ctl' + countWeek + '_lnkTitulo"]';
+                                  } else {
+                                    weekleySelector = 'a[id = "ctl00_ContentPlaceHolder1_inc_showtime_weekly1_rptPeliculas_ctl0' + countWeek + '_lnkTitulo"]';
+                                  }
+
+                                  nightmare
+                                    .click('a[href*= "../showtimes/weekly.aspx"]')
+                                    .wait(function() {
+                                      return document.readyState === "complete"
+                                    })
+                                    .click(weekleySelector)
+                                    .wait(function() {
+                                      return document.readyState === "complete"
+                                    })
+                                    .evaluate(function() {
+                                      return document.body.innerHTML;
+                                    })
+                                    .then(function(weeklyDatailBody) {
+                                      var $ = cheerio.load(weeklyDatailBody);
+
+                                      if ($('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() != undefined || $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() == "") {
+                                        //sinopsis
+                                        weeklyDetailItem.sinopsis = $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text();
+                                      }
+
+                                      nightmare
+                                        .wait(function() {
+                                          return document.readyState === "complete"
+                                        })
+                                        .back()
+                                        .wait(function() {
+                                          return document.readyState === "complete"
+                                        })
+                                        .then(function() {
+                                          countWeek++;
+                                          weeklyDetailNext();
+                                        });
+
+                                    })
+                                    .catch(function(errorWeekley) {
+                                      console.error('Detail weekly movie error:', errorWeekley);
+                                    });
+
+                                },
+                                function(err) {
+                                  if (err) {
+                                    return console.log(err);
+                                  } else {
 
 
-                                })
-                                .catch(function(error) {
-                                  console.error('Search on last nightmare instance, Going back: ', error);
+
+                                    //nighmare to go front page to change city
+                                    nightmare
+                                      .click('a[href="../index.aspx?c=true"]')
+                                      .wait(function() {
+                                        return document.readyState === "complete"
+                                      })
+                                      .evaluate(function() {
+                                        return document.body.innerHTML;
+                                      })
+                                      .then(function(body) {
+                                        console.log('Back to home');
+
+                                        //assigning information to current theather
+                                        currentTheather[currentTheatherName] = [finalDaily, finalWeekly, finalTheatherInfo, finalComingSoon];
+                                        //passing theather obhect to current city
+                                        cinesObject[currentCity] = currentTheather;
+                                        console.log(cinesObject);
+                                        //executing next theather on loop
+                                        nexts();
+
+
+                                      })
+                                      .catch(function(error) {
+                                        console.error('Search on last nightmare instance, Going back: ', error);
+                                      });
+
+                                  }
+
                                 });
-
-                            };
+                            }
 
                           });
 
@@ -422,14 +502,18 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
   },
   function(err2) {
+    //this is the final callback of the final loop
+
     if (err2) {
       return console.log(err);
     } else {
       console.log("Done with Movies info");
 
+      //creating JSON object
       var finalObject = JSON.stringify(cinesObject, null, 4);
       nightmare.end();
 
+      //creating and writing file on directory 
       fs.writeFile('moviesData.json', finalObject, function(err) {
         if (err) {
           return console.log(err);
@@ -441,88 +525,88 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
       //This is not cool, inception level too deep on JSON
 
-/*
+      /*
 
-      async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
-        async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
-          async.eachOfSeries(theatherItem, function(movieItem, movieKey, movieNext) {
-            async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
+            async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
+              async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
+                async.eachOfSeries(theatherItem, function(movieItem, movieKey, movieNext) {
+                  async.eachOfSeries(movieItem.weekly, function(weeklyItem, weeklyKey, weeklyNext) {
 
-              //console.log(weeklyItem.englishTitle);
-              if (!weeklyItem.englishTitle.includes("Dom") && weeklyItem.urlTrailer == undefined) {
+                    //console.log(weeklyItem.englishTitle);
+                    if (!weeklyItem.englishTitle.includes("Dom") && weeklyItem.urlTrailer == undefined) {
 
-                if (weeklyItem.englishTitle.includes("(2D)")) {
-                  weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(2D)", "");
-                }
+                      if (weeklyItem.englishTitle.includes("(2D)")) {
+                        weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(2D)", "");
+                      }
 
-                if (weeklyItem.englishTitle.includes("SUB")) {
-                  weeklyItem.englishTitle = weeklyItem.englishTitle.replace("SUB", "");
-                }
-                if (weeklyItem.englishTitle.includes("(SUB)")) {
-                  weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(SUB)", "");
-                }
-                if (weeklyItem.englishTitle.includes("(IMAX)")) {
-                  weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(IMAX)", "");
-                }
+                      if (weeklyItem.englishTitle.includes("SUB")) {
+                        weeklyItem.englishTitle = weeklyItem.englishTitle.replace("SUB", "");
+                      }
+                      if (weeklyItem.englishTitle.includes("(SUB)")) {
+                        weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(SUB)", "");
+                      }
+                      if (weeklyItem.englishTitle.includes("(IMAX)")) {
+                        weeklyItem.englishTitle = weeklyItem.englishTitle.replace("(IMAX)", "");
+                      }
 
-                if (weeklyItem.englishTitle.includes("()")) {
-                  weeklyItem.englishTitle = weeklyItem.englishTitle.replace("()", "");
-                }
+                      if (weeklyItem.englishTitle.includes("()")) {
+                        weeklyItem.englishTitle = weeklyItem.englishTitle.replace("()", "");
+                      }
 
 
-                nightmare
-                  .goto('http://www.imdb.com')
-                  .wait(function() {
-                    return document.readyState === "complete"
-                  })
-                  .type('#navbar-query', weeklyItem.englishTitle)
-                  .click('#navbar-submit-button')
-                  .wait(function() {
-                    return document.readyState === "complete"
-                  })
-                  .click('ul.findTitleSubfilterList > li:first-of-type > a')
-                  .wait(function() {
-                    return document.readyState === "complete"
-                  })
-                  .click('div > div > div:nth-of-type(2) > table > tbody > tr:first-of-type > td:nth-of-type(2) > a')
-                  .evaluate(function() {
-                    return document.body.innerHTML;
+                      nightmare
+                        .goto('http://www.imdb.com')
+                        .wait(function() {
+                          return document.readyState === "complete"
+                        })
+                        .type('#navbar-query', weeklyItem.englishTitle)
+                        .click('#navbar-submit-button')
+                        .wait(function() {
+                          return document.readyState === "complete"
+                        })
+                        .click('ul.findTitleSubfilterList > li:first-of-type > a')
+                        .wait(function() {
+                          return document.readyState === "complete"
+                        })
+                        .click('div > div > div:nth-of-type(2) > table > tbody > tr:first-of-type > td:nth-of-type(2) > a')
+                        .evaluate(function() {
+                          return document.body.innerHTML;
 
-                  })
-                  .then(function(imdb) {
-                    var $ = cheerio.load(imdb);
-                    console.log($('a[itemprop = "trailer"]').attr('href'));
-                    weeklyNext();
+                        })
+                        .then(function(imdb) {
+                          var $ = cheerio.load(imdb);
+                          console.log($('a[itemprop = "trailer"]').attr('href'));
+                          weeklyNext();
 
-                  })
-                  .catch(function(error) {
-                    console.error('Errr', error);
-                    weeklyNext();
+                        })
+                        .catch(function(error) {
+                          console.error('Errr', error);
+                          weeklyNext();
+                        });
+
+                    } else {
+                      weeklyNext();
+                    }
+
+                  }, function(err1) {
+                    movieNext();
+
                   });
 
-              } else {
-                weeklyNext();
-              }
+                }, function(err2) {
+                  theatherNext();
 
-            }, function(err1) {
-              movieNext();
+                });
 
-            });
+              }, function(err3) {
+                cityNext();
+              });
 
-          }, function(err2) {
-            theatherNext();
-
-          });
-
-        }, function(err3) {
-          cityNext();
-        });
-
-      }, function(err4) {
+            }, function(err4) {
 
 
 
-      });*/
+            });*/
 
     }
 

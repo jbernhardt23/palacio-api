@@ -50,9 +50,9 @@ var cinesObject = {
 
 
 async.eachOfSeries(complexObject, function(item, keyDo, next) {
-
+  console.log("---> Current city: " + keyDo.toString());
     async.eachOfSeries(item, function(items, keyDos, nexts) {
-
+     console.log("---> Current theather: " + items); 
         nightmare
           .goto(urlWeb)
           .wait(selectCity)
@@ -73,6 +73,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
             //Object holder for daily information
             dailyObjectArray = [];
+             console.log("---> Scraping todays movie");
 
             var currentTheatherName = $('span[style="font-weight:bold;font-style: italic"]').text();
             var currentCity = $('#contHeaderCity').text().replace("cambiar ciudad >>", "");
@@ -132,7 +133,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                 var tempArray = [];
                 weeklyArray = [];
                 var $ = cheerio.load(bodyWeekly);
-
+                 console.log("---> Scraping weekly");
+             
 
                 $('.showtimeWeekly').each(function(index, element) {
 
@@ -230,9 +232,9 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                   .then(function(cines) {
                     var $ = cheerio.load(cines);
                     var cinesArray = [];
-
-                    if (items === "12") {
-
+                     console.log("---> Scraping theathers info");
+                    if (items == "12") {
+                       console.log("---> on bella vista");
                       $('.contentBlock').each(function(index, element) {
                         var count = 0;
                         //Weekely object 
@@ -264,10 +266,12 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                       });
 
+                    
+                    }
+
                       finalTheatherInfo = {
                         theatherInfo: cinesArray
                       }
-                    }
 
 
                     //nightmare to scrape coming soon info per movies
@@ -283,7 +287,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                       .then(function(proximamente) {
                         var $ = cheerio.load(proximamente);
                         var comingSoonArray = [];
-
+                         console.log("---> Scraping comming soon ");
 
                         $('.comingSoonBlock').each(function(index, element) {
 
@@ -342,6 +346,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                               })
                               .then(function(datailBody) {
                                 var $ = cheerio.load(datailBody);
+                                 console.log("---> Scraping detail daily movie for: " + detailItem.englishTitle);
 
                                 if ($('.showtimeTrailer').find('h2').children('a').attr('href') != undefined || $('.showtimeTrailer').find('h2').children('a').attr('href') == "") {
                                   //trailer
@@ -401,6 +406,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                                     })
                                     .then(function(weeklyDatailBody) {
                                       var $ = cheerio.load(weeklyDatailBody);
+                                      console.log("---> Scraping detail daily movie for: " + weeklyDetailItem.englishTitle);
 
                                       if ($('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() != undefined || $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() == "") {
                                         //sinopsis
@@ -511,7 +517,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
       //creating JSON object
       var finalObject = JSON.stringify(cinesObject, null, 4);
-      nightmare.end();
 
       //creating and writing file on directory 
       fs.writeFile('moviesData.json', finalObject, function(err) {
@@ -519,13 +524,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
           return console.log(err);
         } else {
           console.log('File successfully witen! - Check your project directory for the moviesData.json file');
-        }
-
-      });
-
-      //This is not cool, inception level too deep on JSON
-
-      /*
 
             async.eachOfSeries(cinesObject, function(cityItem, cityKey, cityNext) {
               async.eachOfSeries(cityItem, function(theatherItem, theatherKey, theatherNext) {
@@ -606,7 +604,10 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
 
 
-            });*/
+            });
+        }
+
+      });
 
     }
 

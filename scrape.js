@@ -333,11 +333,11 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                             nightmare
                               .click('a[href*= "../showtimes/weekly.aspx"]')
                               .wait(function() {
-                                return document.readyState === "complete"
+                                return document.readyState === "complete";
                               })
                               .click(weekleySelector)
                               .wait(function() {
-                                return document.readyState === "complete"
+                                return document.readyState === "complete";
                               })
                               .evaluate(function() {
                                 return document.body.innerHTML;
@@ -354,11 +354,14 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                                 nightmare
                                   .wait(function() {
-                                    return document.readyState === "complete"
+                                    return document.readyState === "complete";
                                   })
                                   .back()
                                   .wait(function() {
-                                    return document.readyState === "complete"
+                                    return document.readyState === "complete";
+                                  })
+                                  .evaluate(function() {
+                                    return document.body.innerHTML;
                                   })
                                   .then(function() {
                                     countWeek++;
@@ -437,7 +440,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                                         })
                                         .then(function(imdb) {
                                           var $ = cheerio.load(imdb);
-                                          weeklyItem.urlTrailer = $('a[itemprop = "trailer"]').attr('href');
+                                          weeklyItem.urlTrailer = "http://www.imdb.com/videoembed/" + $('a[itemprop = "trailer"]').attr('data-video');
+                                          console.log(weeklyItem.urlTrailer);
                                           weeklyItem.sinopsis = $('.summary_text').text().replace(/\n/g, "").trim();
                                           weeklyNext();
 

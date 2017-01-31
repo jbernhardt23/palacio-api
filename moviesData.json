@@ -1063,11 +1063,6 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
                         "movieName": "XXX: XANDER CAGE (2D) ESP",
                         "date": "19/01/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7044&tipoimagen=poster",
-                        "movieName": "XXX: XANDER CAGE (IMAX 2D)",
-                        "date": "19/01/2017"
                     }
                 ]
             }
@@ -1075,59 +1070,6 @@
         "BLUEMALL ": [
             {
                 "daily": [
-                    {
-                        "spanishTitle": "CINEMA NOVO (2D) ESP",
-                        "englishTitle": "CINEMA NOVO (2D) ESP",
-                        "scheduleToday": [
-                            "21:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7087.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "85 min "
-                        ],
-                        "sinopsis": "Cinema Novo es un ensayo cinematográfico que explora con poesía el movimiento más importante en América Latina,a través de los pensamientos de sus protagonistas principales: Nelson Pereira dos Santos,Glauber Rocha,Leon Hirszman,Joaquim Pedro de Andrade,Ruy Guerra,Walter Lima Jr.,Paulo César Saraceni,etc.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=Oj7NZp1WBVs"
-                    },
-                    {
-                        "spanishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
-                        "englishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
-                        "scheduleToday": [
-                            "17:00",
-                            "19:00",
-                            "19:00",
-                            "19:25",
-                            "21:00",
-                            "21:40",
-                            "22:35"
-                        ],
-                        "linkForImage": "../images/posters/13_7086.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "110 min "
-                        ],
-                        "sinopsis": ""
-                    },
-                    {
-                        "spanishTitle": "ZIPI Y ZAPE (2D) ESP",
-                        "englishTitle": "ZIPI Y ZAPE (2D) ESP",
-                        "scheduleToday": [
-                            "09:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7084.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Llegan las navidades y Zipi y Zape la vuelven a liar parda. Esta vez la travesura es tan grande que son castigados sin vacaciones y obligados a acompañar a sus padres a lo que parece ser un aburrido viaje en barco. Para su sorpresa,el destino es una espectacular y remota isla. Una terrible tormenta les obliga a refugiarse en la mansión de la divertida señorita Pam,donde niños sin familia disfrutan de un paraíso sin reglas. Ayudados por Pipi,Maqui y Flequi,los hermanos descubren que la repentina desaparición de sus padres en medio de la noche guarda relación con el secreto que encierran la misteriosa isla y sus extraños habitantes... Secuela de \"Zipi y Zape y el club de la canica\" (2013).",
-                        "urlTrailer": "https://www.youtube.com/watch?v=2Yb2sgjAtBE"
-                    },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (IMAX-3D) SUB",
                         "englishTitle": "RESIDENT EVIL 6 (IMAX-3D) SUB",
@@ -1146,120 +1088,6 @@
                         ],
                         "sinopsis": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-,ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo,Alice tendrá que unir fuerzas con viejos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad,que está al borde de la extinción.",
                         "urlTrailer": "https://www.youtube.com/watch?v=_h6t_Ee5r68"
-                    },
-                    {
-                        "spanishTitle": "VIDA SEXUAL DE LAS PLANTAS 2D",
-                        "englishTitle": "VIDA SEXUAL DE LAS PLANTAS 2D",
-                        "scheduleToday": [
-                            "21:30"
-                        ],
-                        "linkForImage": "../images/posters/13_7075.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "95 min "
-                        ],
-                        "sinopsis": "Después de que un accidente transforme al amor de Bárbara en un extraño de pocas luces,ella se involucra con un hombre que le ofrece estabilidad sin pasión. Trata de adaptarse a su nuevo destino,pero la memoria del amor perdido la atormenta. Hasta que entiende que lo más importante no está perdido.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=vxK-7G9XJ9I"
-                    },
-                    {
-                        "spanishTitle": "LOS MODERNOS (2D) ESP",
-                        "englishTitle": "LOS MODERNOS (2D) ESP",
-                        "scheduleToday": [
-                            "19:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7067.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "135 min "
-                        ],
-                        "sinopsis": "Tres parejas se enfrentan a la disyuntiva de elegir entre la paternidad,la realización profesional y su libertad sexual. El estilo de vida,las decisiones,la libertad,el sexo,el amor,siguen siendo los temas que nos movilizan y desvelan por la noche. “Los modernos” trata esos temas desde una perspectiva crítica,poniendo en tela de juicio los parámetros por los que se rigen los valores del mundo contemporáneo.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=JXuX7fwOH08"
-                    },
-                    {
-                        "spanishTitle": "LOS DECENTES (2D) ESP",
-                        "englishTitle": "LOS DECENTES (2D) ESP",
-                        "scheduleToday": [
-                            "17:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7065.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Una criada,que trabaja en una exclusiva comunidad vallada en las afueras de Buenos Aires,se embarca en un viaje de liberación sexual y mental en un club nudista al otro lado de los muros de seguridad.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=2mIHIIng5w0"
-                    },
-                    {
-                        "spanishTitle": "LA MUJER DEL ANIMAL (2D) ESP",
-                        "englishTitle": "LA MUJER DEL ANIMAL (2D) ESP",
-                        "scheduleToday": [
-                            "17:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7061.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "120 min "
-                        ]
-                    },
-                    {
-                        "spanishTitle": "EL SOBORNO DEL CIELO (2D) ESP",
-                        "englishTitle": "EL SOBORNO DEL CIELO (2D) ESP",
-                        "scheduleToday": [
-                            "17:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7056.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "90 min "
-                        ],
-                        "sinopsis": "Finales de los años sesenta. Una ciudad de provincias. La vida transcurre plácidamente hasta que el suicidio de Aimer Zapata viene a perturbarlo todo. El nuevo párroco,muy intransigente,se niega a darle católica sepultura a un suicida. La familia del difunto,muy religiosa,desafía la autoridad del cura y entierra a Aimer en el camposanto.\n Furioso,el párroco deja de administrar sacramento alguno mientras no cambien el cadáver de sitio. Niños sin bautizar,bodas que han de retrasarse,moribundos que fallecen sin recibir la extremaunción…\nPresionada por los vecinos,la familia del suicida redobla la apuesta: mudarán el cadáver si todos los demás familiares de suicidas también trasladan los suyos. Que no son pocos,aunque se hayan mantenido como un secreto a voces. Pero ahora todos esos secretos van a salir a la luz pública,amenazando la convivencia…",
-                        "urlTrailer": "https://www.youtube.com/watch?v=L-eBCj4lmNI"
-                    },
-                    {
-                        "spanishTitle": "ALMA DE SANT PERE (2D) (ESP)",
-                        "englishTitle": "ALMA DE SANT PERE (2D) (ESP)",
-                        "scheduleToday": [
-                            "17:00",
-                            "19:00"
-                        ],
-                        "linkForImage": "../images/posters/13_7050.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "100 min "
-                        ],
-                        "sinopsis": "",
-                        "urlTrailer": "https://www.youtube.com/watch?v=7eFfL3h-73M"
-                    },
-                    {
-                        "spanishTitle": "LIVE BY NIGHT (2D) (ESP)",
-                        "englishTitle": "LIVE BY NIGHT (2D) (ESP)",
-                        "scheduleToday": [
-                            "19:10",
-                            "19:10",
-                            "21:45",
-                            "21:45"
-                        ],
-                        "linkForImage": "../images/posters/13_7049.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/14 ",
-                            "Drama ",
-                            "130 min "
-                        ],
-                        "sinopsis": "Ambientada en Boston durante los años 20,en la época de la ley seca,gira en torno a un hombre que se adentra en el mundo del crimen organizado.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=CtFZcAuH-qI"
                     }
                 ]
             },
@@ -1292,10 +1120,10 @@
                                 "21:45"
                             ],
                             "Lunes": [
+                                "16:35",
+                                "16:35",
                                 "19:10",
-                                "19:10",
-                                "21:45",
-                                "21:45"
+                                "19:10"
                             ],
                             "Miercoles": [
                                 "19:10",
@@ -1663,6 +1491,8 @@
                                 "21:45"
                             ],
                             "Lunes": [
+                                "17:15",
+                                "17:15",
                                 "19:30",
                                 "19:30",
                                 "21:45",
@@ -1744,6 +1574,54 @@
                                 "21:00",
                                 "21:00",
                                 "21:00"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00"
+                            ],
+                            "Lunes": [
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "17:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "19:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:00",
+                                "21:40",
+                                "21:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7086&tipoimagen=poster",
@@ -1803,9 +1681,64 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6977&tipoimagen=poster",
+                        "movieName": "ALLIED (2D)",
+                        "date": "12/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7050&tipoimagen=poster",
+                        "movieName": "ALMA DE SANT PERE (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6972&tipoimagen=poster",
+                        "movieName": "ASSASSINS CREED (2D) SUB",
+                        "date": "05/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7014&tipoimagen=poster",
+                        "movieName": "BREAKFAST AT TIFFANY'S (2D)",
+                        "date": "12/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7087&tipoimagen=poster",
+                        "movieName": "CINEMA NOVO (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7051&tipoimagen=poster",
+                        "movieName": "COMO LOCOS (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7052&tipoimagen=poster",
+                        "movieName": "EL AMPARO (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7088&tipoimagen=poster",
+                        "movieName": "EL CRISTO CIEGO (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7055&tipoimagen=poster",
+                        "movieName": "EL OLIVO (2D) ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "movieName": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "date": "19/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7056&tipoimagen=poster",
+                        "movieName": "EL SOBORNO DEL CIELO (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7024&tipoimagen=poster",
+                        "movieName": "ELLE (2D) SUB",
+                        "date": "26/01/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7086&tipoimagen=poster",
@@ -1813,24 +1746,69 @@
                         "date": "26/01/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6992&tipoimagen=poster",
-                        "movieName": "RESIDENT EVIL 6 (2D) (ESP)",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7059&tipoimagen=poster",
+                        "movieName": "HOTEL CAMBRIDGE (2D) ESP",
                         "date": "26/01/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6990&tipoimagen=poster",
-                        "movieName": "RESIDENT EVIL 6 (2D) (SUB)",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7061&tipoimagen=poster",
+                        "movieName": "LA MUJER DEL ANIMAL (2D) ESP",
                         "date": "26/01/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",
-                        "movieName": "XXX: THE RETURN OF XANDER CAGE",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7079&tipoimagen=poster",
+                        "movieName": "LA RECONQUISTA (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7064&tipoimagen=poster",
+                        "movieName": "LA TORTUGA ROJA (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7065&tipoimagen=poster",
+                        "movieName": "LOS DECENTES (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7067&tipoimagen=poster",
+                        "movieName": "LOS MODERNOS (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7083&tipoimagen=poster",
+                        "movieName": "RESIDENT EVIL 6 (IMAX-3D) SUB",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7075&tipoimagen=poster",
+                        "movieName": "VIDA SEXUAL DE LAS PLANTAS 2D",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7076&tipoimagen=poster",
+                        "movieName": "WALDSTILLE (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7046&tipoimagen=poster",
+                        "movieName": "XXX: XANDER CAGE (IMAX 3D)",
                         "date": "19/01/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7047&tipoimagen=poster",
-                        "movieName": "XXX: XANDER CAGE (2D) ESP",
-                        "date": "19/01/2017"
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7084&tipoimagen=poster",
+                        "movieName": "ZIPI Y ZAPE (2D) ESP",
+                        "date": "26/01/2017"
                     }
                 ]
             }
@@ -1868,7 +1846,7 @@
                             "Acción ",
                             "130 min "
                         ],
-                        "sinopsis": "Adaptación de \"Bodas de sangre\",de Lorca. Desde pequeños,Leonardo,el novio y la novia han formado un triángulo inseparable,pero cuando se acerca la fecha de la boda las cosas se complican porque entre ella y Leonardo siempre ha habido algo más que amistad. La creciente tensión entre ambos es como un hilo invisible que no se puede explicar,pero tampoco romper.",
+                        "sinopsis": "Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta,en plena carrera espacial y también en mitad de la lucha por los derechos civiles de la gente de color,en el ambicioso proyecto de poner en órbita al astronauta John Glenn.",
                         "urlTrailer": "https://www.youtube.com/watch?v=RK8xHq6dfAo"
                     },
                     {
@@ -2024,8 +2002,17 @@
                             "Viernes": [
                                 "19:15"
                             ],
+                            "Sabado": [
+                                "17:30",
+                                "19:45"
+                            ],
+                            "Domingo": [
+                                "17:30",
+                                "19:45"
+                            ],
                             "Lunes": [
-                                "19:15"
+                                "17:30",
+                                "19:45"
                             ],
                             "Martes": [
                                 "19:15"
@@ -2054,7 +2041,16 @@
                             "Viernes": [
                                 "19:20"
                             ],
+                            "Sabado": [
+                                "17:05",
+                                "19:20"
+                            ],
+                            "Domingo": [
+                                "17:05",
+                                "19:20"
+                            ],
                             "Lunes": [
+                                "17:05",
                                 "19:20"
                             ],
                             "Martes": [
@@ -2086,7 +2082,18 @@
                                 "19:10",
                                 "21:20"
                             ],
+                            "Sabado": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "19:10",
+                                "21:20"
+                            ],
                             "Lunes": [
+                                "17:00",
                                 "19:10",
                                 "21:20"
                             ],
@@ -2129,11 +2136,36 @@
                                 "21:45",
                                 "22:05"
                             ],
-                            "Lunes": [
-                                "18:35",
+                            "Sabado": [
+                                "17:00",
+                                "17:35",
+                                "18:00",
+                                "19:05",
                                 "19:40",
-                                "20:00",
-                                "20:40",
+                                "20:05",
+                                "21:10",
+                                "21:45",
+                                "22:10"
+                            ],
+                            "Domingo": [
+                                "17:00",
+                                "17:35",
+                                "18:00",
+                                "19:05",
+                                "19:40",
+                                "20:05",
+                                "21:10",
+                                "21:45",
+                                "22:10"
+                            ],
+                            "Lunes": [
+                                "17:00",
+                                "17:35",
+                                "18:00",
+                                "19:05",
+                                "19:40",
+                                "20:05",
+                                "21:10",
                                 "21:45",
                                 "22:05"
                             ],
@@ -2176,7 +2208,19 @@
                                 "19:30",
                                 "21:45"
                             ],
+                            "Sabado": [
+                                "16:45",
+                                "17:15",
+                                "19:30",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "19:30",
+                                "21:45"
+                            ],
                             "Lunes": [
+                                "17:15",
                                 "19:30",
                                 "21:45"
                             ],
@@ -2211,7 +2255,17 @@
                                 "19:00",
                                 "21:15"
                             ],
+                            "Sabado": [
+                                "19:00",
+                                "21:15"
+                            ],
+                            "Domingo": [
+                                "16:45",
+                                "19:00",
+                                "21:15"
+                            ],
                             "Lunes": [
+                                "16:45",
                                 "19:00",
                                 "21:15"
                             ],
@@ -2246,7 +2300,17 @@
                                 "19:25",
                                 "21:35"
                             ],
+                            "Sabado": [
+                                "19:25",
+                                "21:35"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "19:25",
+                                "21:35"
+                            ],
                             "Lunes": [
+                                "17:15",
                                 "19:25",
                                 "21:35"
                             ],
@@ -2270,6 +2334,24 @@
                         "sinopsis": "Buscando una forma de evadirse de la vida y la ciudad en la que vive,el joven Tripp (Lucas Till),un estudiante de instituto,construye un 'camión monstruo' con piezas de desguace. Pero entonces Creech,un monstruo procedente de un pantano y adicto a la velocidad,viene a visitarle... Basada en la línea de juguetes de Hasbro,esta adaptación ha sido descrita como un cruce entre \"Los Goonies\" y \"Transformers\"."
                     },
                     {
+                        "spanishTitle": "MONSTER TRUCKS (3D) (SUB)",
+                        "englishTitle": "MONSTER TRUCKS (3D) (SUB)",
+                        "weekDaySchedule": {
+                            "Sabado": [
+                                "17:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6995&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=uExOEmydHTs",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Acción ",
+                            "         105 min"
+                        ],
+                        "sinopsis": "Buscando una forma de evadirse de la vida y la ciudad en la que vive,el joven Tripp (Lucas Till),un estudiante de instituto,construye un 'camión monstruo' con piezas de desguace. Pero entonces Creech,un monstruo procedente de un pantano y adicto a la velocidad,viene a visitarle... Basada en la línea de juguetes de Hasbro,esta adaptación ha sido descrita como un cruce entre \"Los Goonies\" y \"Transformers\"."
+                    },
+                    {
                         "spanishTitle": "XXX: XANDER CAGE (IMAX 2D)",
                         "englishTitle": "XXX: THE RETURN OF XANDER CAGE (2D) ESP",
                         "weekDaySchedule": {
@@ -2283,10 +2365,23 @@
                                 "21:00",
                                 "21:30"
                             ],
-                            "Lunes": [
+                            "Sabado": [
+                                "16:30",
                                 "18:45",
                                 "21:00",
-                                "21:30"
+                                "22:00"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "18:45",
+                                "21:00",
+                                "22:00"
+                            ],
+                            "Lunes": [
+                                "16:30",
+                                "18:45",
+                                "21:00",
+                                "22:00"
                             ],
                             "Martes": [
                                 "18:45",
@@ -2319,6 +2414,12 @@
                             "Viernes": [
                                 "21:35"
                             ],
+                            "Sabado": [
+                                "21:35"
+                            ],
+                            "Domingo": [
+                                "21:35"
+                            ],
                             "Lunes": [
                                 "21:35"
                             ],
@@ -2337,7 +2438,7 @@
                             "         Acción ",
                             "         130 min"
                         ],
-                        "sinopsis": "Adaptación de \"Bodas de sangre\",de Lorca. Desde pequeños,Leonardo,el novio y la novia han formado un triángulo inseparable,pero cuando se acerca la fecha de la boda las cosas se complican porque entre ella y Leonardo siempre ha habido algo más que amistad. La creciente tensión entre ambos es como un hilo invisible que no se puede explicar,pero tampoco romper."
+                        "sinopsis": "Narra la historia nunca contada de tres brillantes mujeres científicas afroamericanas que trabajaron en la NASA a comienzos de los años sesenta,en plena carrera espacial y también en mitad de la lucha por los derechos civiles de la gente de color,en el ambicioso proyecto de poner en órbita al astronauta John Glenn."
                     },
                     {
                         "spanishTitle": "LIVE BY NIGHT (2D) (ESP)",
@@ -2351,9 +2452,20 @@
                                 "19:10",
                                 "21:45"
                             ],
+                            "Sabado": [
+                                "16:00",
+                                "18:35",
+                                "21:10"
+                            ],
+                            "Domingo": [
+                                "16:00",
+                                "18:35",
+                                "21:10"
+                            ],
                             "Lunes": [
-                                "19:10",
-                                "21:45"
+                                "16:00",
+                                "18:35",
+                                "21:15"
                             ],
                             "Martes": [
                                 "19:10",
@@ -2414,6 +2526,11 @@
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6993&tipoimagen=poster",
                         "movieName": "MONSTER TRUCKS (2D) (SUB)",
+                        "date": "26/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6995&tipoimagen=poster",
+                        "movieName": "MONSTER TRUCKS (3D) (SUB)",
                         "date": "26/01/2017"
                     },
                     {
@@ -2569,6 +2686,11 @@
                                 "19:20",
                                 "21:55"
                             ],
+                            "Lunes": [
+                                "16:45",
+                                "19:20",
+                                "21:55"
+                            ],
                             "Martes": [
                                 "19:20",
                                 "21:55"
@@ -2606,6 +2728,11 @@
                                 "20:50"
                             ],
                             "Domingo": [
+                                "16:40",
+                                "18:45",
+                                "20:50"
+                            ],
+                            "Lunes": [
                                 "16:40",
                                 "18:45",
                                 "20:50"
@@ -2652,6 +2779,14 @@
                                 "21:40"
                             ],
                             "Domingo": [
+                                "17:00",
+                                "17:30",
+                                "19:10",
+                                "19:35",
+                                "21:20",
+                                "21:40"
+                            ],
+                            "Lunes": [
                                 "17:00",
                                 "17:30",
                                 "19:10",
@@ -2725,6 +2860,11 @@
                                 "18:50",
                                 "21:05"
                             ],
+                            "Lunes": [
+                                "16:35",
+                                "18:50",
+                                "21:05"
+                            ],
                             "Martes": [
                                 "18:30",
                                 "20:45"
@@ -2753,6 +2893,11 @@
                                 "17:15",
                                 "19:30",
                                 "21:45"
+                            ],
+                            "Lunes": [
+                                "17:15",
+                                "19:30",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6992&tipoimagen=poster",
@@ -2775,6 +2920,11 @@
                                 "22:15"
                             ],
                             "Domingo": [
+                                "17:45",
+                                "20:00",
+                                "22:15"
+                            ],
+                            "Lunes": [
                                 "17:45",
                                 "20:00",
                                 "22:15"
@@ -2827,6 +2977,11 @@
                                 "21:30"
                             ],
                             "Domingo": [
+                                "17:00",
+                                "19:15",
+                                "21:30"
+                            ],
+                            "Lunes": [
                                 "17:00",
                                 "19:15",
                                 "21:30"
@@ -2913,100 +3068,22 @@
             {
                 "daily": [
                     {
-                        "spanishTitle": "ZIPI Y ZAPE (2D) ESP",
-                        "englishTitle": "ZIPI Y ZAPE (2D) ESP",
+                        "spanishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
+                        "englishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
                         "scheduleToday": [
-                            "09:00"
-                        ],
-                        "linkForImage": "../images/posters/16_7084.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Llegan las navidades y Zipi y Zape la vuelven a liar parda. Esta vez la travesura es tan grande que son castigados sin vacaciones y obligados a acompañar a sus padres a lo que parece ser un aburrido viaje en barco. Para su sorpresa,el destino es una espectacular y remota isla. Una terrible tormenta les obliga a refugiarse en la mansión de la divertida señorita Pam,donde niños sin familia disfrutan de un paraíso sin reglas. Ayudados por Pipi,Maqui y Flequi,los hermanos descubren que la repentina desaparición de sus padres en medio de la noche guarda relación con el secreto que encierran la misteriosa isla y sus extraños habitantes... Secuela de \"Zipi y Zape y el club de la canica\" (2013).",
-                        "urlTrailer": "https://www.youtube.com/watch?v=2Yb2sgjAtBE"
-                    },
-                    {
-                        "spanishTitle": "TARDE PARA LA IRA (2D) ESP",
-                        "englishTitle": "THE FURY OF A PATIENT MAN (2D) ESP",
-                        "scheduleToday": [
-                            "19:15"
-                        ],
-                        "linkForImage": "../images/posters/16_7082.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "95 min "
-                        ],
-                        "sinopsis": "Madrid,agosto de 2007. Curro entra en prisión tras participar en el atraco a una joyería. Ocho años después sale de la cárcel con ganas de emprender una nueva vida junto a su novia Ana y su hijo,pero se encontrará con una situación inesperada y a un desconocido,José.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=PWxUqppEG_g"
-                    },
-                    {
-                        "spanishTitle": "SANTA Y ANDRES (2D) ESP",
-                        "englishTitle": "SANTA Y ANDRES (2D) ESP",
-                        "scheduleToday": [
-                            "17:00"
-                        ],
-                        "linkForImage": "../images/posters/16_7071.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Cuba,1983. Santa es una campesina de treinta años que trabaja en una granja estatal. Andrés es un escritor homosexual de cincuenta años que,según el gobierno,tiene \"problemas ideológicos\". Como es habitual con los desafectos a la revolución,cada vez que hay un evento político en la zona,alguien es enviado para echarle un ojo y evitar que cometa algún acto de oposición pública. Esta vez la tarea de vigilar le toca a Santa. Durante tres días consecutivos Santa se sienta en la entrada de la cabaña de Andrés para supervisar cada uno de sus movimientos.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=fiL2ypy_8jg"
-                    },
-                    {
-                        "spanishTitle": "EL OLIVO (2D) ESP)",
-                        "englishTitle": "EL OLIVO (2D) ESP)",
-                        "scheduleToday": [
-                            "21:15"
-                        ],
-                        "linkForImage": "../images/posters/16_7055.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "95 min "
-                        ],
-                        "sinopsis": "Alma tiene 20 años y adora a su abuelo,un hombre que lleva años sin hablar. Cuando el anciano se niega también a comer,la chica decide recuperar el árbol milenario que la familia vendió contra su voluntad. Pero para ello,necesita contar con la ayuda de su tío,una víctima de la crisis,de su amigo Rafa y de todo el pueblo. El problema es saber en qué lugar de Europa está el olivo.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=HtyVkAHassQ"
-                    },
-                    {
-                        "spanishTitle": "EL AMPARO (2D) (ESP)",
-                        "englishTitle": "EL AMPARO (2D) (ESP)",
-                        "scheduleToday": [
-                            "19:00"
-                        ],
-                        "linkForImage": "../images/posters/16_7052.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/12 ",
-                            "Festival ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Año 1988. En el pueblo de El Amparo,en la frontera de Venezuela con Colombia,dos hombres sobreviven a un ataque armado perpetrado en los caños del Río Arauca,donde 14 de sus compañeros mueren en el acto. El ejército los acusa de guerrilleros y,con intimidaciones,intenta sacarlos de la celda donde son custodiados por un policía y por la gente del pueblo,que trata desesperadamente de impedir que se los lleven. Ellos dicen que son simples pescadores,pero las presiones para ceder ante la versión oficial son abrumadoras.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=K8D0JMRxF54"
-                    },
-                    {
-                        "spanishTitle": "ELLE (2D) SUB",
-                        "englishTitle": "ELLE (2D) SUB",
-                        "scheduleToday": [
+                            "19:00",
+                            "19:00",
+                            "21:00",
                             "21:00"
                         ],
-                        "linkForImage": "../images/posters/16_7024.jpg",
+                        "linkForImage": "../images/posters/16_7086.jpg",
                         "showTimeData": [
-                            "En InglesSubtitulada",
-                            "R/16 ",
+                            "En EspañolSubtitulada",
+                            "R/12 ",
                             "Festival ",
-                            "130 min "
+                            "110 min "
                         ],
-                        "sinopsis": "Michèle,exitosa ejecutiva de una empresa de videojuegos,busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=cwW8FfopEHY"
+                        "sinopsis": ""
                     },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (2D) (SUB)",
@@ -3022,7 +3099,7 @@
                             "Acción ",
                             "110 min "
                         ],
-                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons.",
+                        "sinopsis": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-,ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo,Alice tendrá que unir fuerzas con viejos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad,que está al borde de la extinción.",
                         "urlTrailer": "https://www.youtube.com/watch?v=_h6t_Ee5r68"
                     },
                     {
@@ -3040,7 +3117,7 @@
                             "Acción ",
                             "100 min "
                         ],
-                        "sinopsis": "Michèle,exitosa ejecutiva de una empresa de videojuegos,busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.",
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad.",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70"
                     },
                     {
@@ -3057,7 +3134,7 @@
                             "Acción ",
                             "110 min "
                         ],
-                        "sinopsis": "Holly Golightly es una bella joven neoyorquina que,aparentemente,lleva una vida fácil y alegre. Tiene un comportamiento bastante extravagante,por ejemplo,desayunar contemplando el escaparate de la lujosa joyería Tiffanys. Un día se muda a su mismo edificio Paul Varjak,un escritor que,mientras espera un éxito que nunca llega,vive a costa de una mujer madura.",
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons.",
                         "urlTrailer": "https://www.youtube.com/watch?v=MQEFmHsseaU"
                     },
                     {
@@ -3092,6 +3169,17 @@
                             ],
                             "Sabado": [
                                 "16:45",
+                                "20:50"
+                            ],
+                            "Domingo": [
+                                "16:45",
+                                "19:20"
+                            ],
+                            "Lunes": [
+                                "16:45",
+                                "19:20"
+                            ],
+                            "Martes": [
                                 "19:20"
                             ]
                         },
@@ -3121,6 +3209,22 @@
                                 "16:55",
                                 "19:10",
                                 "21:25"
+                            ],
+                            "Domingo": [
+                                "16:55",
+                                "19:10",
+                                "21:25",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "16:55",
+                                "19:10",
+                                "21:25",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:10",
+                                "21:25"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",
@@ -3131,7 +3235,7 @@
                             "         Acción ",
                             "         110 min"
                         ],
-                        "sinopsis": "Holly Golightly es una bella joven neoyorquina que,aparentemente,lleva una vida fácil y alegre. Tiene un comportamiento bastante extravagante,por ejemplo,desayunar contemplando el escaparate de la lujosa joyería Tiffanys. Un día se muda a su mismo edificio Paul Varjak,un escritor que,mientras espera un éxito que nunca llega,vive a costa de una mujer madura."
+                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
                     },
                     {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
@@ -3150,6 +3254,20 @@
                             "Sabado": [
                                 "17:30",
                                 "19:35",
+                                "21:40"
+                            ],
+                            "Domingo": [
+                                "17:30",
+                                "19:35",
+                                "21:40"
+                            ],
+                            "Lunes": [
+                                "17:30",
+                                "19:35",
+                                "21:40"
+                            ],
+                            "Martes": [
+                                "19:35",
                                 "21:40",
                                 "21:55"
                             ]
@@ -3162,7 +3280,7 @@
                             "         Acción ",
                             "         100 min"
                         ],
-                        "sinopsis": "Michèle,exitosa ejecutiva de una empresa de videojuegos,busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso."
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (2D) (SUB)",
@@ -3180,6 +3298,20 @@
                                 "17:15",
                                 "19:30",
                                 "21:45"
+                            ],
+                            "Domingo": [
+                                "17:15",
+                                "19:30",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "17:15",
+                                "19:30",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6990&tipoimagen=poster",
@@ -3190,7 +3322,7 @@
                             "         Acción ",
                             "         110 min"
                         ],
-                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
+                        "sinopsis": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-,ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo,Alice tendrá que unir fuerzas con viejos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad,que está al borde de la extinción."
                     },
                     {
                         "spanishTitle": "ELLE (2D) SUB",
@@ -3301,6 +3433,24 @@
                         "sinopsis": "Historia coral de seis personajes que se encuentran,y que se mueven entre la pasión,el dolor y los problemas."
                     },
                     {
+                        "spanishTitle": "LOS MODERNOS (2D) ESP",
+                        "englishTitle": "LOS MODERNOS (2D) ESP",
+                        "weekDaySchedule": {
+                            "Domingo": [
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7067&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=JXuX7fwOH08",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/12 ",
+                            "         Festival ",
+                            "         135 min"
+                        ],
+                        "sinopsis": "Tres parejas se enfrentan a la disyuntiva de elegir entre la paternidad,la realización profesional y su libertad sexual. El estilo de vida,las decisiones,la libertad,el sexo,el amor,siguen siendo los temas que nos movilizan y desvelan por la noche. “Los modernos” trata esos temas desde una perspectiva crítica,poniendo en tela de juicio los parámetros por los que se rigen los valores del mundo contemporáneo."
+                    },
+                    {
                         "spanishTitle": "SANTA Y ANDRES (2D) ESP",
                         "englishTitle": "SANTA Y ANDRES (2D) ESP",
                         "weekDaySchedule": {
@@ -3379,6 +3529,24 @@
                         "sinopsis": "Llegan las navidades y Zipi y Zape la vuelven a liar parda. Esta vez la travesura es tan grande que son castigados sin vacaciones y obligados a acompañar a sus padres a lo que parece ser un aburrido viaje en barco. Para su sorpresa,el destino es una espectacular y remota isla. Una terrible tormenta les obliga a refugiarse en la mansión de la divertida señorita Pam,donde niños sin familia disfrutan de un paraíso sin reglas. Ayudados por Pipi,Maqui y Flequi,los hermanos descubren que la repentina desaparición de sus padres en medio de la noche guarda relación con el secreto que encierran la misteriosa isla y sus extraños habitantes... Secuela de \"Zipi y Zape y el club de la canica\" (2013)."
                     },
                     {
+                        "spanishTitle": "13 MINUTOS (2D) ESP",
+                        "englishTitle": "13 MINUTOS (2D) ESP",
+                        "weekDaySchedule": {
+                            "Domingo": [
+                                "19:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7085&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=8SsIsCWXtV4",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/12 ",
+                            "         Festival ",
+                            "         110 min"
+                        ],
+                        "sinopsis": "Es la impresionante historia sobre George Elser,el carpintero de la resistencia que intentó asesinar a Hitler en Munich el 8 de noviembre de 1939. Por solo 13 minutos de diferencia,si el Führer no hubiese abandonado su podio antes de lo previsto,podría haber cambiado la historia."
+                    },
+                    {
                         "spanishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
                         "englishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
                         "weekDaySchedule": {
@@ -3386,6 +3554,22 @@
                                 "19:00"
                             ],
                             "Sabado": [
+                                "21:00"
+                            ],
+                            "Domingo": [
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "19:00",
+                                "21:00",
+                                "21:00"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "19:00",
+                                "21:00",
                                 "21:00"
                             ]
                         },
@@ -3423,6 +3607,11 @@
             },
             {
                 "comingSoon": [
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7085&tipoimagen=poster",
+                        "movieName": "13 MINUTOS (2D) ESP",
+                        "date": "26/01/2017"
+                    },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6972&tipoimagen=poster",
                         "movieName": "ASSASSINS CREED (2D) SUB",
@@ -3479,6 +3668,11 @@
                         "date": "26/01/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7067&tipoimagen=poster",
+                        "movieName": "LOS MODERNOS (2D) ESP",
+                        "date": "26/01/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7080&tipoimagen=poster",
                         "movieName": "MI AMIGA DEL PARQUE (2D) ESP",
                         "date": "26/01/2017"
@@ -3520,7 +3714,8 @@
                         "spanishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
                         "englishTitle": "FESTIVAL DE CINE GLOBAL DOM.",
                         "scheduleToday": [
-                            "17:10"
+                            "19:00",
+                            "21:00"
                         ],
                         "linkForImage": "../images/posters/17_7086.jpg",
                         "showTimeData": [
@@ -3530,23 +3725,6 @@
                             "110 min "
                         ],
                         "sinopsis": ""
-                    },
-                    {
-                        "spanishTitle": "XXX: XANDER CAGE (2D) ESP",
-                        "englishTitle": "XXX: XANDER CAGE (2D) ESP",
-                        "scheduleToday": [
-                            "19:30",
-                            "21:30"
-                        ],
-                        "linkForImage": "../images/posters/17_7047.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/14 ",
-                            "Acción ",
-                            "110 min "
-                        ],
-                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=MQEFmHsseaU"
                     },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (2D) (ESP)",
@@ -3577,7 +3755,7 @@
                             "Acción ",
                             "110 min "
                         ],
-                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons.",
+                        "sinopsis": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-,ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo,Alice tendrá que unir fuerzas con viejos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad,que está al borde de la extinción.",
                         "urlTrailer": "https://www.youtube.com/watch?v=_h6t_Ee5r68"
                     },
                     {
@@ -3594,7 +3772,7 @@
                             "Acción ",
                             "100 min "
                         ],
-                        "sinopsis": "Ambientada en Boston durante los años 20,en la época de la ley seca,gira en torno a un hombre que se adentra en el mundo del crimen organizado.",
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad.",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70"
                     }
                 ]
@@ -3645,7 +3823,7 @@
                             "         Acción ",
                             "         100 min"
                         ],
-                        "sinopsis": "Ambientada en Boston durante los años 20,en la época de la ley seca,gira en torno a un hombre que se adentra en el mundo del crimen organizado."
+                        "sinopsis": "Un grupo de empleados del almacén son engañado y acusado de robo. Ahora tienen que huir ya que idear un plan para revelar la verdad."
                     },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (2D) (SUB)",
@@ -3681,7 +3859,7 @@
                             "         Acción ",
                             "         110 min"
                         ],
-                        "sinopsis": "Xander Cage es dado por muerto tras un incidente,sin embargo regresa a la acción secretamente para una misión con su mano derecha Augustus Gibbons."
+                        "sinopsis": "La humanidad está agonizando tras la traición sufrida por Alice a manos de Wesker. Alice deberá regresar a donde la comenzó la pesadilla -Raccoon City-,ya que allí la Corporación Umbrella está reuniendo fuerzas antes de un último ataque a los últimos supervivientes del apocalipsis. En una carrera contra el tiempo,Alice tendrá que unir fuerzas con viejos y con un inesperado aliado en una batalla contra hordas de zombis y nuevos monstruos mutantes. Será la aventura más difícil de Alice para salvar a la humanidad,que está al borde de la extinción."
                     },
                     {
                         "spanishTitle": "RESIDENT EVIL 6 (2D) (ESP)",
@@ -3753,6 +3931,7 @@
                                 "17:10"
                             ],
                             "Sabado": [
+                                "17:00",
                                 "19:00",
                                 "21:00"
                             ],
@@ -3937,8 +4116,8 @@
                                 "21:55"
                             ],
                             "Lunes": [
-                                "19:00",
-                                "21:35"
+                                "16:45",
+                                "19:20"
                             ],
                             "Martes": [
                                 "19:00",
@@ -3978,7 +4157,8 @@
                                 "21:55"
                             ],
                             "Lunes": [
-                                "21:40"
+                                "19:35",
+                                "21:55"
                             ],
                             "Martes": [
                                 "21:40"
@@ -4020,8 +4200,9 @@
                                 "21:40"
                             ],
                             "Lunes": [
-                                "19:15",
-                                "21:20"
+                                "17:30",
+                                "19:35",
+                                "21:40"
                             ],
                             "Martes": [
                                 "19:15",
@@ -4065,8 +4246,9 @@
                                 "21:30"
                             ],
                             "Lunes": [
-                                "19:20",
-                                "21:35"
+                                "17:00",
+                                "19:15",
+                                "21:30"
                             ],
                             "Martes": [
                                 "19:20",
@@ -4104,7 +4286,7 @@
                                 "17:40"
                             ],
                             "Lunes": [
-                                "19:30"
+                                "17:30"
                             ],
                             "Martes": [
                                 "19:30"
@@ -4122,6 +4304,24 @@
                             "         105 min"
                         ],
                         "sinopsis": "Buscando una forma de evadirse de la vida y la ciudad en la que vive,el joven Tripp (Lucas Till),un estudiante de instituto,construye un 'camión monstruo' con piezas de desguace. Pero entonces Creech,un monstruo procedente de un pantano y adicto a la velocidad,viene a visitarle... Basada en la línea de juguetes de Hasbro,esta adaptación ha sido descrita como un cruce entre \"Los Goonies\" y \"Transformers\"."
+                    },
+                    {
+                        "spanishTitle": "LIVE BY NIGHT (2D) (ESP)",
+                        "englishTitle": "LIVE BY NIGHT (2D) (ESP)",
+                        "weekDaySchedule": {
+                            "Lunes": [
+                                "21:55"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=CtFZcAuH-qI",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Drama ",
+                            "         130 min"
+                        ],
+                        "sinopsis": "Ambientada en Boston durante los años 20,en la época de la ley seca,gira en torno a un hombre que se adentra en el mundo del crimen organizado."
                     }
                 ]
             },
@@ -4134,6 +4334,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "movieName": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "date": "19/01/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7049&tipoimagen=poster",
+                        "movieName": "LIVE BY NIGHT (2D) (ESP)",
+                        "date": "26/01/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6980&tipoimagen=poster",
@@ -4165,8 +4370,7 @@
                         "spanishTitle": "CONRADO SIERRA (2D) (ESP)",
                         "englishTitle": "CONRADO SIERRA (2D) (ESP)",
                         "scheduleToday": [
-                            "19:00",
-                            "21:00"
+                            "19:00"
                         ],
                         "linkForImage": "../images/posters/19_7053.jpg",
                         "showTimeData": [
@@ -4240,7 +4444,8 @@
                                 "18:45",
                                 "19:45",
                                 "20:50",
-                                "21:50"
+                                "21:50",
+                                "21:30"
                             ],
                             "Domingo": [
                                 "16:40",
@@ -4248,6 +4453,7 @@
                                 "18:45",
                                 "19:45",
                                 "20:50",
+                                "21:30",
                                 "21:50"
                             ],
                             "Lunes": [
@@ -4256,6 +4462,7 @@
                                 "18:45",
                                 "19:45",
                                 "20:50",
+                                "21:50",
                                 "21:50"
                             ],
                             "Martes": [
@@ -4354,7 +4561,7 @@
                                 "21:00"
                             ],
                             "Lunes": [
-                                "21:00"
+                                "19:00"
                             ],
                             "Martes": [
                                 "19:00"

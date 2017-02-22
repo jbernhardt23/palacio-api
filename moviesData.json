@@ -7,8 +7,6 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:15",
-                            "18:45",
                             "21:15"
                         ],
                         "linkForImage": "../images/posters/11_7095.jpg",
@@ -25,9 +23,8 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "18:25",
-                            "20:50"
+                            "19:10",
+                            "21:35"
                         ],
                         "linkForImage": "../images/posters/11_7028.jpg",
                         "showTimeData": [
@@ -43,8 +40,7 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:05",
-                            "20:55"
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/11_7026.jpg",
                         "showTimeData": [
@@ -57,30 +53,12 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=JF1rLFCdewU"
                     },
                     {
-                        "spanishTitle": "LEGO BATMAN (2D) ESP",
-                        "englishTitle": "LEGO BATMAN (2D) ESP",
-                        "scheduleToday": [
-                            "16:00",
-                            "18:10"
-                        ],
-                        "linkForImage": "../images/posters/11_7016.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "S/R ",
-                            "Animación ",
-                            "105 min "
-                        ],
-                        "sinopsis": "Spin-off de \"La LEGO Película\",protagonizado por Batman.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=rGQUKzSDhrg"
-                    },
-                    {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:45",
-                            "19:05",
-                            "20:20",
-                            "21:35"
+                            "19:20",
+                            "20:10",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/11_7010.jpg",
                         "showTimeData": [
@@ -96,7 +74,7 @@
                         "spanishTitle": "VOCES DE LA CALLE (2D)",
                         "englishTitle": "VOCES DE LA CALLE (2D)",
                         "scheduleToday": [
-                            "19:00"
+                            "18:00"
                         ],
                         "linkForImage": "../images/posters/11_7006.jpg",
                         "showTimeData": [
@@ -112,9 +90,8 @@
                         "spanishTitle": "LA LA LAND (2D) (SUB)",
                         "englishTitle": "LA LA LAND (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
-                            "19:15",
-                            "21:50"
+                            "19:00",
+                            "21:35"
                         ],
                         "linkForImage": "../images/posters/11_7002.jpg",
                         "showTimeData": [
@@ -130,7 +107,6 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:20",
                             "19:30",
                             "21:40"
                         ],
@@ -355,9 +331,6 @@
                             "Lunes": [
                                 "18:00"
                             ],
-                            "Martes": [
-                                "18:00"
-                            ],
                             "Miercoles": [
                                 "18:00"
                             ]
@@ -396,7 +369,7 @@
                                 "19:55"
                             ],
                             "Martes": [
-                                "19:55"
+                                "20:30"
                             ],
                             "Miercoles": [
                                 "19:55"
@@ -488,7 +461,6 @@
                                 "21:15"
                             ],
                             "Martes": [
-                                "18:45",
                                 "21:15"
                             ],
                             "Miercoles": [
@@ -526,11 +498,6 @@
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
                         "movieName": "FIFTY SHADES DARKER (2D) (SUB)",
-                        "date": "09/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7012&tipoimagen=poster",
-                        "movieName": "HACKSAW RIDGE (2D) (SUB)",
                         "date": "09/02/2017"
                     },
                     {
@@ -658,7 +625,6 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:30",
                             "19:00",
                             "21:30"
                         ],
@@ -676,7 +642,6 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:20",
                             "18:45",
                             "21:10"
                         ],
@@ -694,8 +659,7 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "21:15"
+                            "20:50"
                         ],
                         "linkForImage": "../images/posters/12_7026.jpg",
                         "showTimeData": [
@@ -711,7 +675,7 @@
                         "spanishTitle": "LEGO BATMAN (2D) ESP",
                         "englishTitle": "LEGO BATMAN (2D) ESP",
                         "scheduleToday": [
-                            "16:40"
+                            "18:45"
                         ],
                         "linkForImage": "../images/posters/12_7016.jpg",
                         "showTimeData": [
@@ -727,8 +691,7 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "17:00",
-                            "18:55",
+                            "18:30",
                             "19:20",
                             "21:40"
                         ],
@@ -746,8 +709,7 @@
                         "spanishTitle": "LA LA LAND (2D) (SUB)",
                         "englishTitle": "LA LA LAND (2D) (SUB)",
                         "scheduleToday": [
-                            "18:50",
-                            "21:25"
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/12_7002.jpg",
                         "showTimeData": [
@@ -763,9 +725,8 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "16:25",
-                            "18:30",
-                            "20:35"
+                            "18:00",
+                            "20:05"
                         ],
                         "linkForImage": "../images/posters/12_6985.jpg",
                         "showTimeData": [
@@ -810,12 +771,12 @@
                                 "20:35"
                             ],
                             "Martes": [
-                                "18:30",
-                                "20:35"
+                                "18:00",
+                                "20:05"
                             ],
                             "Miercoles": [
-                                "18:30",
-                                "20:35"
+                                "18:00",
+                                "20:05"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
@@ -902,12 +863,12 @@
                                 "21:40"
                             ],
                             "Martes": [
-                                "18:55",
+                                "18:30",
                                 "19:20",
                                 "21:40"
                             ],
                             "Miercoles": [
-                                "18:55",
+                                "18:30",
                                 "19:20",
                                 "21:40"
                             ]
@@ -982,10 +943,10 @@
                                 "21:15"
                             ],
                             "Martes": [
-                                "21:15"
+                                "20:50"
                             ],
                             "Miercoles": [
-                                "21:15"
+                                "20:50"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7026&tipoimagen=poster",
@@ -1024,7 +985,7 @@
                             ],
                             "Lunes": [
                                 "18:45",
-                                "21:10"
+                                "20:50"
                             ],
                             "Martes": [
                                 "18:45",
@@ -1309,7 +1270,7 @@
                         "spanishTitle": "LION (2D) SUB",
                         "englishTitle": "LION (2D) SUB",
                         "scheduleToday": [
-                            "19:00"
+                            "18:10"
                         ],
                         "linkForImage": "../images/posters/13_7100.jpg",
                         "showTimeData": [
@@ -1325,10 +1286,8 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:55",
-                            "16:55",
-                            "19:25",
-                            "19:25"
+                            "18:15",
+                            "18:15"
                         ],
                         "linkForImage": "../images/posters/13_7095.jpg",
                         "showTimeData": [
@@ -1344,7 +1303,7 @@
                         "spanishTitle": "LA TORTUGA ROJA (2D) ESP",
                         "englishTitle": "LA TORTUGA ROJA (2D) ESP",
                         "scheduleToday": [
-                            "18:30"
+                            "19:00"
                         ],
                         "linkForImage": "../images/posters/13_7064.jpg",
                         "showTimeData": [
@@ -1354,13 +1313,12 @@
                             "80 min "
                         ],
                         "sinopsis": "Historia muda sobre un náufrago en una isla tropical desierta,poblada de tortugas,cangrejos y aves. La película cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michael Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Una coproducción de varias productoras francesas y el Studio Ghibli.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=42aQ3TQG5fw"
+                        "urlTrailer": "https://www.youtube.com/watch?v=QxsVAqUOLBE"
                     },
                     {
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:45",
                             "19:10",
                             "21:35"
                         ],
@@ -1378,8 +1336,7 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:05",
-                            "21:25"
+                            "20:35"
                         ],
                         "linkForImage": "../images/posters/13_7026.jpg",
                         "showTimeData": [
@@ -1395,7 +1352,7 @@
                         "spanishTitle": "ELLE (2D) SUB",
                         "englishTitle": "ELLE (2D) SUB",
                         "scheduleToday": [
-                            "20:15"
+                            "20:45"
                         ],
                         "linkForImage": "../images/posters/13_7024.jpg",
                         "showTimeData": [
@@ -1411,8 +1368,8 @@
                         "spanishTitle": "LEGO BATMAN (IMAX) ESP",
                         "englishTitle": "LEGO BATMAN (IMAX) ESP",
                         "scheduleToday": [
-                            "16:10",
-                            "16:10"
+                            "18:20",
+                            "18:20"
                         ],
                         "linkForImage": "../images/posters/13_7020.jpg",
                         "showTimeData": [
@@ -1428,8 +1385,6 @@
                         "spanishTitle": "LEGO BATMAN (IMAX) SUB",
                         "englishTitle": "LEGO BATMAN (IMAX) SUB",
                         "scheduleToday": [
-                            "18:20",
-                            "18:20",
                             "20:30",
                             "20:30"
                         ],
@@ -1447,14 +1402,12 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:45",
-                            "16:45",
-                            "19:05",
-                            "19:05",
-                            "21:25",
-                            "21:25",
-                            "21:55",
-                            "21:55"
+                            "19:30",
+                            "19:30",
+                            "20:45",
+                            "20:45",
+                            "21:50",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/13_7010.jpg",
                         "showTimeData": [
@@ -1470,8 +1423,6 @@
                         "spanishTitle": "LA LA LAND (2D) (SUB)",
                         "englishTitle": "LA LA LAND (2D) (SUB)",
                         "scheduleToday": [
-                            "16:10",
-                            "16:10",
                             "18:45",
                             "18:45",
                             "21:20",
@@ -1519,7 +1470,21 @@
                                 "21:20",
                                 "21:20"
                             ],
+                            "Domingo": [
+                                "16:10",
+                                "16:10",
+                                "18:45",
+                                "18:45",
+                                "21:20",
+                                "21:20"
+                            ],
                             "Lunes": [
+                                "18:45",
+                                "18:45",
+                                "21:20",
+                                "21:20"
+                            ],
+                            "Martes": [
                                 "18:45",
                                 "18:45",
                                 "21:20",
@@ -1570,11 +1535,35 @@
                                 "21:55",
                                 "21:55"
                             ],
+                            "Domingo": [
+                                "16:45",
+                                "16:45",
+                                "19:05",
+                                "19:05",
+                                "21:25",
+                                "21:25",
+                                "21:55",
+                                "21:55"
+                            ],
                             "Lunes": [
                                 "19:30",
                                 "19:30",
                                 "20:45",
                                 "20:45",
+                                "21:50",
+                                "21:50"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "19:30",
+                                "20:45",
+                                "20:45",
+                                "21:50",
+                                "21:50"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "19:30",
                                 "21:50",
                                 "21:50"
                             ]
@@ -1611,7 +1600,21 @@
                                 "20:30",
                                 "20:30"
                             ],
+                            "Domingo": [
+                                "18:20",
+                                "18:20",
+                                "20:30",
+                                "20:30"
+                            ],
                             "Lunes": [
+                                "20:30",
+                                "20:30"
+                            ],
+                            "Martes": [
+                                "20:30",
+                                "20:30"
+                            ],
+                            "Miercoles": [
                                 "20:30",
                                 "20:30"
                             ]
@@ -1642,7 +1645,19 @@
                                 "16:10",
                                 "16:10"
                             ],
+                            "Domingo": [
+                                "16:10",
+                                "16:10"
+                            ],
                             "Lunes": [
+                                "18:20",
+                                "18:20"
+                            ],
+                            "Martes": [
+                                "18:20",
+                                "18:20"
+                            ],
+                            "Miercoles": [
                                 "18:20",
                                 "18:20"
                             ]
@@ -1658,6 +1673,24 @@
                         "sinopsis": "Spin-off de \"La LEGO Película\",protagonizado por Batman."
                     },
                     {
+                        "spanishTitle": "LA TORTUGA ROJA (2D) ESP",
+                        "englishTitle": "LA TORTUGA ROJA (2D) ESP",
+                        "weekDaySchedule": {
+                            "Domingo": [
+                                "18:30"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7023&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=QxsVAqUOLBE",
+                        "language": "En Español Subtitulada",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Animación ",
+                            "         80 min"
+                        ],
+                        "sinopsis": "Historia muda sobre un náufrago en una isla tropical desierta,poblada de tortugas,cangrejos y aves. La película cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michael Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Una coproducción de varias productoras francesas y el Studio Ghibli."
+                    },
+                    {
                         "spanishTitle": "ELLE (2D) SUB",
                         "englishTitle": "ELLE (2D) SUB",
                         "weekDaySchedule": {
@@ -1670,7 +1703,16 @@
                             "Sabado": [
                                 "20:15"
                             ],
+                            "Domingo": [
+                                "20:15"
+                            ],
                             "Lunes": [
+                                "20:45"
+                            ],
+                            "Martes": [
+                                "20:45"
+                            ],
+                            "Miercoles": [
                                 "20:45"
                             ]
                         },
@@ -1700,7 +1742,17 @@
                                 "16:05",
                                 "21:25"
                             ],
+                            "Domingo": [
+                                "16:05",
+                                "21:25"
+                            ],
                             "Lunes": [
+                                "20:35"
+                            ],
+                            "Martes": [
+                                "20:35"
+                            ],
+                            "Miercoles": [
                                 "20:35"
                             ]
                         },
@@ -1733,7 +1785,20 @@
                                 "19:10",
                                 "21:35"
                             ],
+                            "Domingo": [
+                                "16:45",
+                                "19:10",
+                                "21:35"
+                            ],
                             "Lunes": [
+                                "19:10",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:10",
+                                "21:35"
+                            ],
+                            "Miercoles": [
                                 "19:10",
                                 "21:35"
                             ]
@@ -1762,6 +1827,12 @@
                                 "18:30"
                             ],
                             "Lunes": [
+                                "19:00"
+                            ],
+                            "Martes": [
+                                "19:00"
+                            ],
+                            "Miercoles": [
                                 "19:00"
                             ]
                         },
@@ -1797,7 +1868,17 @@
                                 "19:25",
                                 "19:25"
                             ],
+                            "Domingo": [
+                                "16:55",
+                                "16:55",
+                                "19:25",
+                                "19:25"
+                            ],
                             "Lunes": [
+                                "18:15",
+                                "18:15"
+                            ],
+                            "Martes": [
                                 "18:15",
                                 "18:15"
                             ]
@@ -1825,7 +1906,16 @@
                             "Sabado": [
                                 "19:00"
                             ],
+                            "Domingo": [
+                                "19:00"
+                            ],
                             "Lunes": [
+                                "18:10"
+                            ],
+                            "Martes": [
+                                "18:10"
+                            ],
+                            "Miercoles": [
                                 "18:10"
                             ]
                         },
@@ -1862,11 +1952,6 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7012&tipoimagen=poster",
-                        "movieName": "HACKSAW RIDGE (2D) (SUB)",
-                        "date": "09/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
                         "movieName": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "date": "09/02/2017"
@@ -1875,6 +1960,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7002&tipoimagen=poster",
                         "movieName": "LA LA LAND (2D) (SUB)",
                         "date": "02/02/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7015&tipoimagen=poster",
+                        "movieName": "LEGO BATMAN (2D) SUB",
+                        "date": "09/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7020&tipoimagen=poster",
@@ -1920,6 +2010,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
                         "movieName": "LOGAN (IMAX-2D) SUB",
                         "date": "28/02/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
+                        "movieName": "MISS SLOANE (2D) (SUB)",
+                        "date": "02/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7112&tipoimagen=poster",
@@ -1997,11 +2092,6 @@
                         "date": "23/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7093&tipoimagen=poster",
-                        "movieName": "TONI ERDMANN (2D) SUB",
-                        "date": "02/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
                         "movieName": "VOCES DE LA CALLE (2D)",
                         "date": "02/02/2017"
@@ -2016,11 +2106,9 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:30",
-                            "17:15",
                             "19:00",
-                            "21:30",
-                            "22:00"
+                            "20:45",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/14_7095.jpg",
                         "showTimeData": [
@@ -2036,8 +2124,6 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "16:55",
                             "18:25",
                             "19:20",
                             "20:50",
@@ -2057,9 +2143,8 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:05",
-                            "19:00",
-                            "21:55"
+                            "18:00",
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/14_7026.jpg",
                         "showTimeData": [
@@ -2075,7 +2160,6 @@
                         "spanishTitle": "LEGO BATMAN (2D) ESP",
                         "englishTitle": "LEGO BATMAN (2D) ESP",
                         "scheduleToday": [
-                            "16:20",
                             "20:45"
                         ],
                         "linkForImage": "../images/posters/14_7016.jpg",
@@ -2092,9 +2176,8 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:45",
-                            "19:05",
-                            "20:35",
+                            "18:10",
+                            "20:30",
                             "21:25",
                             "21:55"
                         ],
@@ -2112,7 +2195,6 @@
                         "spanishTitle": "RINGS (2D) (SUB)",
                         "englishTitle": "RINGS (2D) (SUB)",
                         "scheduleToday": [
-                            "17:35",
                             "19:45"
                         ],
                         "linkForImage": "../images/posters/14_7007.jpg",
@@ -2129,8 +2211,7 @@
                         "spanishTitle": "VOCES DE LA CALLE (2D)",
                         "englishTitle": "VOCES DE LA CALLE (2D)",
                         "scheduleToday": [
-                            "16:45",
-                            "18:40"
+                            "19:30"
                         ],
                         "linkForImage": "../images/posters/14_7006.jpg",
                         "showTimeData": [
@@ -2146,12 +2227,10 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:10",
-                            "18:00",
+                            "18:20",
                             "19:15",
-                            "20:05",
-                            "21:15",
-                            "22:10"
+                            "20:25",
+                            "21:15"
                         ],
                         "linkForImage": "../images/posters/14_6985.jpg",
                         "showTimeData": [
@@ -2167,7 +2246,7 @@
                         "spanishTitle": "XXX: XANDER CAGE (2D) SUB",
                         "englishTitle": "XXX: Xander Cage (2D) SUB",
                         "scheduleToday": [
-                            "19:45"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/14_6984.jpg",
                         "showTimeData": [
@@ -2215,6 +2294,9 @@
                             "Domingo": [
                                 "18:30"
                             ],
+                            "Lunes": [
+                                "18:30"
+                            ],
                             "Martes": [
                                 "18:30"
                             ],
@@ -2248,11 +2330,14 @@
                             "Domingo": [
                                 "19:45"
                             ],
+                            "Lunes": [
+                                "18:30"
+                            ],
                             "Martes": [
-                                "19:45"
+                                "18:30"
                             ],
                             "Miercoles": [
-                                "19:45"
+                                "18:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6984&tipoimagen=poster",
@@ -2301,21 +2386,23 @@
                                 "21:15",
                                 "22:10"
                             ],
-                            "Martes": [
-                                "17:10",
-                                "18:00",
+                            "Lunes": [
+                                "18:20",
                                 "19:15",
-                                "20:05",
-                                "21:15",
-                                "22:10"
+                                "20:25",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "18:20",
+                                "19:15",
+                                "20:25",
+                                "21:15"
                             ],
                             "Miercoles": [
-                                "17:10",
-                                "18:00",
+                                "18:20",
                                 "19:15",
-                                "20:05",
-                                "21:15",
-                                "22:10"
+                                "20:25",
+                                "21:15"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
@@ -2349,16 +2436,13 @@
                                 "18:40"
                             ],
                             "Lunes": [
-                                "16:45",
-                                "18:40"
+                                "19:30"
                             ],
                             "Martes": [
-                                "16:45",
-                                "18:40"
+                                "19:30"
                             ],
                             "Miercoles": [
-                                "16:45",
-                                "18:40"
+                                "19:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
@@ -2392,15 +2476,12 @@
                                 "19:45"
                             ],
                             "Lunes": [
-                                "17:35",
                                 "19:45"
                             ],
                             "Martes": [
-                                "17:35",
                                 "19:45"
                             ],
                             "Miercoles": [
-                                "17:35",
                                 "19:45"
                             ]
                         },
@@ -2447,23 +2528,20 @@
                                 "21:55"
                             ],
                             "Lunes": [
-                                "16:45",
-                                "19:05",
-                                "20:35",
+                                "18:10",
+                                "20:30",
                                 "21:25",
                                 "21:55"
                             ],
                             "Martes": [
-                                "16:45",
-                                "19:05",
-                                "20:35",
+                                "18:10",
+                                "20:30",
                                 "21:25",
                                 "21:55"
                             ],
                             "Miercoles": [
-                                "16:45",
-                                "19:05",
-                                "20:35",
+                                "18:10",
+                                "20:30",
                                 "21:25",
                                 "21:55"
                             ]
@@ -2499,15 +2577,12 @@
                                 "20:45"
                             ],
                             "Lunes": [
-                                "16:20",
                                 "20:45"
                             ],
                             "Martes": [
-                                "16:20",
                                 "20:45"
                             ],
                             "Miercoles": [
-                                "16:20",
                                 "20:45"
                             ]
                         },
@@ -2546,19 +2621,16 @@
                                 "21:55"
                             ],
                             "Lunes": [
-                                "16:05",
-                                "19:00",
-                                "21:55"
+                                "18:00",
+                                "20:55"
                             ],
                             "Martes": [
-                                "16:05",
-                                "19:00",
-                                "21:55"
+                                "18:00",
+                                "20:55"
                             ],
                             "Miercoles": [
-                                "16:05",
-                                "19:00",
-                                "21:55"
+                                "18:00",
+                                "20:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7026&tipoimagen=poster",
@@ -2608,24 +2680,18 @@
                                 "21:45"
                             ],
                             "Lunes": [
-                                "16:00",
-                                "16:55",
                                 "18:25",
                                 "19:20",
                                 "20:50",
                                 "21:45"
                             ],
                             "Martes": [
-                                "16:00",
-                                "16:55",
                                 "18:25",
                                 "19:20",
                                 "20:50",
                                 "21:45"
                             ],
                             "Miercoles": [
-                                "16:00",
-                                "16:55",
                                 "18:25",
                                 "19:20",
                                 "20:50",
@@ -2675,25 +2741,19 @@
                                 "22:00"
                             ],
                             "Lunes": [
-                                "16:30",
-                                "17:15",
                                 "19:00",
-                                "21:30",
-                                "22:00"
+                                "20:45",
+                                "21:30"
                             ],
                             "Martes": [
-                                "16:30",
-                                "17:15",
                                 "19:00",
-                                "21:30",
-                                "22:00"
+                                "20:45",
+                                "21:30"
                             ],
                             "Miercoles": [
-                                "16:30",
-                                "17:15",
                                 "19:00",
-                                "21:30",
-                                "22:00"
+                                "20:45",
+                                "21:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
@@ -2868,8 +2928,7 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:30",
-                            "20:55"
+                            "21:15"
                         ],
                         "linkForImage": "../images/posters/15_7095.jpg",
                         "showTimeData": [
@@ -2885,7 +2944,6 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:20",
                             "18:45",
                             "21:10"
                         ],
@@ -2903,9 +2961,8 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "18:55",
-                            "21:40"
+                            "18:00",
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/15_7026.jpg",
                         "showTimeData": [
@@ -2921,9 +2978,8 @@
                         "spanishTitle": "LEGO BATMAN (3D) ESP",
                         "englishTitle": "LEGO BATMAN (3D) ESP",
                         "scheduleToday": [
-                            "16:20",
-                            "18:30",
-                            "20:40"
+                            "18:20",
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/15_7018.jpg",
                         "showTimeData": [
@@ -2939,8 +2995,6 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:00",
-                            "16:45",
                             "18:20",
                             "19:05",
                             "20:40",
@@ -2960,7 +3014,7 @@
                         "spanishTitle": "VOCES DE LA CALLE (2D)",
                         "englishTitle": "VOCES DE LA CALLE (2D)",
                         "scheduleToday": [
-                            "19:00"
+                            "19:20"
                         ],
                         "linkForImage": "../images/posters/15_7006.jpg",
                         "showTimeData": [
@@ -2976,12 +3030,10 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "16:45",
-                            "17:35",
-                            "18:50",
-                            "19:40",
-                            "20:55",
-                            "21:45"
+                            "18:45",
+                            "19:45",
+                            "20:50",
+                            "21:50"
                         ],
                         "linkForImage": "../images/posters/15_6985.jpg",
                         "showTimeData": [
@@ -3493,9 +3545,8 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:20",
-                            "18:50",
-                            "21:20"
+                            "18:45",
+                            "21:15"
                         ],
                         "linkForImage": "../images/posters/16_7095.jpg",
                         "showTimeData": [
@@ -3511,9 +3562,8 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:20",
-                            "18:45",
-                            "21:10"
+                            "19:00",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/16_7028.jpg",
                         "showTimeData": [
@@ -3529,9 +3579,8 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "englishTitle": "A CURE FOR WELLNESS (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "18:55",
-                            "21:50"
+                            "18:00",
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/16_7026.jpg",
                         "showTimeData": [
@@ -3547,8 +3596,7 @@
                         "spanishTitle": "LEGO BATMAN (2D) ESP",
                         "englishTitle": "LEGO BATMAN (2D) ESP",
                         "scheduleToday": [
-                            "16:10",
-                            "18:20"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/16_7016.jpg",
                         "showTimeData": [
@@ -3564,11 +3612,10 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
                             "19:00",
-                            "20:30",
+                            "20:40",
                             "21:20",
-                            "21:50"
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/16_7010.jpg",
                         "showTimeData": [
@@ -3584,8 +3631,7 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:40",
-                            "19:45"
+                            "19:40"
                         ],
                         "linkForImage": "../images/posters/16_6985.jpg",
                         "showTimeData": [
@@ -3620,6 +3666,12 @@
                             "Domingo": [
                                 "17:40",
                                 "19:45"
+                            ],
+                            "Lunes": [
+                                "19:40"
+                            ],
+                            "Martes": [
+                                "19:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
@@ -3655,7 +3707,8 @@
                                 "19:00",
                                 "20:30",
                                 "21:20",
-                                "21:50"
+                                "21:50",
+                                "22:40"
                             ],
                             "Domingo": [
                                 "16:40",
@@ -3663,6 +3716,18 @@
                                 "20:30",
                                 "21:20",
                                 "21:50"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "20:40",
+                                "21:20",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "20:40",
+                                "21:20",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
@@ -3694,6 +3759,12 @@
                             "Domingo": [
                                 "16:10",
                                 "18:20"
+                            ],
+                            "Lunes": [
+                                "18:30"
+                            ],
+                            "Martes": [
+                                "18:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7016&tipoimagen=poster",
@@ -3729,6 +3800,14 @@
                                 "16:00",
                                 "18:55",
                                 "21:50"
+                            ],
+                            "Lunes": [
+                                "18:00",
+                                "20:55"
+                            ],
+                            "Martes": [
+                                "18:00",
+                                "20:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7026&tipoimagen=poster",
@@ -3764,6 +3843,14 @@
                                 "16:20",
                                 "18:45",
                                 "21:10"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:25"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:25"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
@@ -3799,6 +3886,14 @@
                                 "16:20",
                                 "18:50",
                                 "21:20"
+                            ],
+                            "Lunes": [
+                                "18:45",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "18:45",
+                                "21:15"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
@@ -3952,11 +4047,6 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7108&tipoimagen=poster",
                         "movieName": "THE GREAT WALL (IMAX-3D) SUB",
                         "date": "23/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
-                        "movieName": "VOCES DE LA CALLE (2D)",
-                        "date": "02/02/2017"
                     }
                 ]
             }
@@ -3970,7 +4060,7 @@
                         "spanishTitle": "LEGO BATMAN (2D) ESP",
                         "englishTitle": "LEGO BATMAN (2D) ESP",
                         "scheduleToday": [
-                            "18:45"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/17_7016.jpg",
                         "showTimeData": [
@@ -3986,11 +4076,9 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (ESP)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (ESP)",
                         "scheduleToday": [
-                            "16:25",
-                            "16:55",
-                            "19:15",
-                            "20:55",
-                            "21:35"
+                            "19:05",
+                            "20:40",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/17_7011.jpg",
                         "showTimeData": [
@@ -4006,9 +4094,8 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "16:00",
-                            "18:05",
-                            "20:10"
+                            "18:45",
+                            "20:50"
                         ],
                         "linkForImage": "../images/posters/17_6985.jpg",
                         "showTimeData": [
@@ -4048,6 +4135,7 @@
                             ],
                             "Lunes": [
                                 "18:45",
+                                "20:50",
                                 "20:50"
                             ],
                             "Martes": [
@@ -4099,7 +4187,6 @@
                             ],
                             "Lunes": [
                                 "19:05",
-                                "20:40",
                                 "21:25"
                             ],
                             "Martes": [
@@ -4309,8 +4396,8 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "19:10",
-                            "21:35"
+                            "18:30",
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/18_7028.jpg",
                         "showTimeData": [
@@ -4342,8 +4429,8 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "18:45",
-                            "21:05"
+                            "19:05",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/18_7010.jpg",
                         "showTimeData": [
@@ -4763,7 +4850,7 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
                         "scheduleToday": [
-                            "21:50"
+                            "21:40"
                         ],
                         "linkForImage": "../images/posters/19_7096.jpg",
                         "showTimeData": [
@@ -4779,8 +4866,7 @@
                         "spanishTitle": "SPLIT (2D) ESP",
                         "englishTitle": "SPLIT (2D) ESP",
                         "scheduleToday": [
-                            "16:05",
-                            "18:30"
+                            "19:10"
                         ],
                         "linkForImage": "../images/posters/19_7029.jpg",
                         "showTimeData": [
@@ -4796,8 +4882,7 @@
                         "spanishTitle": "A CURE FOR WELLNESS (2D) ESP",
                         "englishTitle": "A CURE FOR WELLNESS (2D) ESP",
                         "scheduleToday": [
-                            "16:00",
-                            "18:55"
+                            "18:45"
                         ],
                         "linkForImage": "../images/posters/19_7027.jpg",
                         "showTimeData": [
@@ -4813,9 +4898,8 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
-                            "19:00",
-                            "21:20"
+                            "18:30",
+                            "20:50"
                         ],
                         "linkForImage": "../images/posters/19_7010.jpg",
                         "showTimeData": [
@@ -4828,13 +4912,27 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=vnLqJLeTMVU"
                     },
                     {
+                        "spanishTitle": "LA LA LAND (2D) (SUB)",
+                        "englishTitle": "LA LA LAND (2D) (SUB)",
+                        "scheduleToday": [
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/19_7002.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/12 ",
+                            "Musical ",
+                            "130 min "
+                        ],
+                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=VDMf9m7FXd4"
+                    },
+                    {
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:25",
-                            "19:30",
-                            "20:50",
-                            "21:35"
+                            "18:45",
+                            "20:50"
                         ],
                         "linkForImage": "../images/posters/19_6985.jpg",
                         "showTimeData": [
@@ -4873,6 +4971,7 @@
                             "Domingo": [
                                 "17:25",
                                 "19:30",
+                                "20:50",
                                 "21:35"
                             ],
                             "Lunes": [
@@ -4905,9 +5004,6 @@
                             "Viernes": [
                                 "20:55"
                             ],
-                            "Domingo": [
-                                "20:55"
-                            ],
                             "Lunes": [
                                 "21:35"
                             ],
@@ -4926,7 +5022,7 @@
                             "         Musical ",
                             "         130 min"
                         ],
-                        "sinopsis": "Narra un tempestuoso romance,desde el tierno comienzo del amor juvenil hasta los sacrificios de una gran ambición. Dos jóvenes soñadores luchan por perseguir sus sueños en una ciudad conocida por destruir esperanzas y romper corazones. Mia,una aspirante a actriz,sirve café a estrellas de cine y Sebastián,un músico de jazz se gana la vida tocando en sucios bares. Tras algunos encuentros inesperados,las chispas entre Mia y Sebastián estallan. Pero la lucha por conseguir lo que quieren amenaza con separarlos."
+                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos."
                     },
                     {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",

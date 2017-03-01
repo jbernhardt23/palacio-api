@@ -7,9 +7,7 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:15",
-                            "18:00",
-                            "19:45"
+                            "18:00"
                         ],
                         "linkForImage": "../images/posters/11_7112.jpg",
                         "showTimeData": [
@@ -25,14 +23,13 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "16:40",
-                            "18:45",
-                            "20:50",
-                            "21:30"
+                            "19:00",
+                            "21:05",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/11_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -41,11 +38,27 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
+                        "scheduleToday": [
+                            "19:00",
+                            "21:40"
+                        ],
+                        "linkForImage": "../images/posters/11_7102.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "135 min "
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY"
+                    },
+                    {
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:00",
-                            "18:30"
+                            "18:15"
                         ],
                         "linkForImage": "../images/posters/11_7095.jpg",
                         "showTimeData": [
@@ -61,9 +74,8 @@
                         "spanishTitle": "THE GREAT WALL (2D) SUB",
                         "englishTitle": "THE GREAT WALL (2D) SUB",
                         "scheduleToday": [
-                            "17:00",
-                            "19:10",
-                            "21:20"
+                            "18:45",
+                            "20:55"
                         ],
                         "linkForImage": "../images/posters/11_7032.jpg",
                         "showTimeData": [
@@ -79,8 +91,7 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "17:00",
-                            "19:25"
+                            "18:00"
                         ],
                         "linkForImage": "../images/posters/11_7028.jpg",
                         "showTimeData": [
@@ -96,10 +107,9 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:25",
-                            "18:45",
-                            "21:05",
-                            "21:50"
+                            "19:05",
+                            "20:25",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/11_7010.jpg",
                         "showTimeData": [
@@ -115,7 +125,7 @@
                         "spanishTitle": "LA LA LAND (2D) (SUB)",
                         "englishTitle": "LA LA LAND (2D) (SUB)",
                         "scheduleToday": [
-                            "21:00"
+                            "20:45"
                         ],
                         "linkForImage": "../images/posters/11_7002.jpg",
                         "showTimeData": [
@@ -131,13 +141,11 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:25",
-                            "19:30",
-                            "21:35"
+                            "19:45"
                         ],
                         "linkForImage": "../images/posters/11_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -178,6 +186,9 @@
                                 "19:30",
                                 "21:35"
                             ],
+                            "Martes": [
+                                "19:45"
+                            ],
                             "Miercoles": [
                                 "19:20",
                                 "21:20"
@@ -185,7 +196,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -211,6 +222,9 @@
                             ],
                             "Lunes": [
                                 "21:00"
+                            ],
+                            "Martes": [
+                                "20:45"
                             ],
                             "Miercoles": [
                                 "20:45"
@@ -260,6 +274,11 @@
                                 "21:05",
                                 "21:50"
                             ],
+                            "Martes": [
+                                "19:05",
+                                "20:25",
+                                "21:25"
+                            ],
                             "Miercoles": [
                                 "19:05",
                                 "20:25",
@@ -299,6 +318,9 @@
                             "Lunes": [
                                 "17:00",
                                 "19:25"
+                            ],
+                            "Martes": [
+                                "18:00"
                             ],
                             "Miercoles": [
                                 "18:00"
@@ -343,6 +365,10 @@
                                 "19:10",
                                 "21:20"
                             ],
+                            "Martes": [
+                                "18:45",
+                                "20:55"
+                            ],
                             "Miercoles": [
                                 "18:45",
                                 "20:55"
@@ -374,13 +400,12 @@
                                 "16:00",
                                 "18:30"
                             ],
-                            "Domingo": [
-                                "16:00",
-                                "18:30"
-                            ],
                             "Lunes": [
                                 "16:00",
                                 "18:30"
+                            ],
+                            "Martes": [
+                                "18:15"
                             ],
                             "Miercoles": [
                                 "18:15"
@@ -389,6 +414,24 @@
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34",
                         "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/18 ",
+                            "         Acción ",
+                            "         125 min"
+                        ],
+                        "sinopsis": "En esta secuela del éxito de 2014,el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre,John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo."
+                    },
+                    {
+                        "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
+                        "englishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
+                        "weekDaySchedule": {
+                            "Domingo": [
+                                "18:40"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7096&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34",
+                        "language": "En Español Subtitulada",
                         "showTimeData": [
                             "R/18 ",
                             "         Acción ",
@@ -449,6 +492,11 @@
                                 "20:50",
                                 "21:30"
                             ],
+                            "Martes": [
+                                "19:00",
+                                "21:05",
+                                "21:45"
+                            ],
                             "Miercoles": [
                                 "19:00",
                                 "21:05",
@@ -457,7 +505,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -493,6 +541,9 @@
                                 "16:15",
                                 "18:00",
                                 "19:45"
+                            ],
+                            "Martes": [
+                                "18:00"
                             ],
                             "Miercoles": [
                                 "18:00",
@@ -532,6 +583,11 @@
                         "date": "09/02/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7096&tipoimagen=poster",
+                        "movieName": "JOHN WICK: CHAPTER 2 (2D) ESP",
+                        "date": "09/02/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
                         "movieName": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "date": "09/02/2017"
@@ -547,29 +603,9 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
                         "movieName": "LOGAN (2D) SUB",
                         "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
-                        "movieName": "MISS SLOANE (2D) (SUB)",
-                        "date": "02/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7112&tipoimagen=poster",
@@ -582,9 +618,14 @@
                         "date": "16/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
-                        "movieName": "THE GREAT WALL (3D) SUB",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "movieName": "THE GREAT WALL (2D) SUB",
                         "date": "23/02/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
+                        "movieName": "VOCES DE LA CALLE (2D)",
+                        "date": "02/02/2017"
                     }
                 ]
             }
@@ -596,8 +637,7 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:45",
-                            "18:30"
+                            "18:45"
                         ],
                         "linkForImage": "../images/posters/12_7112.jpg",
                         "showTimeData": [
@@ -613,13 +653,12 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "17:00",
                             "19:00",
                             "21:00"
                         ],
                         "linkForImage": "../images/posters/12_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -628,11 +667,27 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
+                        "scheduleToday": [
+                            "18:45",
+                            "21:15"
+                        ],
+                        "linkForImage": "../images/posters/12_7102.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "135 min "
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY"
+                    },
+                    {
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:50",
-                            "19:20"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/12_7095.jpg",
                         "showTimeData": [
@@ -645,14 +700,12 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34"
                     },
                     {
-                        "spanishTitle": "THE GREAT WALL (3D) SUB",
-                        "englishTitle": "THE GREAT WALL (3D) SUB",
+                        "spanishTitle": "THE GREAT WALL (2D) SUB",
+                        "englishTitle": "THE GREAT WALL (2D) SUB",
                         "scheduleToday": [
-                            "17:20",
-                            "19:30",
-                            "21:40"
+                            "21:00"
                         ],
-                        "linkForImage": "../images/posters/12_7035.jpg",
+                        "linkForImage": "../images/posters/12_7032.jpg",
                         "showTimeData": [
                             "En InglesSubtitulada",
                             "R/14 ",
@@ -666,10 +719,8 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:20",
-                            "18:40",
-                            "21:00",
-                            "21:50"
+                            "19:10",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/12_7010.jpg",
                         "showTimeData": [
@@ -678,14 +729,14 @@
                             "Romance ",
                             "115 min "
                         ],
-                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos.",
+                        "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza,la Dra. Fletcher (Betty Buckley),que posee 23 personalidades diferentes,aún queda una por emerger,decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy),Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,a medida que las paredes de sus compartimentos mentales se derrumban.",
                         "urlTrailer": "https://www.youtube.com/watch?v=vnLqJLeTMVU"
                     },
                     {
                         "spanishTitle": "MISS SLOANE (2D) (SUB)",
                         "englishTitle": "MISS SLOANE (2D) (SUB)",
                         "scheduleToday": [
-                            "20:15"
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/12_7000.jpg",
                         "showTimeData": [
@@ -701,13 +752,12 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:05",
-                            "19:10",
-                            "21:15"
+                            "19:40",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/12_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -759,7 +809,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -839,7 +889,6 @@
                             ],
                             "Martes": [
                                 "19:10",
-                                "21:00",
                                 "21:30"
                             ],
                             "Miercoles": [
@@ -856,7 +905,25 @@
                             "         Romance ",
                             "         115 min"
                         ],
-                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos."
+                        "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza,la Dra. Fletcher (Betty Buckley),que posee 23 personalidades diferentes,aún queda una por emerger,decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy),Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,a medida que las paredes de sus compartimentos mentales se derrumban."
+                    },
+                    {
+                        "spanishTitle": "THE GREAT WALL (2D) SUB",
+                        "englishTitle": "THE GREAT WALL (2D) SUB",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "21:00"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=LVw9YdP1O-0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         105 min"
+                        ],
+                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana."
                     },
                     {
                         "spanishTitle": "THE GREAT WALL (3D) SUB",
@@ -886,10 +953,6 @@
                                 "17:20",
                                 "19:30",
                                 "21:40"
-                            ],
-                            "Martes": [
-                                "19:15",
-                                "21:25"
                             ],
                             "Miercoles": [
                                 "19:15",
@@ -948,6 +1011,25 @@
                         "sinopsis": "En esta secuela del éxito de 2014,el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre,John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo."
                     },
                     {
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "18:45",
+                                "21:15"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/16 ",
+                            "         Acción ",
+                            "         135 min"
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009."
+                    },
+                    {
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "weekDaySchedule": {
@@ -987,7 +1069,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -1129,23 +1211,8 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
                         "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
                         "date": "28/02/2017"
                     },
                     {
@@ -1164,6 +1231,11 @@
                         "date": "16/02/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "movieName": "THE GREAT WALL (2D) SUB",
+                        "date": "23/02/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
                         "movieName": "THE GREAT WALL (3D) SUB",
                         "date": "23/02/2017"
@@ -1178,8 +1250,8 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:40",
-                            "18:35"
+                            "18:30",
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/13_7112.jpg",
                         "showTimeData": [
@@ -1188,40 +1260,20 @@
                             "Animación ",
                             "90 min "
                         ],
-                        "sinopsis": "Cuando una radio cae del cielo y va a parar las manos de un mastín tibetano,abandonará su hogar para perseguir su sueño de convertirse en un músico. Claro que esto desencadenará una serie de eventos imprevistos.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=kGsUHbq3yUY"
-                    },
-                    {
-                        "spanishTitle": "ROCK DOG (2D) SUB",
-                        "englishTitle": "ROCK DOG (2D) SUB",
-                        "scheduleToday": [
-                            "16:40",
-                            "18:35"
-                        ],
-                        "linkForImage": "../images/posters/13_7111.jpg",
-                        "showTimeData": [
-                            "En InglesSubtitulada",
-                            "S/R ",
-                            "Animación ",
-                            "90 min "
-                        ],
-                        "sinopsis": "Cuando una radio cae del cielo y va a parar las manos de un mastín tibetano,abandonará su hogar para perseguir su sueño de convertirse en un músico. Claro que esto desencadenará una serie de eventos imprevistos.",
                         "urlTrailer": "https://www.youtube.com/watch?v=kGsUHbq3yUY"
                     },
                     {
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "17:40",
-                            "17:40",
-                            "19:40",
-                            "19:40",
-                            "21:40",
-                            "21:40"
+                            "19:30",
+                            "19:30",
+                            "21:30",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/13_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -1230,47 +1282,28 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
-                        "spanishTitle": "THE GREAT WALL (IMAX-3D) SUB",
-                        "englishTitle": "THE GREAT WALL (IMAX-3D) SUB",
+                        "spanishTitle": "LOGAN (IMAX-2D) SUB",
+                        "englishTitle": "LOGAN (IMAX-2D) SUB",
                         "scheduleToday": [
-                            "17:10",
-                            "17:10",
-                            "19:20",
-                            "19:20",
-                            "21:30",
-                            "21:30"
+                            "19:00",
+                            "19:00",
+                            "21:35",
+                            "21:35"
                         ],
-                        "linkForImage": "../images/posters/13_7108.jpg",
+                        "linkForImage": "../images/posters/13_7104.jpg",
                         "showTimeData": [
                             "En InglesSubtitulada",
                             "R/14 ",
                             "Acción ",
-                            "105 min "
-                        ],
-                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=avF6GHyyk5c"
-                    },
-                    {
-                        "spanishTitle": "LA TORTUGA ROJA (2D) ESP",
-                        "englishTitle": "LA TORTUGA ROJA (2D) ESP",
-                        "scheduleToday": [
-                            "19:30"
-                        ],
-                        "linkForImage": "../images/posters/13_7064.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "S/R ",
-                            "Festival ",
-                            "80 min "
-                        ],
-                        "sinopsis": "Historia muda sobre un náufrago en una isla tropical desierta,poblada de tortugas,cangrejos y aves. La película cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michael Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Una coproducción de varias productoras francesas y el Studio Ghibli.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=42aQ3TQG5fw"
+                            "135 min "
+                        ]
                     },
                     {
                         "spanishTitle": "ELLE (2D) SUB",
                         "englishTitle": "ELLE (2D) SUB",
                         "scheduleToday": [
-                            "21:15"
+                            "18:45",
+                            "21:20"
                         ],
                         "linkForImage": "../images/posters/13_7024.jpg",
                         "showTimeData": [
@@ -1278,15 +1311,13 @@
                             "R/18 ",
                             "Festival ",
                             "130 min "
-                        ],
-                        "sinopsis": "Michèle,exitosa ejecutiva de una empresa de videojuegos,busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=cwW8FfopEHY"
+                        ]
                     },
                     {
                         "spanishTitle": "LEGO BATMAN (2D) SUB",
                         "englishTitle": "LEGO BATMAN (2D) SUB",
                         "scheduleToday": [
-                            "16:10"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/13_7015.jpg",
                         "showTimeData": [
@@ -1294,22 +1325,18 @@
                             "S/R ",
                             "Animación ",
                             "105 min "
-                        ],
-                        "sinopsis": "Spin-off de \"La LEGO Película\",protagonizado por Batman.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=rGQUKzSDhrg"
+                        ]
                     },
                     {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
-                            "16:40",
-                            "19:00",
-                            "19:00",
-                            "20:30",
-                            "20:30",
-                            "21:20",
-                            "21:20"
+                            "19:05",
+                            "19:05",
+                            "20:35",
+                            "20:35",
+                            "21:25",
+                            "21:25"
                         ],
                         "linkForImage": "../images/posters/13_7010.jpg",
                         "showTimeData": [
@@ -1318,14 +1345,13 @@
                             "Romance ",
                             "115 min "
                         ],
-                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos.",
+                        "sinopsis": "Spin-off de \"La LEGO Película\",protagonizado por Batman.",
                         "urlTrailer": "https://www.youtube.com/watch?v=vnLqJLeTMVU"
                     },
                     {
                         "spanishTitle": "LA LA LAND (2D) (SUB)",
                         "englishTitle": "LA LA LAND (2D) (SUB)",
                         "scheduleToday": [
-                            "16:25",
                             "19:00",
                             "21:35"
                         ],
@@ -1335,16 +1361,13 @@
                             "R/12 ",
                             "Musical ",
                             "130 min "
-                        ],
-                        "sinopsis": "Narra un tempestuoso romance,desde el tierno comienzo del amor juvenil hasta los sacrificios de una gran ambición. Dos jóvenes soñadores luchan por perseguir sus sueños en una ciudad conocida por destruir esperanzas y romper corazones. Mia,una aspirante a actriz,sirve café a estrellas de cine y Sebastián,un músico de jazz se gana la vida tocando en sucios bares. Tras algunos encuentros inesperados,las chispas entre Mia y Sebastián estallan. Pero la lucha por conseguir lo que quieren amenaza con separarlos.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=VDMf9m7FXd4"
+                        ]
                     },
                     {
                         "spanishTitle": "MISS SLOANE (2D) (SUB)",
                         "englishTitle": "MISS SLOANE (2D) (SUB)",
                         "scheduleToday": [
-                            "18:20",
-                            "21:00"
+                            "20:40"
                         ],
                         "linkForImage": "../images/posters/13_7000.jpg",
                         "showTimeData": [
@@ -1353,7 +1376,7 @@
                             "Drama ",
                             "135 min "
                         ],
-                        "sinopsis": "Una implacable ejecutiva de un lobby armamentístico (Jessica Chastain) trata de evitar que fructifique una legislación a favor del control de armas en Washington DC.",
+                        "sinopsis": "Narra un tempestuoso romance,desde el tierno comienzo del amor juvenil hasta los sacrificios de una gran ambición. Dos jóvenes soñadores luchan por perseguir sus sueños en una ciudad conocida por destruir esperanzas y romper corazones. Mia,una aspirante a actriz,sirve café a estrellas de cine y Sebastián,un músico de jazz se gana la vida tocando en sucios bares. Tras algunos encuentros inesperados,las chispas entre Mia y Sebastián estallan. Pero la lucha por conseguir lo que quieren amenaza con separarlos.",
                         "urlTrailer": "https://www.youtube.com/watch?v=-rYObDDvVOo"
                     }
                 ]
@@ -1361,12 +1384,101 @@
             {
                 "weekly": [
                     {
+                        "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
+                        "englishTitle": "EL PLAN PERFECTO",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "16:40",
+                                "17:40",
+                                "18:45",
+                                "19:45",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Viernes": [
+                                "16:40",
+                                "17:40",
+                                "18:45",
+                                "19:45",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Sabado": [
+                                "16:40",
+                                "17:40",
+                                "18:45",
+                                "19:45",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Domingo": [
+                                "16:40",
+                                "17:40",
+                                "18:45",
+                                "19:45",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Lunes": [
+                                "16:40",
+                                "17:40",
+                                "18:45",
+                                "19:45",
+                                "20:50",
+                                "21:50"
+                            ],
+                            "Martes": [
+                                "18:55",
+                                "19:45",
+                                "20:55",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "18:55",
+                                "19:45",
+                                "20:55",
+                                "21:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
+                        "language": "En Español",
+                        "showTimeData": [
+                            "S/R ",
+                            "         Acción ",
+                            "         100 min"
+                        ],
+                        "sinopsis": "Una implacable ejecutiva de un lobby armamentístico (Jessica Chastain) trata de evitar que fructifique una legislación a favor del control de armas en Washington DC."
+                    },
+                    {
                         "spanishTitle": "MISS SLOANE (2D) (SUB)",
                         "englishTitle": "MISS SLOANE (2D) (SUB)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "18:20",
-                                "21:00"
+                                "16:20",
+                                "20:55"
+                            ],
+                            "Viernes": [
+                                "16:20",
+                                "20:55"
+                            ],
+                            "Sabado": [
+                                "16:20",
+                                "20:55"
+                            ],
+                            "Domingo": [
+                                "16:20",
+                                "20:55"
+                            ],
+                            "Lunes": [
+                                "16:20",
+                                "20:55"
+                            ],
+                            "Martes": [
+                                "18:55"
+                            ],
+                            "Miercoles": [
+                                "18:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
@@ -1377,41 +1489,93 @@
                             "         Drama ",
                             "         135 min"
                         ],
-                        "sinopsis": "Una implacable ejecutiva de un lobby armamentístico (Jessica Chastain) trata de evitar que fructifique una legislación a favor del control de armas en Washington DC."
+                        "sinopsis": "Narra un tempestuoso romance,desde el tierno comienzo del amor juvenil hasta los sacrificios de una gran ambición. Dos jóvenes soñadores luchan por perseguir sus sueños en una ciudad conocida por destruir esperanzas y romper corazones. Mia,una aspirante a actriz,sirve café a estrellas de cine y Sebastián,un músico de jazz se gana la vida tocando en sucios bares. Tras algunos encuentros inesperados,las chispas entre Mia y Sebastián estallan. Pero la lucha por conseguir lo que quieren amenaza con separarlos."
                     },
                     {
-                        "spanishTitle": "LA LA LAND (2D) (SUB)",
-                        "englishTitle": "LA LA LAND (2D) (SUB)",
+                        "spanishTitle": "VOCES DE LA CALLE (2D)",
+                        "englishTitle": "VOCES DE LA CALLE (2D)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "16:25",
-                                "19:00",
-                                "21:35"
+                                "19:00"
+                            ],
+                            "Viernes": [
+                                "19:00"
+                            ],
+                            "Sabado": [
+                                "19:00"
+                            ],
+                            "Domingo": [
+                                "19:00"
+                            ],
+                            "Lunes": [
+                                "19:00"
+                            ],
+                            "Martes": [
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "21:40"
                             ]
                         },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7002&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=VDMf9m7FXd4",
-                        "language": "En Ingles Subtitulada",
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=5n-LqYc9JTo",
+                        "language": "En Español",
                         "showTimeData": [
-                            "R/12 ",
-                            "         Musical ",
-                            "         130 min"
+                            "R/14 ",
+                            "         Acción ",
+                            "         90 min"
                         ],
-                        "sinopsis": "Narra un tempestuoso romance,desde el tierno comienzo del amor juvenil hasta los sacrificios de una gran ambición. Dos jóvenes soñadores luchan por perseguir sus sueños en una ciudad conocida por destruir esperanzas y romper corazones. Mia,una aspirante a actriz,sirve café a estrellas de cine y Sebastián,un músico de jazz se gana la vida tocando en sucios bares. Tras algunos encuentros inesperados,las chispas entre Mia y Sebastián estallan. Pero la lucha por conseguir lo que quieren amenaza con separarlos."
+                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos."
                     },
                     {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "16:40",
-                                "16:40",
-                                "19:00",
-                                "19:00",
-                                "20:30",
+                                "16:45",
+                                "19:05",
                                 "20:30",
                                 "21:20",
-                                "21:20"
+                                "21:40"
+                            ],
+                            "Viernes": [
+                                "16:45",
+                                "19:05",
+                                "20:30",
+                                "21:20",
+                                "21:40"
+                            ],
+                            "Sabado": [
+                                "16:45",
+                                "19:05",
+                                "20:30",
+                                "21:20",
+                                "21:40"
+                            ],
+                            "Domingo": [
+                                "16:45",
+                                "19:05",
+                                "20:30",
+                                "21:20",
+                                "21:40"
+                            ],
+                            "Lunes": [
+                                "16:45",
+                                "19:05",
+                                "20:30",
+                                "21:20",
+                                "21:40"
+                            ],
+                            "Martes": [
+                                "18:20",
+                                "20:40",
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "18:20",
+                                "20:40",
+                                "21:40",
+                                "21:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
@@ -1422,111 +1586,197 @@
                             "         Romance ",
                             "         115 min"
                         ],
-                        "sinopsis": "Secuela de \"50 sombras de Grey\",en la que Christian Grey sigue explorando sus demonios interiores y la joven Anastasia confronta sus sentimientos,confusión y rabia sobre su relación con el atractivo millonario,una tipo misterioso lleno de secretos."
-                    },
-                    {
-                        "spanishTitle": "LEGO BATMAN (2D) SUB",
-                        "englishTitle": "LEGO BATMAN (2D) SUB",
-                        "weekDaySchedule": {
-                            "Jueves": [
-                                "16:10"
-                            ]
-                        },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7015&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=rGQUKzSDhrg",
-                        "language": "En Ingles Subtitulada",
-                        "showTimeData": [
-                            "S/R ",
-                            "         Animación ",
-                            "         105 min"
-                        ],
                         "sinopsis": "Spin-off de \"La LEGO Película\",protagonizado por Batman."
                     },
                     {
-                        "spanishTitle": "ELLE (2D) SUB",
-                        "englishTitle": "ELLE (2D) SUB",
+                        "spanishTitle": "SPLIT (2D) SUB",
+                        "englishTitle": "SPLIT (2D) SUB",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "21:15"
+                                "16:55",
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Viernes": [
+                                "16:55",
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Sabado": [
+                                "16:55",
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "16:55",
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "16:55",
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:20",
+                                "21:45"
                             ]
                         },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7024&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=cwW8FfopEHY",
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=mJXACd2zAx8",
                         "language": "En Ingles Subtitulada",
                         "showTimeData": [
                             "R/18 ",
-                            "         Festival ",
-                            "         130 min"
+                            "         Thriller ",
+                            "         120 min"
                         ],
                         "sinopsis": "Michèle,exitosa ejecutiva de una empresa de videojuegos,busca venganza tras ser asaltada de forma violenta en su propia casa por un intruso."
                     },
                     {
-                        "spanishTitle": "LA TORTUGA ROJA (2D) ESP",
-                        "englishTitle": "LA TORTUGA ROJA (2D) ESP",
+                        "spanishTitle": "THE GREAT WALL (2D) SUB",
+                        "englishTitle": "THE GREAT WALL (2D) SUB",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "19:30"
-                            ]
-                        },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7064&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=42aQ3TQG5fw",
-                        "language": "En Español Subtitulada",
-                        "showTimeData": [
-                            "S/R ",
-                            "         Festival ",
-                            "         80 min"
-                        ],
-                        "sinopsis": "Historia muda sobre un náufrago en una isla tropical desierta,poblada de tortugas,cangrejos y aves. La película cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michael Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Una coproducción de varias productoras francesas y el Studio Ghibli."
-                    },
-                    {
-                        "spanishTitle": "LOGAN (IMAX-2D) SUB",
-                        "englishTitle": "LOGAN (IMAX-2D) SUB",
-                        "weekDaySchedule": {
-                            "Martes": [
-                                "19:00",
-                                "19:00",
-                                "21:35",
-                                "21:35"
-                            ]
-                        },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY",
-                        "language": "En Ingles Subtitulada",
-                        "showTimeData": [
-                            "R/14 ",
-                            "         Acción ",
-                            "         135 min"
-                        ],
-                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009."
-                    },
-                    {
-                        "spanishTitle": "THE GREAT WALL (IMAX-3D) SUB",
-                        "englishTitle": "THE GREAT WALL (IMAX-3D) SUB",
-                        "weekDaySchedule": {
-                            "Jueves": [
-                                "17:10",
-                                "17:10",
-                                "19:20",
-                                "19:20",
-                                "21:30",
-                                "21:30"
+                                "17:05",
+                                "19:15",
+                                "21:25"
                             ],
                             "Viernes": [
-                                "16:50",
-                                "16:50",
-                                "19:00",
-                                "19:00",
-                                "21:10",
-                                "21:10"
+                                "17:05",
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Sabado": [
+                                "17:05",
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Domingo": [
+                                "17:05",
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Lunes": [
+                                "17:05",
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:25"
                             ]
                         },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7108&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=avF6GHyyk5c",
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=LVw9YdP1O-0",
                         "language": "En Ingles Subtitulada",
                         "showTimeData": [
                             "R/14 ",
                             "         Acción ",
                             "         105 min"
+                        ],
+                        "sinopsis": "Historia muda sobre un náufrago en una isla tropical desierta,poblada de tortugas,cangrejos y aves. La película cuenta las grandes etapas de la vida de un ser humano. Debut en el largometraje del animador Michael Dudok de Wit (ganador del Oscar por su cortometraje \"Father and Daughter\"). Una coproducción de varias productoras francesas y el Studio Ghibli."
+                    },
+                    {
+                        "spanishTitle": "THE GREAT WALL (3D) SUB",
+                        "englishTitle": "THE GREAT WALL (3D) SUB",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "16:10",
+                                "18:20",
+                                "20:30"
+                            ],
+                            "Viernes": [
+                                "16:10",
+                                "18:20",
+                                "20:30"
+                            ],
+                            "Sabado": [
+                                "16:10",
+                                "18:20",
+                                "20:30"
+                            ],
+                            "Domingo": [
+                                "16:10",
+                                "18:20",
+                                "20:30"
+                            ],
+                            "Lunes": [
+                                "16:10",
+                                "18:20",
+                                "20:30"
+                            ],
+                            "Martes": [
+                                "18:10",
+                                "20:20"
+                            ],
+                            "Miercoles": [
+                                "18:10",
+                                "20:20"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=LVw9YdP1O-0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         105 min"
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009."
+                    },
+                    {
+                        "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
+                        "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
+                        "weekDaySchedule": {
+                            "Jueves": [
+                                "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Viernes": [
+                                "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Sabado": [
+                                "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Domingo": [
+                                "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:45"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/18 ",
+                            "         Acción ",
+                            "         125 min"
                         ],
                         "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana."
                     },
@@ -1535,17 +1785,54 @@
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "17:40",
-                                "17:40",
+                                "16:30",
+                                "17:30",
+                                "18:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Viernes": [
+                                "16:30",
+                                "17:30",
+                                "18:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Sabado": [
+                                "16:30",
+                                "17:30",
+                                "18:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Domingo": [
+                                "16:30",
+                                "17:30",
+                                "18:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Lunes": [
+                                "16:30",
+                                "17:30",
+                                "18:30",
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "18:45",
                                 "19:40",
+                                "20:45"
+                            ],
+                            "Miercoles": [
+                                "18:45",
                                 "19:40",
-                                "21:40",
-                                "21:40"
+                                "20:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -1554,31 +1841,41 @@
                         "sinopsis": "José se enamora a primera vista con Clara,descubriendo más tarde que ella lleva el corazón trasplantado de Amanda,su ex esposa que falleció hace 3 años."
                     },
                     {
-                        "spanishTitle": "ROCK DOG (2D) SUB",
-                        "englishTitle": "ROCK DOG (2D) SUB",
-                        "weekDaySchedule": {
-                            "Jueves": [
-                                "16:40",
-                                "18:35"
-                            ]
-                        },
-                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7111&tipoimagen=poster",
-                        "urlTrailer": "https://www.youtube.com/watch?v=kGsUHbq3yUY",
-                        "language": "En Ingles Subtitulada",
-                        "showTimeData": [
-                            "S/R ",
-                            "         Animación ",
-                            "         90 min"
-                        ],
-                        "sinopsis": "Cuando una radio cae del cielo y va a parar las manos de un mastín tibetano,abandonará su hogar para perseguir su sueño de convertirse en un músico. Claro que esto desencadenará una serie de eventos imprevistos."
-                    },
-                    {
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "weekDaySchedule": {
                             "Jueves": [
-                                "16:40",
-                                "18:35"
+                                "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Viernes": [
+                                "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Sabado": [
+                                "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Domingo": [
+                                "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Lunes": [
+                                "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Martes": [
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Miercoles": [
+                                "18:10",
+                                "19:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7112&tipoimagen=poster",
@@ -1588,8 +1885,7 @@
                             "S/R ",
                             "         Animación ",
                             "         90 min"
-                        ],
-                        "sinopsis": "Cuando una radio cae del cielo y va a parar las manos de un mastín tibetano,abandonará su hogar para perseguir su sueño de convertirse en un músico. Claro que esto desencadenará una serie de eventos imprevistos."
+                        ]
                     }
                 ]
             },
@@ -1644,21 +1940,6 @@
                         "date": "16/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
                         "movieName": "LOGAN (IMAX-2D) SUB",
                         "date": "28/02/2017"
@@ -1698,7 +1979,6 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:25",
                             "18:10",
                             "19:55"
                         ],
@@ -1716,15 +1996,13 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "16:30",
-                            "17:30",
-                            "18:30",
-                            "19:30",
-                            "21:30"
+                            "18:45",
+                            "19:40",
+                            "20:45"
                         ],
                         "linkForImage": "../images/posters/14_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -1736,7 +2014,6 @@
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:45",
                             "19:15",
                             "21:45"
                         ],
@@ -1754,9 +2031,8 @@
                         "spanishTitle": "THE GREAT WALL (3D) SUB",
                         "englishTitle": "THE GREAT WALL (3D) SUB",
                         "scheduleToday": [
-                            "16:10",
-                            "18:20",
-                            "20:30"
+                            "18:10",
+                            "20:20"
                         ],
                         "linkForImage": "../images/posters/14_7035.jpg",
                         "showTimeData": [
@@ -1772,7 +2048,6 @@
                         "spanishTitle": "THE GREAT WALL (2D) SUB",
                         "englishTitle": "THE GREAT WALL (2D) SUB",
                         "scheduleToday": [
-                            "17:05",
                             "19:15",
                             "21:25"
                         ],
@@ -1790,7 +2065,6 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "16:55",
                             "19:20",
                             "21:45"
                         ],
@@ -1801,17 +2075,15 @@
                             "Thriller ",
                             "120 min "
                         ],
-                        "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza,la Dra. Fletcher (Betty Buckley),que posee 23 personalidades diferentes,aún queda una por emerger,decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy),Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,a medida que las paredes de sus compartimentos mentales se derrumban.",
+                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana.",
                         "urlTrailer": "https://www.youtube.com/watch?v=mJXACd2zAx8"
                     },
                     {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:45",
-                            "19:05",
-                            "20:30",
-                            "21:20",
+                            "18:20",
+                            "20:40",
                             "21:40"
                         ],
                         "linkForImage": "../images/posters/14_7010.jpg",
@@ -1828,11 +2100,11 @@
                         "spanishTitle": "VOCES DE LA CALLE (2D)",
                         "englishTitle": "VOCES DE LA CALLE (2D)",
                         "scheduleToday": [
-                            "19:00"
+                            "21:40"
                         ],
                         "linkForImage": "../images/posters/14_7006.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Acción ",
                             "90 min "
@@ -1844,8 +2116,7 @@
                         "spanishTitle": "MISS SLOANE (2D) (SUB)",
                         "englishTitle": "MISS SLOANE (2D) (SUB)",
                         "scheduleToday": [
-                            "16:20",
-                            "20:55"
+                            "18:55"
                         ],
                         "linkForImage": "../images/posters/14_7000.jpg",
                         "showTimeData": [
@@ -1861,16 +2132,14 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "16:40",
-                            "17:40",
-                            "18:45",
+                            "18:55",
                             "19:45",
-                            "20:50",
-                            "21:50"
+                            "20:55",
+                            "21:45"
                         ],
                         "linkForImage": "../images/posters/14_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -1925,11 +2194,23 @@
                                 "19:45",
                                 "20:50",
                                 "21:50"
+                            ],
+                            "Martes": [
+                                "18:55",
+                                "19:45",
+                                "20:55",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "18:55",
+                                "19:45",
+                                "20:55",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -1960,6 +2241,12 @@
                             "Lunes": [
                                 "16:20",
                                 "20:55"
+                            ],
+                            "Martes": [
+                                "18:55"
+                            ],
+                            "Miercoles": [
+                                "18:55"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
@@ -1990,11 +2277,17 @@
                             ],
                             "Lunes": [
                                 "19:00"
+                            ],
+                            "Martes": [
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "21:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=5n-LqYc9JTo",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Acción ",
@@ -2040,6 +2333,17 @@
                                 "20:30",
                                 "21:20",
                                 "21:40"
+                            ],
+                            "Martes": [
+                                "18:20",
+                                "20:40",
+                                "21:40"
+                            ],
+                            "Miercoles": [
+                                "18:20",
+                                "20:40",
+                                "21:40",
+                                "21:40"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
@@ -2080,6 +2384,14 @@
                                 "16:55",
                                 "19:20",
                                 "21:45"
+                            ],
+                            "Martes": [
+                                "19:20",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:20",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
@@ -2090,7 +2402,7 @@
                             "         Thriller ",
                             "         120 min"
                         ],
-                        "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza,la Dra. Fletcher (Betty Buckley),que posee 23 personalidades diferentes,aún queda una por emerger,decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy),Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,a medida que las paredes de sus compartimentos mentales se derrumban."
+                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana."
                     },
                     {
                         "spanishTitle": "THE GREAT WALL (2D) SUB",
@@ -2118,6 +2430,14 @@
                             ],
                             "Lunes": [
                                 "17:05",
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:25"
+                            ],
+                            "Miercoles": [
                                 "19:15",
                                 "21:25"
                             ]
@@ -2160,6 +2480,14 @@
                                 "16:10",
                                 "18:20",
                                 "20:30"
+                            ],
+                            "Martes": [
+                                "18:10",
+                                "20:20"
+                            ],
+                            "Miercoles": [
+                                "18:10",
+                                "20:20"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
@@ -2198,6 +2526,14 @@
                             ],
                             "Lunes": [
                                 "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Miercoles": [
                                 "19:15",
                                 "21:45"
                             ]
@@ -2250,11 +2586,21 @@
                                 "18:30",
                                 "19:30",
                                 "21:30"
+                            ],
+                            "Martes": [
+                                "18:45",
+                                "19:40",
+                                "20:45"
+                            ],
+                            "Miercoles": [
+                                "18:45",
+                                "19:40",
+                                "20:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -2288,6 +2634,14 @@
                             ],
                             "Lunes": [
                                 "16:25",
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Martes": [
+                                "18:10",
+                                "19:55"
+                            ],
+                            "Miercoles": [
                                 "18:10",
                                 "19:55"
                             ]
@@ -2335,26 +2689,6 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
                         "movieName": "MISS SLOANE (2D) (SUB)",
                         "date": "02/02/2017"
@@ -2399,7 +2733,6 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:15",
                             "18:00",
                             "19:45"
                         ],
@@ -2417,14 +2750,13 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "16:45",
-                            "18:45",
-                            "20:45",
+                            "18:30",
+                            "20:30",
                             "21:30"
                         ],
                         "linkForImage": "../images/posters/15_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -2433,10 +2765,26 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
+                        "scheduleToday": [
+                            "19:00",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/15_7102.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "135 min "
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY"
+                    },
+                    {
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:45",
                             "19:15",
                             "21:45"
                         ],
@@ -2454,9 +2802,8 @@
                         "spanishTitle": "THE GREAT WALL (3D) SUB",
                         "englishTitle": "THE GREAT WALL (3D) SUB",
                         "scheduleToday": [
-                            "16:50",
-                            "19:00",
-                            "21:10"
+                            "19:20",
+                            "21:30"
                         ],
                         "linkForImage": "../images/posters/15_7035.jpg",
                         "showTimeData": [
@@ -2472,7 +2819,7 @@
                         "spanishTitle": "LEGO BATMAN (2D) ESP",
                         "englishTitle": "LEGO BATMAN (2D) ESP",
                         "scheduleToday": [
-                            "16:40"
+                            "18:50"
                         ],
                         "linkForImage": "../images/posters/15_7016.jpg",
                         "showTimeData": [
@@ -2488,12 +2835,8 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "15:40",
-                            "16:45",
                             "18:00",
-                            "19:05",
-                            "20:20",
-                            "21:25"
+                            "20:20"
                         ],
                         "linkForImage": "../images/posters/15_7010.jpg",
                         "showTimeData": [
@@ -2509,15 +2852,13 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "17:35",
-                            "18:50",
                             "19:40",
-                            "20:55",
+                            "21:00",
                             "21:45"
                         ],
                         "linkForImage": "../images/posters/15_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -2567,11 +2908,21 @@
                                 "19:40",
                                 "20:55",
                                 "21:45"
+                            ],
+                            "Martes": [
+                                "19:40",
+                                "21:00",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:40",
+                                "21:00",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -2622,6 +2973,16 @@
                                 "19:05",
                                 "20:20",
                                 "21:25"
+                            ],
+                            "Martes": [
+                                "18:00",
+                                "20:20"
+                            ],
+                            "Miercoles": [
+                                "18:00",
+                                "19:00",
+                                "20:20",
+                                "21:20"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
@@ -2652,6 +3013,12 @@
                             ],
                             "Lunes": [
                                 "16:40"
+                            ],
+                            "Martes": [
+                                "18:50"
+                            ],
+                            "Miercoles": [
+                                "18:50"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7016&tipoimagen=poster",
@@ -2692,6 +3059,14 @@
                                 "16:50",
                                 "19:00",
                                 "21:10"
+                            ],
+                            "Martes": [
+                                "19:20",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:20",
+                                "21:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
@@ -2730,6 +3105,14 @@
                             ],
                             "Lunes": [
                                 "16:45",
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:45"
+                            ],
+                            "Miercoles": [
                                 "19:15",
                                 "21:45"
                             ]
@@ -2796,11 +3179,21 @@
                                 "18:45",
                                 "20:45",
                                 "21:30"
+                            ],
+                            "Martes": [
+                                "18:30",
+                                "20:30",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "18:30",
+                                "20:30",
+                                "21:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -2834,6 +3227,14 @@
                             ],
                             "Lunes": [
                                 "16:15",
+                                "18:00",
+                                "19:45"
+                            ],
+                            "Martes": [
+                                "18:00",
+                                "19:45"
+                            ],
+                            "Miercoles": [
                                 "18:00",
                                 "19:45"
                             ]
@@ -2886,23 +3287,8 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
                         "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
                         "date": "28/02/2017"
                     },
                     {
@@ -2937,8 +3323,7 @@
                         "spanishTitle": "ROCK DOG (2D) ESP",
                         "englishTitle": "ROCK DOG (2D) ESP",
                         "scheduleToday": [
-                            "16:35",
-                            "18:20"
+                            "18:45"
                         ],
                         "linkForImage": "../images/posters/16_7112.jpg",
                         "showTimeData": [
@@ -2954,13 +3339,12 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "17:15",
                             "19:15",
                             "21:15"
                         ],
                         "linkForImage": "../images/posters/16_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -2969,10 +3353,26 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
+                        "scheduleToday": [
+                            "19:00",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/16_7102.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "135 min "
+                        ],
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY"
+                    },
+                    {
                         "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "englishTitle": "JOHN WICK: CHAPTER 2 (2D) SUB",
                         "scheduleToday": [
-                            "16:20",
                             "18:50",
                             "21:20"
                         ],
@@ -2987,14 +3387,13 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34"
                     },
                     {
-                        "spanishTitle": "THE GREAT WALL (3D) SUB",
-                        "englishTitle": "THE GREAT WALL (3D) SUB",
+                        "spanishTitle": "THE GREAT WALL (2D) SUB",
+                        "englishTitle": "THE GREAT WALL (2D) SUB",
                         "scheduleToday": [
-                            "16:45",
-                            "18:55",
+                            "21:05",
                             "21:05"
                         ],
-                        "linkForImage": "../images/posters/16_7035.jpg",
+                        "linkForImage": "../images/posters/16_7032.jpg",
                         "showTimeData": [
                             "En InglesSubtitulada",
                             "R/14 ",
@@ -3008,7 +3407,7 @@
                         "spanishTitle": "SPLIT (2D) SUB",
                         "englishTitle": "SPLIT (2D) SUB",
                         "scheduleToday": [
-                            "20:05"
+                            "20:30"
                         ],
                         "linkForImage": "../images/posters/16_7028.jpg",
                         "showTimeData": [
@@ -3024,8 +3423,6 @@
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
-                            "17:15",
                             "19:00",
                             "21:20"
                         ],
@@ -3043,12 +3440,11 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "19:35",
-                            "21:40"
+                            "18:45"
                         ],
                         "linkForImage": "../images/posters/16_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -3079,11 +3475,18 @@
                             "Domingo": [
                                 "19:35",
                                 "21:40"
+                            ],
+                            "Lunes": [
+                                "19:35",
+                                "21:40"
+                            ],
+                            "Martes": [
+                                "18:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -3118,6 +3521,16 @@
                                 "17:15",
                                 "19:00",
                                 "21:20"
+                            ],
+                            "Lunes": [
+                                "16:40",
+                                "17:15",
+                                "19:00",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:20"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7010&tipoimagen=poster",
@@ -3145,6 +3558,12 @@
                             ],
                             "Domingo": [
                                 "20:05"
+                            ],
+                            "Lunes": [
+                                "20:05"
+                            ],
+                            "Martes": [
+                                "20:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
@@ -3156,6 +3575,25 @@
                             "         120 min"
                         ],
                         "sinopsis": "A pesar de que Kevin (James McAvoy) le ha demostrado a su psiquiatra de confianza,la Dra. Fletcher (Betty Buckley),que posee 23 personalidades diferentes,aún queda una por emerger,decidida a dominar a todas las demás. Obligado a raptar a tres chicas adolescentes encabezadas por la decidida y observadora Casey (Anya Taylor-Joy),Kevin lucha por sobrevivir contra todas sus personalidades y la gente que le rodea,a medida que las paredes de sus compartimentos mentales se derrumban."
+                    },
+                    {
+                        "spanishTitle": "THE GREAT WALL (2D) SUB",
+                        "englishTitle": "THE GREAT WALL (2D) SUB",
+                        "weekDaySchedule": {
+                            "Martes": [
+                                "21:05",
+                                "21:05"
+                            ]
+                        },
+                        "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "urlTrailer": "https://www.youtube.com/watch?v=LVw9YdP1O-0",
+                        "language": "En Ingles Subtitulada",
+                        "showTimeData": [
+                            "R/14 ",
+                            "         Acción ",
+                            "         105 min"
+                        ],
+                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana."
                     },
                     {
                         "spanishTitle": "THE GREAT WALL (3D) SUB",
@@ -3177,6 +3615,11 @@
                                 "21:05"
                             ],
                             "Domingo": [
+                                "16:45",
+                                "18:55",
+                                "21:05"
+                            ],
+                            "Lunes": [
                                 "16:45",
                                 "18:55",
                                 "21:05"
@@ -3213,6 +3656,15 @@
                             ],
                             "Domingo": [
                                 "16:20",
+                                "18:50",
+                                "21:20"
+                            ],
+                            "Lunes": [
+                                "16:20",
+                                "18:50",
+                                "21:20"
+                            ],
+                            "Martes": [
                                 "18:50",
                                 "21:20"
                             ]
@@ -3269,11 +3721,20 @@
                                 "17:15",
                                 "19:15",
                                 "21:15"
+                            ],
+                            "Lunes": [
+                                "17:15",
+                                "19:15",
+                                "21:15"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:15"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -3294,12 +3755,19 @@
                                 "18:20"
                             ],
                             "Sabado": [
-                                "16:45",
+                                "16:35",
                                 "18:20"
                             ],
                             "Domingo": [
                                 "16:35",
                                 "18:20"
+                            ],
+                            "Lunes": [
+                                "16:35",
+                                "18:20"
+                            ],
+                            "Martes": [
+                                "18:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7112&tipoimagen=poster",
@@ -3350,23 +3818,8 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
                         "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
                         "date": "28/02/2017"
                     },
                     {
@@ -3378,6 +3831,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
                         "movieName": "SPLIT (2D) SUB",
                         "date": "16/02/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
+                        "movieName": "THE GREAT WALL (2D) SUB",
+                        "date": "23/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
@@ -3401,7 +3859,7 @@
                         ],
                         "linkForImage": "../images/posters/17_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -3450,7 +3908,7 @@
                         ],
                         "linkForImage": "../images/posters/17_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -3481,7 +3939,8 @@
                                 "19:30"
                             ],
                             "Lunes": [
-                                "19:00"
+                                "17:25",
+                                "19:30"
                             ],
                             "Martes": [
                                 "19:00"
@@ -3492,7 +3951,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -3523,6 +3982,7 @@
                                 "21:35"
                             ],
                             "Lunes": [
+                                "16:55",
                                 "19:15",
                                 "21:35"
                             ],
@@ -3562,7 +4022,7 @@
                                 "21:35"
                             ],
                             "Lunes": [
-                                "21:05"
+                                "21:35"
                             ],
                             "Martes": [
                                 "21:05"
@@ -3604,8 +4064,9 @@
                                 "21:00"
                             ],
                             "Lunes": [
-                                "18:45",
-                                "20:45"
+                                "17:00",
+                                "19:00",
+                                "21:00"
                             ],
                             "Martes": [
                                 "18:45",
@@ -3618,7 +4079,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -3649,26 +4110,6 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
                         "movieName": "THE GREAT WALL (2D) SUB",
                         "date": "23/02/2017"
@@ -3690,7 +4131,7 @@
                         ],
                         "linkForImage": "../images/posters/18_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -3756,7 +4197,7 @@
                         ],
                         "linkForImage": "../images/posters/18_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -3796,7 +4237,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -3861,7 +4302,7 @@
                             ],
                             "Sabado": [
                                 "18:30",
-                                "20:40"
+                                "21:45"
                             ],
                             "Domingo": [
                                 "18:30",
@@ -3961,7 +4402,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -3997,26 +4438,6 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
                         "movieName": "SPLIT (2D) SUB",
                         "date": "16/02/2017"
@@ -4041,13 +4462,12 @@
                         "spanishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "englishTitle": "EL ENCUENTRO (2D) (Pel.Dom.)",
                         "scheduleToday": [
-                            "17:30",
                             "19:30",
                             "21:30"
                         ],
                         "linkForImage": "../images/posters/19_7110.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "R/14 ",
                             "Drama ",
                             "95 min "
@@ -4056,43 +4476,26 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA"
                     },
                     {
-                        "spanishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
-                        "englishTitle": "JOHN WICK: CHAPTER 2 (2D) ESP",
+                        "spanishTitle": "LOGAN (2D) SUB",
+                        "englishTitle": "LOGAN (2D) SUB",
                         "scheduleToday": [
-                            "16:45"
+                            "19:00",
+                            "21:35"
                         ],
-                        "linkForImage": "../images/posters/19_7096.jpg",
-                        "showTimeData": [
-                            "En EspañolSubtitulada",
-                            "R/18 ",
-                            "Acción ",
-                            "125 min "
-                        ],
-                        "sinopsis": "En esta secuela del éxito de 2014,el legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre,John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=jU1dsoV0P34"
-                    },
-                    {
-                        "spanishTitle": "THE GREAT WALL (2D) SUB",
-                        "englishTitle": "THE GREAT WALL (2D) SUB",
-                        "scheduleToday": [
-                            "19:15",
-                            "21:25"
-                        ],
-                        "linkForImage": "../images/posters/19_7032.jpg",
+                        "linkForImage": "../images/posters/19_7102.jpg",
                         "showTimeData": [
                             "En InglesSubtitulada",
-                            "R/14 ",
+                            "R/16 ",
                             "Acción ",
-                            "105 min "
+                            "135 min "
                         ],
-                        "sinopsis": "China,siglo XV. Un mercenario inglés (Matt Damon) y otro español (Pedro Pascal) son testigos del misterio que rodea a la construcción de la Gran Muralla China; ambos descubrirán que no se construyó para mantener alejados a los mongoles,sino para algo más peligroso: la mítica muralla ha sido edificada para detener la llegada de monstruos devoradores de carne humana.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=LVw9YdP1O-0"
+                        "sinopsis": "Ha pasado un año tras los eventos de \"X-Men: Days of Future Past\". Logan ha decidido no volver a usar sus poderes ni sus garras,pero cuando una malvada organización liderada por Nathaniel Essex intenta utilizar al resto de mutantes que quedan en el mundo,convirtiéndolos en armas para usar en su beneficio,Logan se verá obligado a volver a ser 'Wolverine' una vez más... Tercera película protagonizada por Lobezno,que se basará en la miniserie de cómics \"Wolverine: Old Man Logan\",escrita por Mark Millar e ilustrada por Steve McNiven en 2008 y 2009.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=DekuSxJgpbY"
                     },
                     {
                         "spanishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "englishTitle": "FIFTY SHADES DARKER (2D) (SUB)",
                         "scheduleToday": [
-                            "16:40",
                             "19:00",
                             "21:20"
                         ],
@@ -4110,13 +4513,12 @@
                         "spanishTitle": "EL PLAN PERFECTO (2D)(Pel.Dom)",
                         "englishTitle": "EL PLAN PERFECTO",
                         "scheduleToday": [
-                            "16:40",
                             "18:45",
                             "20:50"
                         ],
                         "linkForImage": "../images/posters/19_6985.jpg",
                         "showTimeData": [
-                            "En EspañolSubtitulada",
+                            "En Español",
                             "S/R ",
                             "Acción ",
                             "100 min "
@@ -4157,6 +4559,10 @@
                                 "18:45",
                                 "20:50"
                             ],
+                            "Martes": [
+                                "18:45",
+                                "20:50"
+                            ],
                             "Miercoles": [
                                 "18:45",
                                 "20:50"
@@ -4164,7 +4570,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=6985&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=dhyIvgpeV70",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "S/R ",
                             "         Acción ",
@@ -4198,6 +4604,10 @@
                             ],
                             "Lunes": [
                                 "16:40",
+                                "19:00",
+                                "21:20"
+                            ],
+                            "Martes": [
                                 "19:00",
                                 "21:20"
                             ],
@@ -4335,6 +4745,10 @@
                                 "19:30",
                                 "21:30"
                             ],
+                            "Martes": [
+                                "19:30",
+                                "21:30"
+                            ],
                             "Miercoles": [
                                 "19:30",
                                 "21:30"
@@ -4342,7 +4756,7 @@
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7110&tipoimagen=poster",
                         "urlTrailer": "https://www.youtube.com/watch?v=MLOnwB0ZzHA",
-                        "language": "En Español Subtitulada",
+                        "language": "En Español",
                         "showTimeData": [
                             "R/14 ",
                             "         Drama ",
@@ -4358,8 +4772,8 @@
             {
                 "comingSoon": [
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7026&tipoimagen=poster",
-                        "movieName": "A CURE FOR WELLNESS (2D) SUB",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7027&tipoimagen=poster",
+                        "movieName": "A CURE FOR WELLNESS (2D) ESP",
                         "date": "16/02/2017"
                     },
                     {
@@ -4373,19 +4787,14 @@
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7095&tipoimagen=poster",
-                        "movieName": "JOHN WICK: CHAPTER 2 (2D) SUB",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7096&tipoimagen=poster",
+                        "movieName": "JOHN WICK: CHAPTER 2 (2D) ESP",
                         "date": "09/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7016&tipoimagen=poster",
-                        "movieName": "LEGO BATMAN (2D) ESP",
-                        "date": "09/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7103&tipoimagen=poster",
-                        "movieName": "LOGAN (2D) ESP",
-                        "date": "28/02/2017"
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7002&tipoimagen=poster",
+                        "movieName": "LA LA LAND (2D) (SUB)",
+                        "date": "02/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
@@ -4393,49 +4802,14 @@
                         "date": "28/02/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7105&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) ESP",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7104&tipoimagen=poster",
-                        "movieName": "LOGAN (IMAX-2D) SUB",
-                        "date": "28/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7000&tipoimagen=poster",
-                        "movieName": "MISS SLOANE (2D) (SUB)",
-                        "date": "02/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7007&tipoimagen=poster",
-                        "movieName": "RINGS (2D) (SUB)",
-                        "date": "02/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7112&tipoimagen=poster",
-                        "movieName": "ROCK DOG (2D) ESP",
-                        "date": "23/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7028&tipoimagen=poster",
-                        "movieName": "SPLIT (2D) SUB",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7029&tipoimagen=poster",
+                        "movieName": "SPLIT (2D) ESP",
                         "date": "16/02/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7032&tipoimagen=poster",
                         "movieName": "THE GREAT WALL (2D) SUB",
                         "date": "23/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7035&tipoimagen=poster",
-                        "movieName": "THE GREAT WALL (3D) SUB",
-                        "date": "23/02/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7006&tipoimagen=poster",
-                        "movieName": "VOCES DE LA CALLE (2D)",
-                        "date": "02/02/2017"
                     }
                 ]
             }

@@ -40,7 +40,7 @@ var complexObject = {
   19: ["11", "12", "13", "14", "15"],
   21: ["16"],
   22: ["17"],
-  23: ["18", "19"]
+  23: ["19"]
 };
 
 var cinesObject = {
@@ -371,6 +371,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                               })
                               .catch(function(error) {
                                 console.error('Detail movie error:', error);
+                                detailNext();
+
                               });
 
                           },

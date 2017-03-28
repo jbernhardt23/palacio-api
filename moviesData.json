@@ -73,7 +73,7 @@
                             "Romance ",
                             "125 min "
                         ],
-                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita.",
+                        "sinopsis": "La película sigue a cinco ordinarios jóvenes en la preparatoria que tienen que convertirse en algo extraordinario cuando descubren que su modesto poblado de Angel Grove –y el resto del mundo– está al borde de la aniquilación por una amenaza alienígena. Elegidos por el destino,nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta. Pero para lograrlo tendrán que superar problemas de la vida real y unirse como los Power Rangers antes de que sea demasiado tarde.",
                         "urlTrailer": "https://www.youtube.com/watch?v=OvW_L8sTu5E"
                     },
                     {
@@ -389,7 +389,7 @@
                             "         Romance ",
                             "         125 min"
                         ],
-                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita."
+                        "sinopsis": "La película sigue a cinco ordinarios jóvenes en la preparatoria que tienen que convertirse en algo extraordinario cuando descubren que su modesto poblado de Angel Grove –y el resto del mundo– está al borde de la aniquilación por una amenaza alienígena. Elegidos por el destino,nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta. Pero para lograrlo tendrán que superar problemas de la vida real y unirse como los Power Rangers antes de que sea demasiado tarde."
                     },
                     {
                         "spanishTitle": "REINBOU (2D) ESP",
@@ -569,33 +569,63 @@
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) ESP",
+                        "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) SUB",
+                        "movieName": "GHOST IN THE SHELL (2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7140&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) ESP",
+                        "movieName": "GHOST IN THE SHELL (3D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7139&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) SUB",
+                        "movieName": "GHOST IN THE SHELL (3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7141&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-2D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7142&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-3D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
@@ -644,7 +674,7 @@
                         "linkForImage": "../images/posters/12_7160.jpg",
                         "showTimeData": [
                             "En InglesSubtitulada",
-                            "R/12 ",
+                            "R/18 ",
                             "Drama ",
                             "175 min "
                         ],
@@ -675,7 +705,7 @@
                         "date": "martes 28 de marzo de 2017",
                         "scheduleToday": [
                             "19:10",
-                            "20:05",
+                            "21:00",
                             "21:40"
                         ],
                         "linkForImage": "../images/posters/12_7155.jpg",
@@ -728,6 +758,7 @@
                         "date": "martes 28 de marzo de 2017",
                         "scheduleToday": [
                             "18:45",
+                            "20:20",
                             "21:15"
                         ],
                         "linkForImage": "../images/posters/12_7144.jpg",
@@ -741,28 +772,11 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=OvW_L8sTu5E"
                     },
                     {
-                        "spanishTitle": "KONG (2D) SUB",
-                        "englishTitle": "KONG (2D) SUB",
-                        "date": "martes 28 de marzo de 2017",
-                        "scheduleToday": [
-                            "18:30"
-                        ],
-                        "linkForImage": "../images/posters/12_7123.jpg",
-                        "showTimeData": [
-                            "En InglesSubtitulada",
-                            "R/16 ",
-                            "Aventura ",
-                            "120 min "
-                        ],
-                        "sinopsis": "Un diverso equipo de exploradores es reunido para aventurarse en el interior de una isla del Pacífico -tan bella como traicionera- que no aparece en los mapas,sin saber que están invadiendo los dominios del mítico King Kong.",
-                        "urlTrailer": "https://www.youtube.com/watch?v=xfknzBAdPyA"
-                    },
-                    {
                         "spanishTitle": "LOGAN (2D) SUB",
                         "englishTitle": "LOGAN (2D) SUB",
                         "date": "martes 28 de marzo de 2017",
                         "scheduleToday": [
-                            "20:55"
+                            "18:30"
                         ],
                         "linkForImage": "../images/posters/12_7102.jpg",
                         "showTimeData": [
@@ -800,10 +814,10 @@
                                 "20:55"
                             ],
                             "Martes": [
-                                "20:55"
+                                "18:30"
                             ],
                             "Miercoles": [
-                                "20:55"
+                                "18:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7102&tipoimagen=poster",
@@ -837,12 +851,6 @@
                                 "18:55"
                             ],
                             "Lunes": [
-                                "18:30"
-                            ],
-                            "Martes": [
-                                "18:30"
-                            ],
-                            "Miercoles": [
                                 "18:30"
                             ]
                         },
@@ -887,10 +895,12 @@
                             ],
                             "Martes": [
                                 "18:45",
+                                "20:20",
                                 "21:15"
                             ],
                             "Miercoles": [
                                 "18:45",
+                                "20:20",
                                 "21:15"
                             ]
                         },
@@ -1016,12 +1026,12 @@
                             ],
                             "Martes": [
                                 "19:10",
-                                "20:05",
+                                "21:00",
                                 "21:40"
                             ],
                             "Miercoles": [
                                 "19:10",
-                                "20:05",
+                                "21:00",
                                 "21:40"
                             ]
                         },
@@ -1106,7 +1116,7 @@
                         "urlTrailer": "https://www.youtube.com/watch?v=j-D0QiMpGKc",
                         "language": "En Ingles Subtitulada",
                         "showTimeData": [
-                            "R/12 ",
+                            "R/18 ",
                             "         Drama ",
                             "         175 min"
                         ],
@@ -1179,9 +1189,39 @@
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7160&tipoimagen=poster",
                         "movieName": "CASINO (2D) SUB",
                         "date": "23/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7152&tipoimagen=poster",
@@ -1190,32 +1230,32 @@
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) ESP",
+                        "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) SUB",
+                        "movieName": "GHOST IN THE SHELL (2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7140&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) ESP",
+                        "movieName": "GHOST IN THE SHELL (3D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7139&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) SUB",
+                        "movieName": "GHOST IN THE SHELL (3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7141&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-2D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7142&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-3D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
@@ -1719,44 +1759,79 @@
             {
                 "comingSoon": [
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7148&tipoimagen=poster",
-                        "movieName": "BEAUTY-BEAST (IMAX-3D) SUB",
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7144&tipoimagen=poster",
+                        "movieName": "BEAUTY AND THE BEAST (2D) ESP",
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7143&tipoimagen=poster",
+                        "movieName": "BEAUTY AND THE BEAST (2D) SUB",
+                        "date": "16/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7146&tipoimagen=poster",
+                        "movieName": "BEAUTY AND THE BEAST (3D) ESP",
+                        "date": "16/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) ESP",
+                        "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) SUB",
+                        "movieName": "GHOST IN THE SHELL (2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7140&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) ESP",
+                        "movieName": "GHOST IN THE SHELL (3D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7139&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) SUB",
+                        "movieName": "GHOST IN THE SHELL (3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7141&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-2D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7142&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-3D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-3D) SUB",
                         "date": "30/03/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7128&tipoimagen=poster",
-                        "movieName": "JACKIE (2D) SUB",
-                        "date": "09/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7123&tipoimagen=poster",
@@ -1769,9 +1844,9 @@
                         "date": "23/03/2017"
                     },
                     {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7117&tipoimagen=poster",
-                        "movieName": "MOONLIGHT (2D) SUB",
-                        "date": "02/03/2017"
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7155&tipoimagen=poster",
+                        "movieName": "POWER RANGERS (2D) ESP",
+                        "date": "23/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7154&tipoimagen=poster",
@@ -1781,11 +1856,6 @@
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7151&tipoimagen=poster",
                         "movieName": "REINBOU (2D) ESP",
-                        "date": "16/03/2017"
-                    },
-                    {
-                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7149&tipoimagen=poster",
-                        "movieName": "THE FOUNDER (2D) SUB",
                         "date": "16/03/2017"
                     }
                 ]
@@ -2579,33 +2649,63 @@
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) ESP",
+                        "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) SUB",
+                        "movieName": "GHOST IN THE SHELL (2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7140&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) ESP",
+                        "movieName": "GHOST IN THE SHELL (3D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7139&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) SUB",
+                        "movieName": "GHOST IN THE SHELL (3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7141&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-2D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7142&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-3D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
@@ -3242,33 +3342,63 @@
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) ESP",
+                        "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (2D) SUB",
+                        "movieName": "GHOST IN THE SHELL (2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7140&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) ESP",
+                        "movieName": "GHOST IN THE SHELL (3D) ESP",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7139&tipoimagen=poster",
-                        "movieName": "GHOTS IN THE SHELL (3D) SUB",
+                        "movieName": "GHOST IN THE SHELL (3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7141&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-2D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-2D) SUB",
                         "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7142&tipoimagen=poster",
-                        "movieName": "GHOTS-SHELL (IMAX-3D) SUB",
+                        "movieName": "GHOST-SHELL (IMAX-3D) SUB",
                         "date": "30/03/2017"
                     },
                     {
@@ -3721,6 +3851,36 @@
                         "date": "16/03/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
                         "movieName": "GHOST IN THE SHELL (2D) ESP",
                         "date": "30/03/2017"
@@ -4106,6 +4266,36 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7145&tipoimagen=poster",
                         "movieName": "BEAUTY AND THE BEAST (3D) SUB",
                         "date": "16/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",
@@ -4587,6 +4777,36 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7146&tipoimagen=poster",
                         "movieName": "BEAUTY AND THE BEAST (3D) ESP",
                         "date": "16/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7168&tipoimagen=poster",
+                        "movieName": "BOSS BABY (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7169&tipoimagen=poster",
+                        "movieName": "BOSS BABY (3D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7170&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) ESP",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
+                        "movieName": "CHIPS (2D) SUB",
+                        "date": "30/03/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
+                        "movieName": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "30/03/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7138&tipoimagen=poster",

@@ -79,6 +79,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
             var currentCity = $('#contHeaderCity').text().replace("cambiar ciudad >>", "");
             currentCity = currentCity.replace(/\t|\n/g, "").trim();
 
+            
             //Looping on each div for seccion de Carterla para Hoy
             $('.showtimeDaily').each(function(index, element) {
 
@@ -87,6 +88,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                 spanishTitle: "",
                 englishTitle: "",
+                date:"",
                 scheduleToday: [],
                 linkForImage: "",
                 showTimeData: []
@@ -94,6 +96,8 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
               var scheduleHoursArray = [];
 
+              //date
+              dailyMoviesObject.date = $('#contHeaderDate').text();
               //spanish title
               dailyMoviesObject.spanishTitle = $(this).find('h3').children().text();
               //english title
@@ -126,6 +130,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
               .wait(function() {
                 return document.readyState === "complete"
               })
+              .wait('.showtimeWeekly')
               .evaluate(function() {
                 return document.body.innerHTML;
               })
@@ -214,8 +219,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                   // console.log(weeklyMoviesObject);
                 });
 
-
-
                 finalWeekly = {
                   weekly: weeklyArray
                 }
@@ -226,6 +229,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                   .wait(function() {
                     return document.readyState === "complete"
                   })
+                  .wait('.contentBlock')
                   .evaluate(function() {
                     return document.body.innerHTML;
                   })
@@ -280,6 +284,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                       .wait(function() {
                         return document.readyState === "complete"
                       })
+                      .wait('.comingSoonBlock')
                       .evaluate(function() {
 
                         return document.body.innerHTML;
@@ -325,20 +330,26 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
 
                             if (countWeek >= 10) {
                               weekleySelector = 'a[id = "ctl00_ContentPlaceHolder1_inc_showtime_weekly1_rptPeliculas_ctl' + countWeek + '_lnkTitulo"]';
+                               console.log('toi count week 1');
                             } else {
                               weekleySelector = 'a[id = "ctl00_ContentPlaceHolder1_inc_showtime_weekly1_rptPeliculas_ctl0' + countWeek + '_lnkTitulo"]';
-
+                               console.log('toi count week 2');
                             }
 
                             nightmare
                               .click('a[href*= "../showtimes/weekly.aspx"]')
+                              .wait(2000)
                               .wait(function() {
                                 return document.readyState === "complete";
                               })
+                              .wait(2000)
+                              .wait(weekleySelector)
                               .click(weekleySelector)
                               .wait(function() {
                                 return document.readyState === "complete";
                               })
+                              .wait(2000)
+                              .wait('.showtimeInfo')
                               .evaluate(function() {
                                 return document.body.innerHTML;
                               })
@@ -346,27 +357,25 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                                 var $ = cheerio.load(datailBody);
                                 console.log("---> Scraping detail daily movie for: " + detailItem.englishTitle);
 
-
                                 if ($('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() !== undefined || $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text() === "") {
                                   //sinopsis
                                   detailItem.sinopsis = $('.showtimeInfo').find('table').children('tbody').children('tr').first().children('td').text();
                                 }
 
                                 nightmare
-                                  .wait(function() {
-                                    return document.readyState === "complete";
-                                  })
+                                  .wait(2000)
                                   .back()
-                                  .wait(function() {
-                                    return document.readyState === "complete";
-                                  })
-                                  .evaluate(function() {
-                                    return document.body.innerHTML;
-                                  })
+                                  .wait(2000)
                                   .then(function() {
+                                      console.error('toi aki 3 ');
                                     countWeek++;
                                     detailNext();
-                                  });
+                                  })
+                                  .catch(function(error) {
+                                    console.error('Moving back to weekly:', error);
+
+                                   });
+                                  
 
                               })
                               .catch(function(error) {
@@ -380,7 +389,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                             if (err) {
                               return console.log(err);
                             } else {
-
+                                console.error('Me vine');
                               //nighmare to go front page to change city
                               nightmare
                                 .click('a[href="../index.aspx?c=true"]')

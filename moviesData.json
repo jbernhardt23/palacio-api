@@ -2,7 +2,134 @@
     "Santo Domingo": {
         "ÁGORA MALL": [
             {
-                "daily": []
+                "daily": [
+                    {
+                        "spanishTitle": "EL HOMBRE QUE CUIDA (2D)",
+                        "englishTitle": "EL HOMBRE QUE CUIDA (2D)",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:10"
+                        ],
+                        "linkForImage": "../images/posters/11_7172.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/18 ",
+                            "Acción ",
+                            "85 min "
+                        ],
+                        "sinopsis": "Juan se ha convertido en el hazmerreír del pequeño pueblo de pescadores,debido a su esposa infiel y quedar embarazada por otro hombre. Ha dejado la pesca y ahora se preocupa obsesivamente por una ostentosa mansión de una familia adinerada. Un día,el joven hijo del dueño demuestra para arriba en la casa,sin permiso de su padre y cargado con alcohol,con un amigo extranjero y una chica de pueblo que acaba de conocer. Durante el transcurso del fin de semana,Juan tendrá que tomar decisiones que afectarán el resto de su vida.\n\nJuan,una vez un pescador,comienza a trabajar como vigilante,en una casa de playa,poco después su esposa lo engañada y consigue embarazado. Encerró en una especie de retiro self-imposed,nadie se da la bienvenida a la casa; excepto el propietario y su familia. Un día inesperadamente,hijo del dueño demuestra para arriba con un grupo de amigos.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=N1k3JG1899E"
+                    },
+                    {
+                        "spanishTitle": "CHIPS (2D) SUB",
+                        "englishTitle": "CHIPS (2D) SUB",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:30",
+                            "21:35"
+                        ],
+                        "linkForImage": "../images/posters/11_7171.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Acción ",
+                            "100 min "
+                        ],
+                        "sinopsis": "Narra las aventuras de dos policías motorizados mientras hacen su ronda por las autopistas de Los Angeles",
+                        "urlTrailer": "https://www.youtube.com/watch?v=nmgeiznfdLI"
+                    },
+                    {
+                        "spanishTitle": "BOSS BABY (2D) ESP",
+                        "englishTitle": "BOSS BABY (2D) ESP",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:30",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/11_7167.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Animación ",
+                            "100 min "
+                        ],
+                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=NHUoHkTg9RM"
+                    },
+                    {
+                        "spanishTitle": "LIFE (2D) SUB",
+                        "englishTitle": "LIFE (2D) SUB",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "22:00"
+                        ],
+                        "linkForImage": "../images/posters/11_7156.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/18 ",
+                            "Ciencia-Ficción ",
+                            "105 min "
+                        ],
+                        "sinopsis": "Seis miembros de la tripulación de la Estación Espacial Internacional que están a punto de lograr uno de los descubrimientos más importantes en la historia humana: la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus métodos tienen consecuencias inesperadas,la forma viviente demostrará ser más inteligente de lo que cualquiera esperaba.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=LeLsJfGmY_Y"
+                    },
+                    {
+                        "spanishTitle": "POWER RANGERS (2D) ESP",
+                        "englishTitle": "POWER RANGERS (2D) ESP",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:00",
+                            "21:30"
+                        ],
+                        "linkForImage": "../images/posters/11_7155.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "R/14 ",
+                            "Acción ",
+                            "125 min "
+                        ],
+                        "sinopsis": "La película sigue a cinco ordinarios jóvenes en la preparatoria que tienen que convertirse en algo extraordinario cuando descubren que su modesto poblado de Angel Grove –y el resto del mundo– está al borde de la aniquilación por una amenaza alienígena. Elegidos por el destino,nuestros héroes descubren rápidamente que son los únicos que pueden salvar al planeta. Pero para lograrlo tendrán que superar problemas de la vida real y unirse como los Power Rangers antes de que sea demasiado tarde.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=5kIe6UZHSXw"
+                    },
+                    {
+                        "spanishTitle": "BEAUTY AND THE BEAST (2D) ESP",
+                        "englishTitle": "BEAUTY AND THE BEAST (2D) ESP",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:20",
+                            "19:45",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/11_7144.jpg",
+                        "showTimeData": [
+                            "En Español",
+                            "S/R ",
+                            "Romance ",
+                            "125 min "
+                        ],
+                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=OvW_L8sTu5E"
+                    },
+                    {
+                        "spanishTitle": "GHOST IN THE SHELL (2D) SUB",
+                        "englishTitle": "GHOST IN THE SHELL (2D) SUB",
+                        "date": "lunes 3 de abril de 2017",
+                        "scheduleToday": [
+                            "19:15",
+                            "21:00",
+                            "21:45"
+                        ],
+                        "linkForImage": "../images/posters/11_7137.jpg",
+                        "showTimeData": [
+                            "En InglesSubtitulada",
+                            "R/16 ",
+                            "Ciencia-Ficción ",
+                            "120 min "
+                        ],
+                        "sinopsis": "Basada en la internacionalmente aclamada saga de ciencia ficción,“GHOST IN THE SHELL” narra la historia de the Major,un híbrido cyborg-humano femenino único en su especie,de operaciones especiales,que dirige un grupo operativo de elite llamado Sección 9. Consagrada a detener a los extremistas y criminales más peligrosos,la Sección 9 se enfrenta a un enemigo cuyo objetivo principal consiste en anular los avances de Hanka Robotic en el campo de la ciber-tecnología.",
+                        "urlTrailer": "https://www.youtube.com/watch?v=tRkb1X9ovI4"
+                    }
+                ]
             },
             {
                 "weekly": [
@@ -34,6 +161,21 @@
                                 "19:25",
                                 "21:10",
                                 "22:00"
+                            ],
+                            "Lunes": [
+                                "19:15",
+                                "21:00",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:15",
+                                "21:00",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:15",
+                                "21:00",
+                                "21:45"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7137&tipoimagen=poster",
@@ -78,6 +220,21 @@
                                 "17:25",
                                 "19:10",
                                 "20:30",
+                                "21:45"
+                            ],
+                            "Lunes": [
+                                "19:20",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Martes": [
+                                "19:20",
+                                "19:45",
+                                "21:45"
+                            ],
+                            "Miercoles": [
+                                "19:20",
+                                "19:45",
                                 "21:45"
                             ]
                         },
@@ -128,6 +285,18 @@
                             "Domingo": [
                                 "15:00",
                                 "17:30"
+                            ],
+                            "Lunes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:00",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:00",
+                                "21:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7155&tipoimagen=poster",
@@ -158,6 +327,15 @@
                             ],
                             "Domingo": [
                                 "20:00",
+                                "22:00"
+                            ],
+                            "Lunes": [
+                                "22:00"
+                            ],
+                            "Martes": [
+                                "22:00"
+                            ],
+                            "Miercoles": [
                                 "22:00"
                             ]
                         },
@@ -197,6 +375,18 @@
                                 "19:45",
                                 "21:20",
                                 "22:00"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:30"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:30"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7167&tipoimagen=poster",
@@ -207,7 +397,7 @@
                             "         Animación ",
                             "         100 min"
                         ],
-                        "sinopsis": "Un peculiar bebé,que viste traje y corbata y lleva maletín,y su hermano Tim,de 7 años,tratarán de detener los malvados planes del director de la empresa Puppy Corporation."
+                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita."
                     },
                     {
                         "spanishTitle": "CHIPS (2D) SUB",
@@ -232,6 +422,18 @@
                             "Domingo": [
                                 "16:45",
                                 "19:00"
+                            ],
+                            "Lunes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Martes": [
+                                "19:30",
+                                "21:35"
+                            ],
+                            "Miercoles": [
+                                "19:30",
+                                "21:35"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7171&tipoimagen=poster",
@@ -263,6 +465,15 @@
                             "Domingo": [
                                 "15:25",
                                 "17:15"
+                            ],
+                            "Lunes": [
+                                "19:10"
+                            ],
+                            "Martes": [
+                                "19:10"
+                            ],
+                            "Miercoles": [
+                                "19:10"
                             ]
                         },
                         "linkForImage": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7172&tipoimagen=poster",
@@ -286,6 +497,11 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7153&tipoimagen=poster",
                         "movieName": "ARGENTARIUM",
                         "date": "01/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
@@ -318,6 +534,16 @@
                         "date": "13/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
                         "movieName": "LOS PITUFOS (2D) ESP",
                         "date": "06/04/2017"
@@ -348,6 +574,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -363,7 +599,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -457,7 +703,7 @@
                             "Ciencia-Ficción ",
                             "105 min "
                         ],
-                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita.",
+                        "sinopsis": "Seis miembros de la tripulación de la Estación Espacial Internacional que están a punto de lograr uno de los descubrimientos más importantes en la historia humana: la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus métodos tienen consecuencias inesperadas,la forma viviente demostrará ser más inteligente de lo que cualquiera esperaba.",
                         "urlTrailer": "https://www.youtube.com/watch?v=LeLsJfGmY_Y"
                     },
                     {
@@ -684,7 +930,7 @@
                             "         Ciencia-Ficción ",
                             "         105 min"
                         ],
-                        "sinopsis": "Adaptación en imagen real del clásico de Disney \"La bella y la bestia\",que cuenta la historia de una joven que para salvar a su padre,decide ir a un castillo y quedar ahí atrapada junto a una bestia maldita."
+                        "sinopsis": "Seis miembros de la tripulación de la Estación Espacial Internacional que están a punto de lograr uno de los descubrimientos más importantes en la historia humana: la primera evidencia de vida extraterrestre en Marte. A medida que el equipo comienza a investigar y sus métodos tienen consecuencias inesperadas,la forma viviente demostrará ser más inteligente de lo que cualquiera esperaba."
                     },
                     {
                         "spanishTitle": "CASINO (2D) SUB",
@@ -910,6 +1156,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -938,6 +1189,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -970,6 +1231,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -985,7 +1256,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -1501,6 +1782,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -1529,6 +1815,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -1561,6 +1857,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -1576,7 +1882,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -1636,7 +1952,7 @@
                             "Animación ",
                             "100 min "
                         ],
-                        "sinopsis": "Juan se ha convertido en el hazmerreír del pequeño pueblo de pescadores,debido a su esposa infiel y quedar embarazada por otro hombre. Ha dejado la pesca y ahora se preocupa obsesivamente por una ostentosa mansión de una familia adinerada. Un día,el joven hijo del dueño demuestra para arriba en la casa,sin permiso de su padre y cargado con alcohol,con un amigo extranjero y una chica de pueblo que acaba de conocer. Durante el transcurso del fin de semana,Juan tendrá que tomar decisiones que afectarán el resto de su vida.\n\nJuan,una vez un pescador,comienza a trabajar como vigilante,en una casa de playa,poco después su esposa lo engañada y consigue embarazado. Encerró en una especie de retiro self-imposed,nadie se da la bienvenida a la casa; excepto el propietario y su familia. Un día inesperadamente,hijo del dueño demuestra para arriba con un grupo de amigos.",
+                        "sinopsis": "Un peculiar bebé,que viste traje y corbata y lleva maletín,y su hermano Tim,de 7 años,tratarán de detener los malvados planes del director de la empresa Puppy Corporation.",
                         "urlTrailer": "https://www.youtube.com/watch?v=NHUoHkTg9RM"
                     },
                     {
@@ -2258,7 +2574,7 @@
                             "         Animación ",
                             "         100 min"
                         ],
-                        "sinopsis": "Juan se ha convertido en el hazmerreír del pequeño pueblo de pescadores,debido a su esposa infiel y quedar embarazada por otro hombre. Ha dejado la pesca y ahora se preocupa obsesivamente por una ostentosa mansión de una familia adinerada. Un día,el joven hijo del dueño demuestra para arriba en la casa,sin permiso de su padre y cargado con alcohol,con un amigo extranjero y una chica de pueblo que acaba de conocer. Durante el transcurso del fin de semana,Juan tendrá que tomar decisiones que afectarán el resto de su vida.\n\nJuan,una vez un pescador,comienza a trabajar como vigilante,en una casa de playa,poco después su esposa lo engañada y consigue embarazado. Encerró en una especie de retiro self-imposed,nadie se da la bienvenida a la casa; excepto el propietario y su familia. Un día inesperadamente,hijo del dueño demuestra para arriba con un grupo de amigos."
+                        "sinopsis": "Un peculiar bebé,que viste traje y corbata y lleva maletín,y su hermano Tim,de 7 años,tratarán de detener los malvados planes del director de la empresa Puppy Corporation."
                     },
                     {
                         "spanishTitle": "BOSS BABY (2D) SUB",
@@ -2375,6 +2691,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -2403,6 +2724,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -2435,6 +2766,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -2450,7 +2791,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -3014,6 +3365,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -3042,6 +3398,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -3074,6 +3440,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -3089,7 +3465,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -3659,6 +4045,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -3687,6 +4078,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -3719,6 +4120,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -3734,7 +4145,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -4060,6 +4481,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -4088,6 +4514,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -4120,6 +4556,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -4135,7 +4581,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }
@@ -4545,6 +5001,11 @@
             {
                 "comingSoon": [
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7176&tipoimagen=poster",
+                        "movieName": "ARGENTARIUM",
+                        "date": "22/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7132&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (2D) ESP",
                         "date": "13/04/2017"
@@ -4573,6 +5034,16 @@
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7136&tipoimagen=poster",
                         "movieName": "FAST & FURIOUS 8 (IMAX-3D) SUB",
                         "date": "13/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7178&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7177&tipoimagen=poster",
+                        "movieName": "GOING IN STYLE (2D) SUB",
+                        "date": "06/04/2017"
                     },
                     {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7161&tipoimagen=poster",
@@ -4605,6 +5076,16 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7180&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7179&tipoimagen=poster",
+                        "movieName": "MASTERMINDS (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7043&tipoimagen=poster",
                         "movieName": "PATRIOTS DAY (2D) ESP",
                         "date": "20/04/2017"
@@ -4620,7 +5101,17 @@
                         "date": "06/04/2017"
                     },
                     {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7175&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) ESP",
+                        "date": "06/04/2017"
+                    },
+                    {
                         "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7040&tipoimagen=poster",
+                        "movieName": "THE SHACK (2D) SUB",
+                        "date": "06/04/2017"
+                    },
+                    {
+                        "image": "../inc/VerImagen.aspx?idWebSite=1&idFeature=7174&tipoimagen=poster",
                         "movieName": "THE SHACK (2D) SUB",
                         "date": "06/04/2017"
                     }

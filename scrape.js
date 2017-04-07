@@ -97,7 +97,9 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
               var scheduleHoursArray = [];
 
               //date
-              dailyMoviesObject.date = $('#contHeaderDate').text();
+              if(items == "12")
+                dailyMoviesObject.date = $('#contHeaderDate').text();
+
               //spanish title
               dailyMoviesObject.spanishTitle = $(this).find('h3').children().text();
               //english title
@@ -264,9 +266,7 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                           count++;
 
                         }
-
                         cinesArray.push(theatherInformationObject);
-
 
                       });
 
@@ -367,7 +367,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                                   .back()
                                   .wait(2000)
                                   .then(function() {
-                                      console.error('toi aki 3 ');
                                     countWeek++;
                                     detailNext();
                                   })
@@ -389,7 +388,6 @@ async.eachOfSeries(complexObject, function(item, keyDo, next) {
                             if (err) {
                               return console.log(err);
                             } else {
-                                console.error('Me vine');
                               //nighmare to go front page to change city
                               nightmare
                                 .click('a[href="../index.aspx?c=true"]')
